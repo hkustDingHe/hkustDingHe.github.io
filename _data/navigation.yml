@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Us"
-    url: /publications/
+    url: /aboutus/
 
   - title: "Research"
-    url: /talks/    
+    url: /research/    
 
   - title: "Publications"
-    url: /teaching/    
+    url: /publications/    
     
   - title: "Awards and Recreation"
-    url: /portfolio/
+    url: /awardsrecreation/
         
   - title: "Members"
-    url: /year-archive/
+    url: /members/
     
   - title: "Contact Us"
-    url: /cv/
+    url: /contactus/
     
   - title: "Others"
-    url: /markdown/
+    url: /others/
