@@ -22,11 +22,12 @@ repository               : "hkustDingHe/hkustDingHe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "HKUST DREAM Group"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
-  employer         : "The Hong Kong University of Science and Technology"
+  employer         : "The Hong Kong University of 
+                      Science and Technology"
   uri              : # URL
   email            : "none@example.org" 
 
