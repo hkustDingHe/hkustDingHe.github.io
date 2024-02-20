@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Us"
-    url: /aboutus/
+    url: /about/
 
   - title: "Research"
     url: /research/    
@@ -10,13 +10,13 @@ main:
     url: /publications/    
     
   - title: "Awards and Recreation"
-    url: /awardsrecreation/
+    url: /awards/
         
   - title: "Members"
     url: /members/
     
   - title: "Contact Us"
-    url: /contactus/
+    url: /contact/
     
   - title: "Others"
     url: /others/
