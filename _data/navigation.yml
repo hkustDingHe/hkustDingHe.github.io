@@ -9,8 +9,11 @@ main:
   - title: "Publications"
     url: /publications/    
     
-  - title: "Awards and Recreation"
-    url: /awards/
+  - title: "Achievements"
+    url: /achievements/
+
+  - title: "Recreation"
+    url: /recreation/
         
   - title: "Members"
     url: /members/
