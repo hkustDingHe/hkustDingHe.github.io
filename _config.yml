@@ -21,7 +21,7 @@ repository               : "hkustDingHe/hkustDingHe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HKUST.jpg"
   name             : "HKUST DREAM Group"
   pronouns         : # example: "she/her"  
   bio              : "Department of Ocean Science, The Hong Kong University of Science and Technology"
