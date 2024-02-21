@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "    Ding He's Lab     "
+title                    : "Ding He's Lab | HKUST"
 title_separator          : "-"
 name                     : &name "HKUST DREAM Group"
 description              : &description "personal description"
