@@ -18,7 +18,7 @@ author_profile: true
 7.	December 2nd-4th, 2021, The 3rd Symposium on Marine Environmental Pollution and Sustainable Development, Hong Kong, Invited talk (online)
 
 ### Other invited talks (before 2021)
-including invited presentations at University of Georgia, Xiamen University, Ocean University of China, Southern University of Science and Technology, Shanghai Ocean University, Auburn University, China Petroleum University, Tongji University, Fudan University
+&nbsp;&nbsp;&nbsp; Including invited presentations at University of Georgia, Xiamen University, Ocean University of China, Southern University of Science and Technology, Shanghai Ocean University, Auburn University, China Petroleum University, Tongji University, Fudan University
 
 ### Oral Presentation
 1.	**Ding He**, Chen He, Penghui Li, Quan Shi, Yongge Sun, Molecular composition of dissolved organic matter in a temperate urbanized estuary and its biogeochemical implications, ASLO-Ocean Science Meeting, Portland, USA, 2018.
