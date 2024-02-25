@@ -53,6 +53,9 @@ author_profile: true
 ### 2021
 - (40). Wen, Z., Shang, Y., Lyu, L., Liu, G., Hou, J., He, C., Shi, Q., **He, D.***, & Song, K. (2021). Sources and composition of riverine dissolved organic matter to marginal seas from mainland China. Journal of Hydrology, 603, 127152. [(Link)](https://www.sciencedirect.com/science/article/pii/S0022169421012026 )
 - (39). Wang, K., Li, P., He, C., Shi, Q., & **He, D.*** (2021). Density currents affect the vertical evolution of dissolved organic matter chemistry in a large tributary of the Three Gorges Reservoir during the water-level rising period. Water Research, 204, 117609. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135421008046 )
+
+### Before Joining HKUST
+### 2021
 - (38). Hu, T., Luo, M.\*, Wünsch, U. J., **He, D.**, Gieskes, J., Xu, Y., Fang, J., & Chen, D.\* (2021). Probing sedimentary DOM in the deepest sector of Earth's surface. Marine Chemistry, 237, 104033. [(Link)](https://www.sciencedirect.com/science/article/pii/S0304420321001183 )
 - (37). Tao, K., Xu, Y., Wang, Y., Wang, Y., & **He, D.*** (2021). Source, sink and preservation of organic matter from a machine learning approach of polar lipid tracers in sediments and soils from the Yellow River and Bohai Sea, eastern China. Chemical Geology, 582, 120441. [(Link)](https://www.sciencedirect.com/science/article/pii/S0009254121003843 )
 - (36). Wang, K., Pang, Y., He, C., Li, P., Xiao, S., Shi, Q., & **He, D.*** (2021). Three Gorges Reservoir construction induced dissolved organic matter chemistry variation between the reservoir and non-reservoir areas along the Xiangxi tributary. Science of The Total Environment, 784, 147095. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969721021653 )
