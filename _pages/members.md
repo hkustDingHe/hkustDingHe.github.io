@@ -8,7 +8,7 @@ author_profile: true
 
 ### Current members
 <br/><br/>
-<img align="left" style="border:20px solid black" src="/images/bio-photo.jpg" width="200" height="200">  **Dr. Ding He**
+<img align="left" src="/images/bio-photo.jpg" width="200" height="200">  **Dr. Ding He**
 <br>
 Assistant Professor, PI 
 <br/><br/>
