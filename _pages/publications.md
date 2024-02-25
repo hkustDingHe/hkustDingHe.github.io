@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+### Published research articles (* corresponding author):
 ### 2023
 - (79) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, accepted.
 - (78) Liang, W., Chen, X., Zhao, C., Li, L.\*, & **He, D.**\* (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010229)
@@ -111,3 +112,7 @@ author_profile: true
 ### 2010
 - (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. <sup>§</sup>, Shao, J.Z.\* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
 
+### Government report：
+- (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+- (2). Rudolf Jaffé. **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+- (3). Rudolf Jaffé, Bernd. R.T. Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (Typha domingensis P. and Typha latifolia L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
