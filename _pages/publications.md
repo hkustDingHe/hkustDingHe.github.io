@@ -106,5 +106,5 @@ author_profile: true
 - (2). **He, D.**, Mead, R. N., Belicka, L., Pisani, O., & Jaffé, R.* (2014). Assessing source contributions to particulate organic matter in a subtropical estuary: a biomarker approach. Organic Geochemistry, 75, 129-139. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638014001740 )
 
 ### 2010
-- (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. ^§^, Shao, J.Z.* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
+- (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. ^§^, Shao, J.Z.\* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
 
