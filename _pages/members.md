@@ -10,7 +10,7 @@ author_profile: true
 
 ### Current members
 <br/><br/>
-**Dr. Ding He** <img align="left" style="float: left; padding-right: 20px;" src="/images/bio-photo.jpg" width="200"> 
+**Dr. Ding He** <img style="float: left; padding-right: 20px;" src="/images/bio-photo.jpg" width="200"> 
 <br>
 Assistant Professor, PI 
 <br/><br/>
@@ -20,7 +20,7 @@ self-introduction
 Email: dinghe@ust.hk
 
 <br/><br/>
-**Dr. Zhe-Xuan Zhang** <img align="left" style="float: left; padding-right: 20px;" src="/images/zhengzexuan.jpg" width="200"> 
+**Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 20px;" src="/images/zhengzexuan.jpg" width="200"> 
 <br>
 Postdoc (2024-now)
 <br/><br/>
