@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+{% include base_path %}
+
 ### Current members
 <br/><br/>
 <img align="left" src="/images/bio-photo.jpg" width="200" height="200">  **Dr. Ding He**
