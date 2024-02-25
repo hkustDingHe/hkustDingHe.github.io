@@ -30,7 +30,7 @@ Email: zhexuanzhang@ust.hk
 <br/><br/>
 **Dr. Run-Ze Xue** <img style="float: left; padding-right: 20px;" src="/images/xuerunze.jpg" width="200"> 
 <br>
-RA (2024-now)
+RA (2023-now)
 <br/><br/>
 self-introduction
 <br/><br/>
