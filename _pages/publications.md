@@ -114,5 +114,5 @@ author_profile: true
 
 ### Government report：
 - (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
-- (2). Rudolf Jaffé. **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
-- (3). Rudolf Jaffé, Bernd. R.T. Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (Typha domingensis P. and Typha latifolia L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+- (2). Rudolf Jaffé, **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+- (3). Rudolf Jaffé, Bernd. R.T., Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (*Typha domingensis* P. and *Typha latifolia* L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
