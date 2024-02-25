@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2023
 - (79) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, accepted.
-- (78) Liang, W., Chen, X., Zhao, C., Li, L.*, & **He, D.*** (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010229)
+- (78) Liang, W., Chen, X., Zhao, C., Li, L.\*, & **He, D.*** (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010229)
 - (77) Zhao, C., Zhang, H., Li, P., Yi, Y., Zhou, Y., Wang, Y., … & **He, D.*** (2023). Dissolved organic matter cycling revealed from the molecular level in three coastal bays of China. Science of The Total Environment, 166843. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723054682)
 - (76) Wang, H., Zhang, Q., Li, X., Yi, Y., Wang, Q., Gao, L., Wang, J., **He, D.*** & Li, M.* (2023). Surface microrelief induced by tillage management alters the pathway and composition of dissolved organic matter exports from soils to runoff during rainfall. Water Research, 120554. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423009946)
 - (75). Yan, Z., Xin, Y.*, Zhong, X., Yi, Y., Li, P., Wang, Y., Zhou, Y., Zhou, Y., He, C., Shi, Q., **He, D.*** (2023). Dissolved organic nitrogen cycling revealed at the molecular level in the Bohai and Yellow Sea. Water Research, 120446. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423008862.)
@@ -107,3 +107,4 @@ author_profile: true
 
 ### 2010
 - (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. §, Shao, J.Z.* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
+
