@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-###2023
-- (79) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & He, D.* (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, accepted.
+### 2023
+- (79) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*/** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, accepted.
 (78) Liang, W., Chen, X., Zhao, C., Li, L.*, & He, D.* (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. https://www.sciencedirect.com/science/article/pii/S0043135423010229
 (77) Zhao, C., Zhang, H., Li, P., Yi, Y., Zhou, Y., Wang, Y., … & He, D.* (2023). Dissolved organic matter cycling revealed from the molecular level in three coastal bays of China. Science of The Total Environment, 166843. https://www.sciencedirect.com/science/article/pii/S0048969723054682
 (76) Wang, H., Zhang, Q., Li, X., Yi, Y., Wang, Q., Gao, L., Wang, J., He, D.* & Li, M.* (2023). Surface microrelief induced by tillage management alters the pathway and composition of dissolved organic matter exports from soils to runoff during rainfall. Water Research, 120554. https://www.sciencedirect.com/science/article/pii/S0043135423009946
