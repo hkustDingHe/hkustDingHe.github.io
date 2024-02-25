@@ -88,13 +88,13 @@ author_profile: true
 - (12). **He, D.***, Simoneit, B.R., & Jaffé, R. (2018). Environmental factors controlling the distributions of Botryococcus braunii (A, B and L) biomarkers in a subtropical freshwater wetland. Scientific Reports, 8(1), 1-9. [(Link)](https://www.nature.com/articles/s41598-018-26900-9 )
 
 ### 2017
-- (11). **He, D.**, Zhu, C., Zhang, K., Xiao, S., Cui, X., & Sun, Y.* (2017). Source and composition of sedimentary organic matter in the head of Three Gorges Reservoir: a multiproxy approach using δ^13^C, lignin phenols, and lipid biomarker analyses. Acta Geochimica, 36(3), 452-455. [(Link)](https://link.springer.com/article/10.1007/s11631-017-0189-8 )
-- (10). **He, D.***, Ladd, S. N., Sachs, J. P., & Jaffé, R. (2017). Inverse relationship between salinity and 2H/1H fractionation in leaf wax n-alkanes from Florida mangroves. Organic Geochemistry, 110, 1-12. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016302881 )
+- (11). **He, D.**, Zhu, C., Zhang, K., Xiao, S., Cui, X., & Sun, Y.* (2017). Source and composition of sedimentary organic matter in the head of Three Gorges Reservoir: a multiproxy approach using δ<sup>13</sup>C, lignin phenols, and lipid biomarker analyses. Acta Geochimica, 36(3), 452-455. [(Link)](https://link.springer.com/article/10.1007/s11631-017-0189-8 )
+- (10). **He, D.***, Ladd, S. N., Sachs, J. P., & Jaffé, R. (2017). Inverse relationship between salinity and <sup>2</sup>H/<sup>1</sup>H fractionation in leaf wax n-alkanes from Florida mangroves. Organic Geochemistry, 110, 1-12. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016302881 )
 
 ### 2016
 - (9). **He, D.**, Anderson, W.T., & Jaffé, R.* (2016). Compound specific δD and δ13C analyses as a tool for the assessment of hydrological change in a subtropical wetland. Aquatic Sciences, 78(4), 809-822. [(Link)](https://link.springer.com/article/10.1007/s00027-016-0473-4)
 - (8). Rushdi, A. I., Oros, D. R., Al-Mutlaq, K. F., **He, D.**, Medeiros, P.M.*, & Simoneit, B. R. (2016). Lipid, sterol and saccharide sources and dynamics in surface soils during an annual cycle in a temperate climate region. Applied Geochemistry, 66, 1-13. [(Link)](https://www.sciencedirect.com/science/article/pii/S0883292715300731 )
-- (7). **He, D.***, Simoneit, B. R., Xu, Y., & Jaffé, R. (2016). Occurrence of unsaturated C25 highly branched isoprenoids (HBIs) in a freshwater wetland. Organic Geochemistry, 93, 59-67. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016000073 )
+- (7). **He, D.***, Simoneit, B. R., Xu, Y., & Jaffé, R. (2016). Occurrence of unsaturated C<sub>25</sub> highly branched isoprenoids (HBIs) in a freshwater wetland. Organic Geochemistry, 93, 59-67. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016000073 )
 
 ### 2015
 - (6). **He, D.***, Simoneit, B.R., Jara, B., & Jaffé, R. (2015). Compositions and isotopic differences of iso-and anteiso-alkanes in black mangroves (Avicennia germinans) across a salinity gradient in a subtropical estuary. Environmental Chemistry, 13(4), 623-630. [(Link)](https://www.publish.csiro.au/en/en15128 )
@@ -106,5 +106,5 @@ author_profile: true
 - (2). **He, D.**, Mead, R. N., Belicka, L., Pisani, O., & Jaffé, R.* (2014). Assessing source contributions to particulate organic matter in a subtropical estuary: a biomarker approach. Organic Geochemistry, 75, 129-139. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638014001740 )
 
 ### 2010
-- (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. ^§^, Shao, J.Z.\* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
+- (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. <sup>§</sup>, Shao, J.Z.\* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
 
