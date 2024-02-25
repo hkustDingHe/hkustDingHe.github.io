@@ -88,7 +88,7 @@ author_profile: true
 - (12). **He, D.***, Simoneit, B.R., & Jaffé, R. (2018). Environmental factors controlling the distributions of Botryococcus braunii (A, B and L) biomarkers in a subtropical freshwater wetland. Scientific Reports, 8(1), 1-9. [(Link)](https://www.nature.com/articles/s41598-018-26900-9 )
 
 ### 2017
-- (11). **He, D.**, Zhu, C., Zhang, K., Xiao, S., Cui, X., & Sun, Y.* (2017). Source and composition of sedimentary organic matter in the head of Three Gorges Reservoir: a multiproxy approach using δ13C, lignin phenols, and lipid biomarker analyses. Acta Geochimica, 36(3), 452-455. [(Link)](https://link.springer.com/article/10.1007/s11631-017-0189-8 )
+- (11). **He, D.**, Zhu, C., Zhang, K., Xiao, S., Cui, X., & Sun, Y.* (2017). Source and composition of sedimentary organic matter in the head of Three Gorges Reservoir: a multiproxy approach using δ^13^C, lignin phenols, and lipid biomarker analyses. Acta Geochimica, 36(3), 452-455. [(Link)](https://link.springer.com/article/10.1007/s11631-017-0189-8 )
 - (10). **He, D.***, Ladd, S. N., Sachs, J. P., & Jaffé, R. (2017). Inverse relationship between salinity and 2H/1H fractionation in leaf wax n-alkanes from Florida mangroves. Organic Geochemistry, 110, 1-12. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016302881 )
 
 ### 2016
@@ -106,5 +106,5 @@ author_profile: true
 - (2). **He, D.**, Mead, R. N., Belicka, L., Pisani, O., & Jaffé, R.* (2014). Assessing source contributions to particulate organic matter in a subtropical estuary: a biomarker approach. Organic Geochemistry, 75, 129-139. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638014001740 )
 
 ### 2010
-- (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. §, Shao, J.Z.* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
+- (1). Xiang, L.X., **He, D.** (co-first author), Dong, W. R., Zhang, Y.W. ^§^, Shao, J.Z.* (2010). Deep sequencing-based transcriptome profiling analysis of bacteria-challenged Lateolabrax japonicus reveals insight into the immune-relevant genes in marine fish. BMC Genomics, 11(1), 1-21. [(Link)](https://link.springer.com/article/10.1186/1471-2164-11-472 )
 
