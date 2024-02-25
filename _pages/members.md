@@ -15,7 +15,7 @@ author_profile: true
 Assistant Professor, PI 
 <br/><br/>
 self-introduction
-Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on the sources and sinks of organic matter in aquatic systems. His approaches include various techniques such as FT-ICR MS, excitation–emission matrix fluorescence spectroscopy, and lipid biomarkers. He likes movies and photography.
+
 <br/><br/>
 Email: dinghe@ust.hk
 <br/><br/>
