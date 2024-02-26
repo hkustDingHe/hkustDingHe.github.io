@@ -9,15 +9,12 @@ author_profile: true
 {% include base_path %}
 
 **HKUST DREAM Group** <img style="float: left; padding-right: 15px;" src="/images/location.png" width="500"> 
-<br>
+<br/><br/>
 Department of Ocean Science
-<br>
+<br/><br/>
 Hong Kong University of Science and Technology (HKUST)
-<br>
+<br/><br/>
 Clear Water Bay, Kowloon, Hong Kong
-<br/><br/>
-<br/><br/>
-<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -25,5 +22,11 @@ Clear Water Bay, Kowloon, Hong Kong
 <center>
   <b>
     <a href="https://oces.hkust.edu.hk/">Department of Ocean Science</a>
+  </b>
+</center>
+<br/><br/>
+<center>
+  <b>
+    <a href="https://hkust.edu.hk/">HKUST</a>
   </b>
 </center>
