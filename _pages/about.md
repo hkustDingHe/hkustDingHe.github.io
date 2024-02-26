@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><br/>
+<img style="float: left; padding-right: 15px;" src="/images/group1.jpg" width="200"> 
+
 **HKUST DREAM Group**
 <br/>
