@@ -12,7 +12,7 @@ author_profile: true
 <br/><br/>
 **Dr. Ding He** <img style="float: left; padding-right: 15px;" src="/images/bio-photo.jpg" width="200"> 
 <br>
-Assistant Professor, PI [CV](/files/He, Ding (PhD).pdf)
+Assistant Professor, PI [CV]()
 <br/><br/>
 self-introduction
 <br/><br/>
