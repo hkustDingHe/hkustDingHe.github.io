@@ -19,6 +19,15 @@ self-introduction
 Email: <dinghe@ust.hk>
 
 <br/><br/>
+**Dr. Yuanbi Yi** <img style="float: left; padding-right: 15px;" src="/images/yiyuanbi.jpg" width="200"> 
+<br>
+Postdoc (2022-now) **[CV](https://hkustDingHe.github.io/files/YuanbiCV.pdf)**
+<br/><br/>
+Yuanbi obtained his Ph.D. degree from Tianjin University, and he aims to use multiple methods, such as isotopic analysis and high-resolution mass spectrometry, to explore the transport and transformation of organic matter in aquatic systems and its impact on climate change.
+<br/><br/>
+Email: <yuanbiyi@ust.hk>
+
+<br/><br/>
 **Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 15px;" src="/images/zhengzexuan.jpg" width="200"> 
 <br>
 Postdoc (2024-now)
@@ -32,6 +41,6 @@ Email: <zhexuanzhang@ust.hk>
 <br>
 RA (2023-now)
 <br/><br/>
-self-introduction
+Run-Ze is a Research Assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, heavy metals
 <br/><br/>
 Email: <walkerxue@ust.hk>
