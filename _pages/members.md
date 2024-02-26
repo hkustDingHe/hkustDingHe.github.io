@@ -49,6 +49,15 @@ Email: <zhexuanzhang@ust.hk>
 <br>
 RA (2023-now)
 <br/><br/>
-Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, heavy metals
+Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
 <br/><br/>
 Email: <walkerxue@ust.hk>
+
+<br/><br/>
+**Piao Yao** <img style="float: left; padding-right: 15px;" src="/images/yaopiao.jpg" width="200"> 
+<br>
+RA (2023-now)
+<br/><br/>
+Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
+<br/><br/>
+Email: <ocesyaopiao@ust.hk>
