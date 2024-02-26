@@ -2,11 +2,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 80vh;
+  min-height: 100vh;
 }
 
 ul.slides {
-  position: relative;
   width: 600px;
   height: 280px;
   list-style: none;
@@ -21,7 +20,6 @@ li.slide {
   padding: 0;
   width: inherit;
   height: inherit;
-  position: absolute;
   top: 0;
   left: 0;
   display: flex;
@@ -48,13 +46,11 @@ li.slide {
 }
 
 input[type="radio"] {
-  position: relative;
   z-index: 100;
   display: none;
 }
 
 .controls-visible {
-  position: absolute;
   width: 100%;
   bottom: 12px;
   text-align: center;
@@ -98,7 +94,6 @@ input[type="radio"] {
 /* Left/Right Button Classes Below */
 
 .navigator {
-  position: absolute;
   top: 50%;
   transform: translatey(-50%);
   width: 100%;
