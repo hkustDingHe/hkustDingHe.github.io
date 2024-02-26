@@ -10,8 +10,7 @@ redirect_from:
 
 <head>
   <meta charset="UTF-8">
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'><link rel="stylesheet" href="./style.css">
-
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'><link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 <!-- partial:index.partial.html -->
@@ -63,7 +62,6 @@ redirect_from:
 </body>
 
 <br/><br/>
-
 <center>
   <img title="Group Photo" src="/images/group1.jpg" width="80%">
   <br/><br/>
