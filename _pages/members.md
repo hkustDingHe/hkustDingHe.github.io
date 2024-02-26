@@ -28,7 +28,7 @@ Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on
 Email: zhexuanzhang@ust.hk
 
 <br/><br/>
-**Dr. Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
+**Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
 <br>
 RA (2023-now)
 <br/><br/>
