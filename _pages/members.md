@@ -19,6 +19,15 @@ self-introduction
 Email: <dinghe@ust.hk>
 
 <br/><br/>
+**Dr. Ruanhong Cai** <img style="float: left; padding-right: 15px;" src="/images/cairuanhong.jpg" width="200"> 
+<br>
+Postdoc (2023-now)
+<br/><br/>
+Ruanhong obtained his Ph.D. degree from Xiamen University. His research focuses on the microbially mediated cycling of dissolved organic matter (DOM) in the ocean and relevant environmental and climate effects.
+<br/><br/>
+Email: <cairuanhong@ust.hk>, <crh1987@163.com>
+
+<br/><br/>
 **Dr. Yuanbi Yi** <img style="float: left; padding-right: 15px;" src="/images/yiyuanbi.jpg" width="200"> 
 <br>
 Postdoc (2022-now) **[CV](https://hkustDingHe.github.io/files/YuanbiCV.pdf)**
