@@ -16,7 +16,7 @@ Assistant Professor, PI
 <br/><br/>
 self-introduction
 <br/><br/>
-Email: dinghe@ust.hk
+Email: <dinghe@ust.hk>
 
 <br/><br/>
 **Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 15px;" src="/images/zhengzexuan.jpg" width="200"> 
@@ -25,7 +25,7 @@ Postdoc (2024-now)
 <br/><br/>
 Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on the sources and sinks of organic matter in aquatic systems. His approaches include various techniques such as FT-ICR MS, excitation–emission matrix fluorescence spectroscopy, and lipid biomarkers. He likes movies and photography.
 <br/><br/>
-Email: zhexuanzhang@ust.hk
+Email: <zhexuanzhang@ust.hk>
 
 <br/><br/>
 **Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
@@ -34,4 +34,4 @@ RA (2023-now)
 <br/><br/>
 self-introduction
 <br/><br/>
-Email: walkerxue@ust.hk
+Email: <walkerxue@ust.hk>
