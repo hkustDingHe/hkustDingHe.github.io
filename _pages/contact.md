@@ -26,7 +26,8 @@ Clear Water Bay, Kowloon, Hong Kong
     <a href="https://oces.hkust.edu.hk/">Department of Ocean Science</a>
   </b>
 </center>
-<br/><br/>
+<br>
+</center>
   <b>
     <a href="https://hkust.edu.hk/">HKUST</a>
   </b>
