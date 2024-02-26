@@ -8,58 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-  <meta charset="UTF-8">
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'><link rel="stylesheet" href="/assets/css/style.css">
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<ul class="slides">
-  <input type="radio" id="control-1" name="control" checked>
-  <input type="radio" id="control-2" name="control">
-  <input type="radio" id="control-3" name="control">
-  
-  <!--  Left/Right Button  -->
-  <div class="navigator slide-1">
-    <label for="control-3">
-      <i class="fas fa-chevron-left"></i>
-    </label>
-    <label for="control-2">
-      <i class="fas fa-chevron-right"></i>
-    </label>
+<link rel="stylesheet" href="/assets/css/style_slide.css">
+
+<div class="slider-container">
+  <div class="slider">
+    <div class="slides">
+      <div id="slides__1" class="slide">
+        <span class="slide__text">1</span>
+        <a class="slide__prev" href="#slides__4" title="Next"></a>
+        <a class="slide__next" href="#slides__2" title="Next"></a>
+      </div>
+      <div id="slides__2" class="slide">
+        <span class="slide__text">2</span>
+        <a class="slide__prev" href="#slides__1" title="Prev"></a>
+        <a class="slide__next" href="#slides__3" title="Next"></a>
+      </div>
+      <div id="slides__3" class="slide">
+        <span class="slide__text">3</span>
+        <a class="slide__prev" href="#slides__2" title="Prev"></a>
+        <a class="slide__next" href="#slides__4" title="Next"></a>
+      </div>
+      <div id="slides__4" class="slide">
+        <span class="slide__text">4</span>
+        <a class="slide__prev" href="#slides__3" title="Prev"></a>
+        <a class="slide__next" href="#slides__1" title="Prev"></a>
+      </div>
+    </div>
+    <div class="slider__nav">
+      <a class="slider__navlink" href="#slides__1"></a>
+      <a class="slider__navlink" href="#slides__2"></a>
+      <a class="slider__navlink" href="#slides__3"></a>
+      <a class="slider__navlink" href="#slides__4"></a>
+    </div>
   </div>
-  
-  <div class="navigator slide-2">
-    <label for="control-1">
-      <i class="fas fa-chevron-left"></i>
-    </label>
-    <label for="control-3">
-      <i class="fas fa-chevron-right"></i>
-    </label>
-  </div>
-  
-  <div class="navigator slide-3">
-    <label for="control-2">
-      <i class="fas fa-chevron-left"></i>
-    </label>
-    <label for="control-1">
-      <i class="fas fa-chevron-right"></i>
-    </label>
-  </div>
-  <!--  /Left/Right Button  -->
-  
-  <li class="slide"><img src="/images/biking1.jpg" alt="biking"></li>
-  <li class="slide"><img src="/images/biking2.jpg" alt="biking"></li>
-  <li class="slide"><img src="/images/biking3.jpg" alt="biking"></li>
-  
-  <div class="controls-visible">
-    <label for="control-1"></label>
-    <label for="control-2"></label>
-    <label for="control-3"></label>
-  </div>
-</ul>
-<!-- partial -->
-</body>
+</div>
 
 <br/><br/>
 <center>
