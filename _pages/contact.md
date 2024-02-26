@@ -27,7 +27,6 @@ Clear Water Bay, Kowloon, Hong Kong
   </b>
 </center>
 <br/><br/>
-<center>
   <b>
     <a href="https://hkust.edu.hk/">HKUST</a>
   </b>
