@@ -27,6 +27,7 @@ Phone:
 <center>
   <b>
     <a href="https://oces.hkust.edu.hk/">Department of Ocean Science</a>
+    <a href="https://hkust.edu.hk/">HKUST</a>
   </b>
 </center>
 <br/>
