@@ -22,8 +22,6 @@ Clear Water Bay, Kowloon, Hong Kong
 Phone: 
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
 <center>
   <b>
