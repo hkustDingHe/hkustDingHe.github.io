@@ -12,7 +12,7 @@ author_profile: true
 <br/><br/>
 **Dr. Ding He** <img style="float: left; padding-right: 15px;" src="/images/bio-photo.jpg" width="200"> 
 <br>
-Assistant Professor, PI [CV]()
+Assistant Professor, PI **[CV](https://github.com/hkustDingHe/hkustDingHe.github.io/blob/master/files/HeDingCV.pdf)**
 <br/><br/>
 self-introduction
 <br/><br/>
