@@ -9,7 +9,6 @@ author_profile: true
 {% include base_path %}
 
 ### Current members
-<br/><br/>
 **Dr. Ding He** <img style="float: left; padding-right: 15px;" src="/images/bio-photo.jpg" width="200"> 
 <br>
 Assistant Professor, PI **[CV](https://hkustDingHe.github.io/files/HeDingCV.pdf)**
@@ -50,6 +49,6 @@ Email: <zhexuanzhang@ust.hk>
 <br>
 RA (2023-now)
 <br/><br/>
-Run-Ze is a Research Assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, heavy metals
+Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, heavy metals
 <br/><br/>
 Email: <walkerxue@ust.hk>
