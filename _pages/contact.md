@@ -10,12 +10,15 @@ author_profile: true
 
 **HKUST DREAM Group** <img style="float: left; padding-right: 15px;" src="/images/location.png" width="500"> 
 <br/><br/>
+Lab: 
+<br/><br/>
 Department of Ocean Science
 <br/><br/>
 Hong Kong University of Science and Technology (HKUST)
 <br/><br/>
 Clear Water Bay, Kowloon, Hong Kong
 <br/><br/>
+Phone: 
 <br/><br/>
 <br/><br/>
 <br/><br/>
