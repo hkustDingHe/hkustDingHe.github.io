@@ -44,9 +44,9 @@ redirect_from:
   </div>
   <!--  /Left/Right Button  -->
   
-  <li class="slide"><img src="/images/biking1.jpg" alt="biking"></li>
-  <li class="slide"><img src="/images/biking2.jpg" alt="biking"></li>
-  <li class="slide"><img src="/images/biking3.jpg" alt="biking"></li>
+  <li class="slide"><img src="/images/group1.jpg" alt="group photo"></li>
+  <li class="slide"><img src="/images/meeting4.jpg" alt="group photo"></li>
+  <li class="slide"><img src="/images/meeting3.jpg" alt="group photo"></li>
   
   <div class="controls-visible">
     <label for="control-1"></label>
