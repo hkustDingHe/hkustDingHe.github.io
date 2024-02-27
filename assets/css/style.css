@@ -2,8 +2,8 @@ body {
   display: block;
   /*justify-content: center;*/
   /*align-items: center;*/
-  /*min-height: 100vh;*/
-  width: 100%;
+  min-height: 100vh;
+  /*width: 100%;*/
 }
 
 ul.slides {
@@ -127,3 +127,10 @@ input[type="radio"] {
 .slides input[type="radio"]:nth-of-type(3):checked ~ .navigator:nth-of-type(3) {
   display: flex;
 }
+
+/* images center*/
+<style>
+  div {
+    text-align: center;
+  }
+</style>
