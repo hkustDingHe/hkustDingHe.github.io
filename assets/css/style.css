@@ -127,10 +127,3 @@ input[type="radio"] {
 .slides input[type="radio"]:nth-of-type(3):checked ~ .navigator:nth-of-type(3) {
   display: flex;
 }
-
-/* images center*/
-<style>
-  div {
-    text-align: center;
-  }
-</style>
