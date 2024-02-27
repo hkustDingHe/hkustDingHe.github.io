@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'><link rel="stylesheet" href="/assets/css/style.css">
 
 <ul class="slides">
   <input type="radio" id="control-1" name="control" checked>
@@ -44,15 +44,9 @@ redirect_from:
   </div>
   <!--  /Left/Right Button  -->
   
-  <li class="slide">
-    <img src="/images/biking1.jpg>
-  </li>
-  <li class="slide">
-    <img src="/images/biking2.jpg>
-  </li>
-  <li class="slide">
-    <img src="/images/biking3.jpg>
-  </li>
+  <li class="slide"><img src="/images/biking1.jpg" alt="biking"></li>
+  <li class="slide"><img src="/images/biking2.jpg" alt="biking"></li>
+  <li class="slide"><img src="/images/biking3.jpg" alt="biking"></li>
   
   <div class="controls-visible">
     <label for="control-1"></label>
