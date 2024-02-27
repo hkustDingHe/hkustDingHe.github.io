@@ -5,8 +5,9 @@ permalink: /recreation/
 author_profile: true
 
 ---
-<br/><br/>
 ### Biking
+Brief description
+<br/>
 
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'><link rel="stylesheet" href="/assets/css/style.css">
 
@@ -57,6 +58,8 @@ author_profile: true
 
 <br/><bhr/>
 ### Climbing
+Brief description
+<br/>
 
 <ul class="slides">
   <input type="radio" id="control-4" name="control" checked>
