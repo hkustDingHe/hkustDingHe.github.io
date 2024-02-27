@@ -10,12 +10,6 @@ redirect_from:
 
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'><link rel="stylesheet" href="/assets/css/style.css">
 
-img {
-  width: 60%;
-  margin: auto;
-  display: block;
-}
-
 <ul class="slides">
   <input type="radio" id="control-1" name="control" checked>
   <input type="radio" id="control-2" name="control">
