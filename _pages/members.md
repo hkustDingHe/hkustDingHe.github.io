@@ -45,7 +45,7 @@ Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on
 Email: <zhexuanzhang@ust.hk>
 
 <br/><br/>
-**Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
+**Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
 <br>
 PhD student (2022-now)
 <br/><br/>
