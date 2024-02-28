@@ -45,6 +45,15 @@ Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on
 Email: <zhexuanzhang@ust.hk>
 
 <br/><br/>
+**Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
+<br>
+PhD student (2022-now)
+<br/><br/>
+Zhenwei obtained his Bachelor's and Master's degrees from the Ocean University of China. His research is centered around the use of stable nitrogen isotopes and high-resolution mass spectrometry to investigate the fate of dissolved organic nitrogen in marine environments. The objective of his study is to gain a deeper understanding of the role of dissolved organic nitrogen in marine nitrogen and carbon cycles, as well as its implications for global change.
+<br/><br/>
+Email: <zyanbf@connect.ust.hk>
+
+<br/><br/>
 **Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
 <br>
 RA (2023-now)
