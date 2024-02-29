@@ -27,14 +27,17 @@ author_profile: true
 <div align="center"><img src="/images/publication_img/84.jpg" width="600"></div>
 
 ### 2023
+- (83). Lønborg, C.*, Carreira, C., Abril, G., Agustí, S., Amaral, V., Andersson, A., … **He, D.**, … & Álvarez-Salgado, X. A. (2023). A global database of dissolved organic matter (DOM) measurements in coastal waters (CoastDOM v1). Earth System Science Data, 2023, 1-30.
+<div align="center"><img src="/images/publication_img/83.jpg" width="600"></div>
 (82) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, 905, 167138. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723057650 )
 <div align="center"><img src="/images/publication_img/82.jpg" width="600"></div>
 (81) Liang, W., Chen, X., Zhao, C., Li, L.\*, & **He, D.**\* (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010229)
 <div align="center"><img src="/images/publication_img/81.jpg" width="600"></div>
 (80) Zhao, C., Zhang, H., Li, P., Yi, Y., Zhou, Y., Wang, Y., … & **He, D.*** (2023). Dissolved organic matter cycling revealed from the molecular level in three coastal bays of China. Science of The Total Environment, 166843. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723054682)
 <div align="center"><img src="/images/publication_img/80.jpg" width="600"></div>
-(79). Chen, Z. L., Yi, Y., Zhang, H., Li, P., Wang, Y., Yan, Z., Wang, K., He, C., Shi, Q., & **He, D.*** (2023). Differences in Dissolved Organic Matter Molecular Composition along Two Plume Trajectories from the Yangtze River Estuary to the East China Sea. ACS Environmental Au, 4(1), 31-41. [(Link)](https://pubs.acs.org/doi/full/10.1021/acsenvironau.3c00030 (Front Cover))
+(79). Chen, Z. L., Yi, Y., Zhang, H., Li, P., Wang, Y., Yan, Z., Wang, K., He, C., Shi, Q., & **He, D.*** (2023). Differences in Dissolved Organic Matter Molecular Composition along Two Plume Trajectories from the Yangtze River Estuary to the East China Sea. ACS Environmental Au, 4(1), 31-41. (Front Cover)[(Link)](https://pubs.acs.org/doi/full/10.1021/acsenvironau.3c00030)
 <div align="center"><img src="/images/publication_img/79.jpg" width="600"></div>
+<div align="center"><img src="/images/publication_img/79_2.jpg" width="600"></div>
 (78). Li, J., Wu, Y.\*, Jiang, Z., Liu, S., Ren, Y., Yang, J., Song, X., Huang, X.\*, & **He, D.** (2023). Terrestrial and Biological Activities Shaped the Fate of Dissolved Organic Nitrogen in a Subtropical River‐Dominated Estuary and Adjacent Coastal Area. Journal of Geophysical Research: Oceans, 128(12), e2023JC019911. [(Link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC019911 )
 <div align="center"><img src="/images/publication_img/78.jpg" width="600"></div>
 (77). Zhao, C., Hou, Y., Wang, Y., Li, P., He, C., Shi, Q., Yi, Y.\*, & **He, D.**\* (2023). Unraveling the photochemical reactivity of dissolved organic matter in the Yangtze river estuary: Integrating incubations with field observations. Water Research, 245, 120638. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010783 )
