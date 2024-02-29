@@ -8,53 +8,116 @@ author_profile: true
 {% include base_path %}
 
 ### Published research articles (* corresponding author):
+### 2024
+- (91). Zhang, C., Zhang, X., Chen, Q., Ye, S., Li, B., Pan, B., Wang, M., **He, D.**, & Li, M.* (2024). Variations in growth, photosynthesis, oxidative stress and microcystin production in Microcystis aeruginosa caused by acute exposure to Benzalkonium Chloride and Benzalkonium Bromide. Process Safety and Environmental Protection, 182, 1110-1120.
+<div align="center"><img src="/images/publication_img/91.jpg" width="600"></div>
+- (90). Chen, Z. L., Zhang, H., Yi, Y., He, Y., Li, P., Wang, Y., ... & **He, D.*** (2024). Dissolved organic matter composition and characteristics during extreme flood events in the Yangtze River Estuary. Science of The Total Environment, 914, 169827.
+<div align="center"><img src="/images/publication_img/90.jpg" width="600"></div>
+- (89). Zhang, J., Hao, Q., Li, Q., Zhao, X., Fu, X., Wang, W., **He, D.**, Li, Yuan, Zhang, Z., Zhang, X.\*, & Song, Z.\* (2024). Source identification of sedimentary organic carbon in coastal wetlands of the western Bohai Sea. Science of The Total Environment, 913, 169282.
+<div align="center"><img src="/images/publication_img/89.jpg" width="600"></div>
+- (88). Wang, K., Huang, L., He, G., Liu, Y., Xu, S., **He, D.**, Bai, S., Reible, D., & Fang, H.* (2024). Crucial Role of Tributary Bays in the Carbon Burial of Three Gorges Reservoir. ACS ES&T Water. [(Link)](https://doi.org/10.1021/acsestwater.3c00459 )
+<div align="center"><img src="/images/publication_img/88.jpg" width="600"></div>
+- (87). Yan, Z., Xin, Y., Zhong, X., Yi, Y., Li, P., Wang, Y., Zhou, Y., He, Y., He, C., Shi, Q., Xu, W., & **He, D.*** (2024). Evolution of dissolved organic nitrogen chemistry during transportation to the marginal sea: Insights from nitrogen isotope and molecular composition analyses. Water Research, 249, 120942.
+<div align="center"><img src="/images/publication_img/87.jpg" width="600"></div>
+- (86). Jiang, H. B., Hutchins, D. A., Zhang, H. R., Feng, Y. Y., Zhang, R. F., Sun, W. W., Ma, W., Bai, Y., Wells, M., **He, D.**, Jiao, N., Wang, Y.*, & Chai, F. (2024). Complexities of regulating climate by promoting marine primary production with ocean iron fertilization. Earth-Science Reviews, 104675.
+<div align="center"><img src="/images/publication_img/86.jpg" width="600"></div>
+- (85). Wang, W., Li, S. L.*, Zhong, J., Yi, Y., Yue, F., Han, Z., Wu, Q., **He, D.**, & Liu, C. Q. (2024). Unraveling the factors influencing CO2 emissions from hydroelectric reservoirs in karst and non-karst regions: A comparative analysis. Water Research, 248, 120893.
+<div align="center"><img src="/images/publication_img/85.jpg" width="600"></div>
+- (84). Li, P., Liang, W., Zhou, Y., Yi, Y., He, C., Shi, Q., & **He, D.*** (2024). Hypoxia diversifies molecular composition of dissolved organic matter and enhances preservation of terrestrial organic carbon in the Yangtze River Estuary. Science of the Total Environment, 906, 167661.
+<div align="center"><img src="/images/publication_img/84.jpg" width="600"></div>
+
 ### 2023
-- (79) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, accepted.
-<div align="center"><img src="/images/publication_img/79.jpg width="600"></div>
-- (78) Liang, W., Chen, X., Zhao, C., Li, L.\*, & **He, D.**\* (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010229)
-- (77) Zhao, C., Zhang, H., Li, P., Yi, Y., Zhou, Y., Wang, Y., … & **He, D.*** (2023). Dissolved organic matter cycling revealed from the molecular level in three coastal bays of China. Science of The Total Environment, 166843. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723054682)
+- (82) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, 905, 167138. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723057650 )
+<div align="center"><img src="/images/publication_img/82.jpg" width="600"></div>
+- (81) Liang, W., Chen, X., Zhao, C., Li, L.\*, & **He, D.**\* (2023). Seasonal changes of dissolved organic matter chemistry and its linkage with greenhouse gas emissions in saltmarsh surface water and porewater interactions. Water Research, 120582. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010229)
+<div align="center"><img src="/images/publication_img/81.jpg" width="600"></div>
+- (80) Zhao, C., Zhang, H., Li, P., Yi, Y., Zhou, Y., Wang, Y., ¡­ & **He, D.*** (2023). Dissolved organic matter cycling revealed from the molecular level in three coastal bays of China. Science of The Total Environment, 166843. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723054682)
+<div align="center"><img src="/images/publication_img/80.jpg" width="600"></div>
+- (79). Chen, Z. L., Yi, Y., Zhang, H., Li, P., Wang, Y., Yan, Z., Wang, K., He, C., Shi, Q., & **He, D.*** (2023). Differences in Dissolved Organic Matter Molecular Composition along Two Plume Trajectories from the Yangtze River Estuary to the East China Sea. ACS Environmental Au, 4(1), 31-41. [(Link)](https://pubs.acs.org/doi/full/10.1021/acsenvironau.3c00030 (Front Cover))
+<div align="center"><img src="/images/publication_img/79.jpg" width="600"></div>
+- (78). Li, J., Wu, Y.\*, Jiang, Z., Liu, S., Ren, Y., Yang, J., Song, X., Huang, X.\*, & **He, D.** (2023). Terrestrial and Biological Activities Shaped the Fate of Dissolved Organic Nitrogen in a Subtropical River©\Dominated Estuary and Adjacent Coastal Area. Journal of Geophysical Research: Oceans, 128(12), e2023JC019911. [(Link)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC019911 )
+<div align="center"><img src="/images/publication_img/78.jpg" width="600"></div>
+- (77). Zhao, C., Hou, Y., Wang, Y., Li, P., He, C., Shi, Q., Yi, Y.\*, & **He, D.**\* (2023). Unraveling the photochemical reactivity of dissolved organic matter in the Yangtze river estuary: Integrating incubations with field observations. Water Research, 245, 120638. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423010783 )
+<div align="center"><img src="/images/publication_img/77.jpg" width="600"></div>
 - (76) Wang, H., Zhang, Q., Li, X., Yi, Y., Wang, Q., Gao, L., Wang, J., **He, D.**\* & Li, M.\* (2023). Surface microrelief induced by tillage management alters the pathway and composition of dissolved organic matter exports from soils to runoff during rainfall. Water Research, 120554. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423009946)
+<div align="center"><img src="/images/publication_img/76.jpg" width="600"></div>
 - (75). Yan, Z., Xin, Y.\*, Zhong, X., Yi, Y., Li, P., Wang, Y., Zhou, Y., Zhou, Y., He, C., Shi, Q., **He, D.**\* (2023). Dissolved organic nitrogen cycling revealed at the molecular level in the Bohai and Yellow Sea. Water Research, 120446. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423008862.)
-- (74). Li, S.L.\*, Zhang, H., Yi, Y.B.\*, Zhang, Y.T., Qi, Y.L., Mostofa, K.M.G., Guo, L.D., **He, D.**, Fu, P.Q., & Liu, C.Q. (2023). The potential impacts of climate and anthropogenic-induced changes on DOM dynamics among the major Chinese Rivers. Geography and Sustainability. [(Link)](https://doi.org/10.1016/j.geosus.2023.07.003)
-- (73). Liu, Z., Wang, Y.\*, Liu, T.\*, Zhang, L., Li, W., Liao, J., **He, D.** (2023). Semantic-enhanced Contrastive Learning for Session-based Recommendation. Knowledge-Based Systems, accepted and in press.
-- (72). He, C., Yi, Y., **He, D.**, Cai, R., Chen, C., & Shi, Q.* (2023). Molecular composition of dissolved organic matter across diverse ecosystems: Preliminary implications for biogeochemical cycling. Journal of Environmental Management, 344, 118559.
+<div align="center"><img src="/images/publication_img/75.jpg" width="600"></div>
+- (74). Li, S.L.\*, Zhang, H., Yi, Y.B.\*, Zhang, Y.T., Qi, Y.L., Mostofa, K.M.G., Guo, L.D., **He, D.**, Fu, P.Q., & Liu, C.Q. (2023). The potential impacts of climate and anthropogenic-induced changes on DOM dynamics among the major Chinese Rivers. Geography and Sustainability. 4 (4), 329-339. [(Link)](https://doi.org/10.1016/j.geosus.2023.07.003)
+<div align="center"><img src="/images/publication_img/74.jpg" width="600"></div>
+- (73). Liu, Z., Wang, Y.\*, Liu, T.\*, Zhang, L., Li, W., Liao, J., **He, D.** (2023). Semantic-enhanced Contrastive Learning for Session-based Recommendation. Knowledge-Based Systems, 280, 111001.
+<div align="center"><img src="/images/publication_img/73.jpg" width="600"></div>
+- (72). He, C., Yi, Y., **He, D.**, Cai, R., Chen, C., & Shi, Q.* (2023). Molecular composition of dissolved organic matter across diverse ecosystems: Preliminary implications for biogeochemical cycling. Journal of Environmental Management, 344, 118559. [(Link)](https://www.sciencedirect.com/science/article/pii/S0301479723013476 )
+<div align="center"><img src="/images/publication_img/72.jpg" width="600"></div>
 - (71). Nai, H., Zhong, J.\*, Yi, Y., Lai, M., **He, D.**, Dittmar, T., Liu, C.Q., Li, S.L., & Xu, S.\*(2023). Anthropogenic Disturbance Stimulates the Export of Dissolved Organic Carbon to Rivers on the Tibetan Plateau. Environmental Science & Technology. [(Link)](https://pubs.acs.org/doi/10.1021/acs.est.3c01593)
+<div align="center"><img src="/images/publication_img/71.jpg" width="600"></div>
 - (70). Wang, Y., Luo, T., Chen, J., Zhan, Z.W., Song, Z., Xing, L.,& **He, D.*** (2023). Influence of salinity on hydrogen isotope fractionation of n-alkanes in mangrove leaves and surface sediments: A comparison across various geomorphological settings. Chemical Geology. [(Link)](https://doi.org/10.1016/j.chemgeo.2023.121589)
-- (69). Yan, Q., Zhao, Y., Ma, R., Wang, B., Zhu, Z., Li, T., **He, D.**, Hocart, C. H.; &Zhou, Y.*(2023). Capping the hydroxyl groups (-OH) of α-cellulose to reduce Hy-groscopicity for accurate 18O/16O measurement by EA/Py/IRMS. Talanta, 262, 124698.[(Link)](https://doi.org/10.1016/j.talanta.2023.124698)
+<div align="center"><img src="/images/publication_img/70.jpg" width="600"></div>
+- (69). Yan, Q., Zhao, Y., Ma, R., Wang, B., Zhu, Z., Li, T., **He, D.**, Hocart, C. H., &Zhou, Y.* (2023). Capping the hydroxyl groups (-OH) of ¦Á-cellulose to reduce Hy-groscopicity for accurate 18O/16O measurement by EA/Py/IRMS. Talanta, 262, 124698.[(Link)](https://doi.org/10.1016/j.talanta.2023.124698)
+<div align="center"><img src="/images/publication_img/69.jpg" width="600"></div>
 - (68). Zhao, C., Zhou, Y., Wang, Y., Huang, W., He, C., Shi, Q., & **He, D.*** (2023). Seasonal variations in dissolved organic matter chemistry in a eutrophic, semi-enclosed bay in Southeastern China: Implications for carbon cycling. Journal of Hydrology, 622, 129679. [(Link)](https://doi.org/10.1016/j.jhydrol.2023.129697)
-- (67). Zhao, C., Xu, X., Chen, H., Wang, F., Li, P., He, C., Shi, Q., Yi, Y., Li, X., Li, S., & **He, D.*** (2023). Improved understanding of photochemical processing of dissolved organic matter by using machine learning approaches. Environmental Science & Technology. [(Link)](https://doi.org/10.1021/acs.est.3c00199.)
+<div align="center"><img src="/images/publication_img/68.jpg" width="600"></div>
+- (67). Zhao, C., Xu, X., Chen, H., Wang, F., Li, P., He, C., Shi, Q., Yi, Y., Li, X., Li, S., &**He, D.*** (2023). Improved understanding of photochemical processing of dissolved organic matter by using machine learning approaches. Environmental Science & Technology. 57, 46, 17889¨C17899. [(Link)](https://doi.org/10.1021/acs.est.3c00199.)
+<div align="center"><img src="/images/publication_img/67.jpg" width="600"></div>
 - (66). Yi, Y., He, C., Klaproth, K., Merder, J., Li, P., Qi, Y., Fu, P., Li, S., Dittmar, T., Shi, Q.\*, **He, D.**\* (2023). Will various interpretation strategies of the same ultrahigh-resolution mass spectrometry data tell different biogeochemical stories? A first assessment based on natural aquatic dissolved organic matter. Limnology and Oceanography: Methods. doi: 10.1002/lom3.10548. [(Link)](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10548 )
-- (65). Yi, Y., Liu, T., Merder, J., He, C., Bao, H., Li, P., Li, S., Shi, Q. & **He, D.*** (2023). Unraveling the Linkages between Molecular Abundance and Stable Carbon Isotope Ratio in Dissolved Organic Matter Using Machine Learning. Environmental Science & Technology. [(Link)](https://doi.org/10.1021/acs.est.3c00221 )
-- (64). Pan, Q., Hu, W., **He, D.**, He, C., Zhang, L., & Shi, Q.* (2023). Machine-learning assisted molecular formula assignment to high-resolution mass spectrometry data of dissolved organic matter. Talanta, 259, 124484.
+<div align="center"><img src="/images/publication_img/66.jpg" width="600"></div>
+- (65). Yi, Y., Liu, T., Merder, J., He, C., Bao, H., Li, P., Li, S., Shi, Q. & **He, D.*** (2023). Unraveling the Linkages between Molecular Abundance and Stable Carbon Isotope Ratio in Dissolved Organic Matter Using Machine Learning. Environmental Science & Technology. 57, 46, 17900¨C17909. [(Link)](https://doi.org/10.1021/acs.est.3c00221 )
+<div align="center"><img src="/images/publication_img/65.jpg" width="600"></div>
+- (64). Pan, Q., Hu, W., **He, D.**, He, C., Zhang, L., & Shi, Q.* (2023). Machine-learning assisted molecular formula assignment to high-resolution mass spectrometry data of dissolved organic matter. Talanta, 259, 124484. [(Link)](https://www.sciencedirect.com/science/article/pii/S0039914023002357 )
+<div align="center"><img src="/images/publication_img/64.jpg" width="600"></div>
 - (63). Chen, Y., Sui, W., Wang, J., **He, D.**, Dong, L., Waniek, J. J., & Wang, F.* (2023). Refractory humic-like dissolved organic matter fuels microbial communities in deep energy-limiting marine sediments. Science China Earth Sciences, 1-19. [(Link)](https://link.springer.com/article/10.1007/s11430-022-1123-y )
+<div align="center"><img src="/images/publication_img/63.jpg" width="600"></div>
 - (62). Wang, K., Fang, H.*, He, G., Huang, L., Cui, Z., Gao, Q., Xu, S., Wang, D., Wu, X. & **He, D.** (2023). Optical and molecular diversity of dissolved organic matter in sediments of the Daning and Shennong tributaries of the Three Gorges Reservoir. Frontiers in Environmental Science, doi 10.3389/fenvs.2022.1112407. [(Link)](https://www.frontiersin.org/articles/10.3389/fenvs.2022.1112407/full )
+<div align="center"><img src="/images/publication_img/62.jpg" width="600"></div>
 - (61). Hu, T., Luo, M.\*, Qi, Y., **He, D.**, Chen, L., Xu, Y., & Chen, D.\* (2023). Molecular evidence for the production of labile, sulfur-bearing dissolved organic matter in the seep sediments of the South China Sea. Water Research, 233, 119732. [(Link)](https://doi.org/10.1016/j.watres.2023.119732 )
+<div align="center"><img src="/images/publication_img/61.jpg" width="600"></div>
 - (60) Wang, K., Pang, Y., Yi, Y., Yang, S., Wang, Y., He, C., Shi, Q., & **He, D.** *(2023) Response of dissolved organic matter chemistry to flood control of a large river reservoir during an extreme storm event. Water Research 230, 119565. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135423000015 )
+<div align="center"><img src="/images/publication_img/60.jpg" width="600"></div>
 - (59). Liu, Z., Cai, R.\*, Chen, Y., Zhuo, X., He, C., Zheng, Q., **He, D.**, Shi, Q., Jiao, N.\* (2023). Direct production of bio-recalcitrant carboxyl-rich alicyclic molecules evidenced by a bacterium-induced steroid degradation experiment. Microbiology Spectrum, e04693-22. [(Link)](https://journals.asm.org/doi/full/10.1128/spectrum.04693-22. )
+<div align="center"><img src="/images/publication_img/59.jpg" width="600"></div>
 
 ### 2022
 - (58). Lu, Y., Cao, J.*, Fu, J., Liu, L., Wu, Q., Yang, X., Yang, S., Cheng, S., Qiu, X., **He, D.** (2022). Discovery of a Hadean xenocrystic zircon (4100 Ma) in the Cathaysia Block. Science Bulletin, 67(23), 2416-2419.
 - (57). Wang, Y. P., Luo, T., Zhou, X., Zhan, Z. W., Song, Z.*, & **He, D.** (2022). Inverse relationships between salinity and hydrogen isotope fractionation of n-alkanes in the Aegiceras corniculatum leaves and surface sediments from Zhanjiang mangrove estuary of China. Chemical Geology, 612, 121138. [(Link)](https://www.sciencedirect.com/science/article/pii/S0009254122004326 )
+<div align="center"><img src="/images/publication_img/57.jpg" width="600"></div>
 - (56). Qi, Y., Xie, Q., Wang, J. J., **He, D.**, Bao, H., Fu, Q. L., Su, S., Sheng, M., Li, S., Volmer, D., Wu, F., Jiang, G., Liu, C., & Fu, P.* (2022). Deciphering dissolved organic matter by Fourier transform ion cyclotron resonance mass spectrometry (FT-ICR MS): from bulk to fractions and individuals. Carbon Research, 1(1), 1-22. [(Link)](https://link.springer.com/article/10.1007/s44246-022-00002-8 )
+<div align="center"><img src="/images/publication_img/56.jpg" width="600"></div>
 - (55). Cui, X.*, Mucci, A., Bianchi, T. S., **He, D.**, Vaughn, D., Williams, E. K., Wang, C., Smeaton, C., Koziorowska-Makuch, K., Faust, J., Plante, A., & Rosenheim, B. E. (2022). Global fjords as transitory reservoirs of labile organic carbon modulated by organo-mineral interactions. Science Advances, 8(46), eadd0610. [(Link)](https://www.science.org/doi/full/10.1126/sciadv.add0610 )
+<div align="center"><img src="/images/publication_img/55.jpg" width="600"></div>
 - (54). Liu, J.*, Zhao, J., **He, D.**, Huang, X., Jiang, C., Yan, H., Lin, G., & An, Z. (2022). Effects of plant types on terrestrial leaf wax long-chain n-alkane biomarkers: Implications and paleoapplications. Earth-Science Reviews, 104248. [(Link)](https://www.sciencedirect.com/science/article/pii/S0012825222003324 )
+<div align="center"><img src="/images/publication_img/54.jpg" width="600"></div>
 - (53). Yi, Y., Li, S. L.*, Zhong, J., Wang, W., Chen, S., Bao, H., & **He, D.** (2022). The influence of the deep subtropical reservoir on the karstic riverine carbon cycle and its regulatory factors: Insights from the seasonal and hydrological changes. Water Research, 226, 119267. [(Link)](https://www.sciencedirect.com/science/article/pii/S004313542201212X )
+<div align="center"><img src="/images/publication_img/53.jpg" width="600"></div>
 - (52). Wen, Z., Shang, Y., Song, K.*, Liu, G., Hou, J., Lyu, L., Tao, H., Li, S., He, C., Shi, Q., & **He, D.** (2022). Composition of dissolved organic matter (DOM) in lakes responds to the trophic state and phytoplankton community succession. Water Research, 224, 119073. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135422010193 )
+<div align="center"><img src="/images/publication_img/52.jpg" width="600"></div>
 - (51). He, C., **He, D.**, Chen, C., & Shi, Q.* (2022). Application of Fourier transform ion cyclotron resonance mass spectrometry in molecular characterization of dissolved organic matter. Science China Earth Sciences, 1-18. [(Link)](https://link.springer.com/article/10.1007/s11430-021-9954-0 )
+<div align="center"><img src="/images/publication_img/51.jpg" width="600"></div>
 - (50). Jiang, X., Liu, D.*, Li, Q., Tian, P., Wu, Y., Li, S., ... & **He, D.** (2022). Connecting the Light Absorption of Atmospheric Organic Aerosols with Oxidation State and Polarity. Environmental Science & Technology, 56(18), 12873-12885. [(Link)](https://pubs.acs.org/doi/full/10.1021/acs.est.2c02202 )
+<div align="center"><img src="/images/publication_img/50.jpg" width="600"></div>
 - (49). Shang, Y., Wen, Z., Song, K.\*, Liu, G., Lai, F., Lyu, L., Li, S., Tao, H., Hou, J., Fang, C., He, C., Shi, Q., & **He, D.**\* (2022). Natural versus anthropogenic controls on the dissolved organic matter chemistry in lakes across China: Insights from optical and molecular level analyses. Water Research, 221, 118779. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135422007321 )
+<div align="center"><img src="/images/publication_img/49.jpg" width="600"></div>
 - (48). Sun, X., Li, P.\*, Zhou, Y., He, C., Cao, F., Wang, Y., Shi, Q., & **He, D.**\* (2022). Linkages Between Optical and Molecular Signatures of Dissolved Organic Matter Along the Yangtze River Estuary-to-East China Sea Continuum. Frontiers in Marine Science, 9, 933561. [(Link)](https://www.frontiersin.org/articles/10.3389/fmars.2022.933561/full )
+<div align="center"><img src="/images/publication_img/48.jpg" width="600"></div>
 - (47). Zhou, Y., Zhao, C., He, C., Li, P., Wang, Y., Pang, Y., Shi, Q., & **He, D.*** (2022). Characterization of dissolved organic matter processing between surface sediment porewater and overlying bottom water in the Yangtze River Estuary. Water Research, 215, 118260. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135422002238 )
-- (46). **He, D.***, Ladd, S. N., Park, J., Sachs, J. P., Simoneit, B. R., Smoak, J. M., & Jaffé, R. (2022). Carbon and hydrogen isotopes of taraxerol in mangrove leaves and sediment cores: Implications for paleo-reconstructions. Geochimica et Cosmochimica Acta, 324, 262-279. [(Link)](https://www.sciencedirect.com/science/article/pii/S0016703722000916 )
+<div align="center"><img src="/images/publication_img/47.jpg" width="600"></div>
+- (46). **He, D.***, Ladd, S. N., Park, J., Sachs, J. P., Simoneit, B. R., Smoak, J. M., & Jaff¨¦, R. (2022). Carbon and hydrogen isotopes of taraxerol in mangrove leaves and sediment cores: Implications for paleo-reconstructions. Geochimica et Cosmochimica Acta, 324, 262-279. [(Link)](https://www.sciencedirect.com/science/article/pii/S0016703722000916 )
+<div align="center"><img src="/images/publication_img/46.jpg" width="600"></div>
 - (45). **He, D.***, Li, P., He, C., Wang, Y., & Shi, Q. (2022). Eutrophication and watershed characteristics shape changes in dissolved organic matter chemistry along two river-estuarine transects. Water Research, 214, 118196. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135422001592 )
+<div align="center"><img src="/images/publication_img/45.jpg" width="600"></div>
 - (44). Zhang, S., Li, X., **He, D.**, Zhang, D., Zhao, Z., Si, H., & Wang, F.* (2022). Per-and poly-fluoroalkyl substances in sediments from the water-level-fluctuation zone of the Three Gorges Reservoir, China: Contamination characteristics, source apportionment, and mass inventory and loadings. Environmental Pollution, 299, 118895. [(Link)](https://www.sciencedirect.com/science/article/pii/S0269749122001099 )
+<div align="center"><img src="/images/publication_img/44.jpg" width="600"></div>
 - (43). Wang, Y.*, Chen, H. H., Tang, R., **He, D.**, Lee, Z., Xue, H., Wells, M., Boss, E., & Chai, F. (2022). Australian fire nourishes ocean phytoplankton bloom. Science of The Total Environment, 807, 150775. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969721058538 )
+<div align="center"><img src="/images/publication_img/43.jpg" width="600"></div>
 - (42). Dai, J., Zhang, Q., Liu, J., Wen, S., Zhang, Y., **He, D.**, & Du, Y.* (2022). Coprecipitation of organic matter, phosphate with iron: Implications for internal loadings of phosphorus in algae-dominated and macrophyte-dominated lakes. Frontiers in Environmental Science, 1062. [(Link)](https://www.frontiersin.org/articles/10.3389/fenvs.2022.953509/full?utm_source=dlvr.it&utm_medium=twitter )
+<div align="center"><img src="/images/publication_img/42.jpg" width="600"></div>
 - (41). Wang, K., Xiao, S., Liu, J., Li, P., He, C., Shi, Q., & **He, D.*** (2022). Spatial dynamics of dissolved organic matter among different segments of a large-scale reservoir in the water-level declining period. Frontiers in Environmental Science, 1187. [(Link)](https://www.frontiersin.org/articles/10.3389/fenvs.2022.962706/full?utm_source=dlvr.it&utm_medium=twitter )
+<div align="center"><img src="/images/publication_img/41.jpg" width="600"></div>
 
 ### 2021
 - (40). Wen, Z., Shang, Y., Lyu, L., Liu, G., Hou, J., He, C., Shi, Q., **He, D.***, & Song, K. (2021). Sources and composition of riverine dissolved organic matter to marginal seas from mainland China. Journal of Hydrology, 603, 127152. [(Link)](https://www.sciencedirect.com/science/article/pii/S0022169421012026 )
+<div align="center"><img src="/images/publication_img/40.jpg" width="600"></div>
 - (39). Wang, K., Li, P., He, C., Shi, Q., & **He, D.*** (2021). Density currents affect the vertical evolution of dissolved organic matter chemistry in a large tributary of the Three Gorges Reservoir during the water-level rising period. Water Research, 204, 117609. [(Link)](https://www.sciencedirect.com/science/article/pii/S0043135421008046 )
+<div align="center"><img src="/images/publication_img/39.jpg" width="600"></div>
 
 ### Before Joining HKUST
 ### 2021
