@@ -63,7 +63,7 @@ Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He is also interested in investigating 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;the biogeochemical impact of microplastics on coastal carbon cycling.
 <br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <zhexuanzhang@ust.hk>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <chenzl@ust.hk>
 
 <br/><br/>
 **Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
