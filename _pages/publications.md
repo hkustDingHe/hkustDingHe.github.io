@@ -9,10 +9,8 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2024
-- (91). Zhang, C., Zhang, X., Chen, Q., Ye, S., Li, B., Pan, B., Wang, M., **He, D.**, & Li, M.* (2024). Variations in growth, photosynthesis, oxidative stress and microcystin production in Microcystis aeruginosa caused by acute exposure to Benzalkonium Chloride and Benzalkonium Bromide. Process Safety and Environmental Protection, 182, 1110-1120.
-### <div align="center"><img src="/images/publication_img/91.jpg" width="600"></div>
-- (90). Chen, Z. L., Zhang, H., Yi, Y., He, Y., Li, P., Wang, Y., ... & **He, D.*** (2024). Dissolved organic matter composition and characteristics during extreme flood events in the Yangtze River Estuary. Science of The Total Environment, 914, 169827.
-### <div align="center"><img src="/images/publication_img/90.jpg" width="600"></div>
+- (91). Zhang, C., Zhang, X., Chen, Q., Ye, S., Li, B., Pan, B., Wang, M., **He, D.**, & Li, M.* (2024). Variations in growth, photosynthesis, oxidative stress and microcystin production in Microcystis aeruginosa caused by acute exposure to Benzalkonium Chloride and Benzalkonium Bromide. Process Safety and Environmental Protection, 182, 1110-1120.<br/><div align="center"><img src="/images/publication_img/91.jpg" width="600"></div>
+- (90). Chen, Z. L., Zhang, H., Yi, Y., He, Y., Li, P., Wang, Y., ... & **He, D.*** (2024). Dissolved organic matter composition and characteristics during extreme flood events in the Yangtze River Estuary. Science of The Total Environment, 914, 169827.<br/><div align="center"><img src="/images/publication_img/90.jpg" width="600"></div>
 - (89). Zhang, J., Hao, Q., Li, Q., Zhao, X., Fu, X., Wang, W., **He, D.**, Li, Yuan, Zhang, Z., Zhang, X.\*, & Song, Z.\* (2024). Source identification of sedimentary organic carbon in coastal wetlands of the western Bohai Sea. Science of The Total Environment, 913, 169282.
 ### <div align="center"><img src="/images/publication_img/89.jpg" width="600"></div>
 - (88). Wang, K., Huang, L., He, G., Liu, Y., Xu, S., **He, D.**, Bai, S., Reible, D., & Fang, H.* (2024). Crucial Role of Tributary Bays in the Carbon Burial of Three Gorges Reservoir. ACS ES&T Water. [(Link)](https://doi.org/10.1021/acsestwater.3c00459 )
