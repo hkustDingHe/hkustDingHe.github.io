@@ -8,6 +8,17 @@ author_profile: true
 
 {% include base_path %}
 
+<div align="center"><img src="/images/contactus.jpg" width="90%"></div>
+<br/>
+<center>
+  <b>
+    <a href="https://oces.hkust.edu.hk/">Department of Ocean Science</a>
+    <br/>
+    <a href="https://hkust.edu.hk/">HKUST</a>
+  </b>
+</center>
+
+<!--
 <br/><br/>
 **HKUST DREAM Group** <img style="float: left; padding-right: 15px;" src="/images/location.png" width="500"> 
 <br/><br/>
@@ -31,3 +42,4 @@ Phone:
     <a href="https://hkust.edu.hk/">HKUST</a>
   </b>
 </center>
+-->
