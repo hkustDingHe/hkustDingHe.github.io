@@ -81,7 +81,7 @@ PhD student (2022-now)
 <br/><br/>
 Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
 <br/><br/>
-Email: <czhaobk@connect.ust.hk>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <czhaobk@connect.ust.hk>
 
 <br/><br/>
 **Yu Pang** <img style="float: left; padding-right: 15px;" src="/images/panyu.jpg" width="200"> 
