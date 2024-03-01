@@ -141,3 +141,51 @@ RA (2023-now)
 Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
 <br/><br/>
 Email: <ocesyaopiao@ust.hk>
+
+<br/><br/>
+**Ming Ye** <img style="float: left; padding-right: 15px;" src="/images/yeming.jpg" width="200"> 
+<br>
+RA (2023-now)
+<br/><br/>
+Description
+<br/><br/>
+Email: <yura@ust.hk>
+
+### Alumni
+**Prof. Bin Zhou** <img style="float: left; padding-right: 15px;" src="/images/zhoubin.jpg" width="200"> 
+<br>
+Visiting Scholar [Homepage](https://es.nju.edu.cn/zb/list.htm)\
+School of Earth Sciences and Engineering, Nanjing University
+<br/><br/>
+Prof. Zhou is interested in elemental carbon records and fire and vegetation evolution history, biomarkers and paleoenvironmental reconstruction, and paleoclimate and environmental changes at different time scales in the East Asian monsoon region since the late Cenozoic.
+<br/><br/>
+Email: <zhoubinok@163.com>
+
+<br/><br/>
+**Dr. Haowen Zheng** <img style="float: left; padding-right: 15px;" src="/images/zhenghaowen.jpg" width="200"> 
+<br>
+Visiting Scholar [Homepage]()\
+College of Oceanography and Environmental Science, Xiamen University
+<br/><br/>
+Description
+<br/><br/>
+Email: 
+
+<br/><br/>
+**Dr. Yunchao Wu** <img style="float: left; padding-right: 15px;" src="/images/wuyunchao.jpg" width="200"> 
+<br>
+Visiting Scholar [Homepage]()\
+South China Sea Institute of Oceanology, Chinese Academy of Sciences
+<br/><br/>
+Description
+<br/><br/>
+Email: 
+
+### Postdoc
+**Dr. Yuping Zhou** (Now Associated Professor of Qingdao University of Technology)
+
+### PhD
+**Dr. Kai Wang** (2017-2020; Now Research Assistant Professor of Southern University of Science and Technology)
+
+### Mphil
+**Ms. Yu Pang** (Now PhD student in DREAM group)
