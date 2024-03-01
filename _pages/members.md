@@ -75,15 +75,24 @@ Zhenwei obtained his Bachelor's and Master's degrees from the Ocean University o
 Email: <zyanbf@connect.ust.hk>
 
 <br/><br/>
+**Chen Zhao** <img style="float: left; padding-right: 15px;" src="/images/zhaochen.jpg" width="200"> 
+<br>
+PhD student (2022-now)
+<br/><br/>
+Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
+<br/><br/>
+Email: <czhaobk@connect.ust.hk>
+
+<br/><br/>
 **Yu Pang** <img style="float: left; padding-right: 15px;" src="/images/panyu.jpg" width="200"> 
 <br>
 PhD student (2023-now)
 <br/><br/>
 
-
-<br/><br/>
 <br/><br/>
 Email: <ypangag@connect.ust.hk>
+<br/><br/>
+<br/><br/>
 
 <br/><br/>
 **Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
