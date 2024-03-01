@@ -88,7 +88,7 @@ Chen is interested in the following two aspects: 1) Elucidating the carbon cycli
 <br>
 PhD student (2023-now)
 <br/><br/>
-
+Yu obtained her Master’s degrees from Zhejiang University. Her interests include DOM dynamics from rivers to oceans.
 <br/><br/>
 Email: <ypangag@connect.ust.hk>
 <br/><br/>
