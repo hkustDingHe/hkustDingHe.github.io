@@ -21,6 +21,7 @@ Clear Water Bay, Kowloon, Hong Kong
 <br/><br/>
 Phone: 
 <br/><br/>
+[WeChat Official Accounts](/images/)
 <br/><br/>
 
 <center>
