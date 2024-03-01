@@ -27,7 +27,7 @@ author_profile: true
 <div align="center"><img src="/images/publication_img/84.jpg" width="600"></div>
 
 ### 2023
-- (83). Lønborg, C.*, Carreira, C., Abril, G., Agustí, S., Amaral, V., Andersson, A., … **He, D.**, … & Álvarez-Salgado, X. A. (2023). A global database of dissolved organic matter (DOM) measurements in coastal waters (CoastDOM v1). Earth System Science Data, 2023, 1-30.
+(83). Lønborg, C.*, Carreira, C., Abril, G., Agustí, S., Amaral, V., Andersson, A., … **He, D.**, … & Álvarez-Salgado, X. A. (2023). A global database of dissolved organic matter (DOM) measurements in coastal waters (CoastDOM v1). Earth System Science Data, 2023, 1-30.
 <div align="center"><img src="/images/publication_img/83.jpg" width="600"></div>
 (82) Liang, W., Liu, T., Wang, Y., Jiao, J.J., Gan, J., & **He, D.*** (2023). Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters. Science of The Total Environment, 905, 167138. [(Link)](https://www.sciencedirect.com/science/article/pii/S0048969723057650 )
 <div align="center"><img src="/images/publication_img/82.jpg" width="600"></div>
@@ -80,7 +80,7 @@ author_profile: true
 <div align="center"><img src="/images/publication_img/59.jpg" width="600"></div>
 
 ### 2022
-(58). Lu, Y., Cao, J.\*, Fu, J., Liu, L., Wu, Q., Yang, X., Yang, S., Cheng, S., Qiu, X., **He, D.** (2022). Discovery of a Hadean xenocrystic zircon (4100 Ma) in the Cathaysia Block. Science Bulletin, 67(23), 2416-2419.
+(58). Lu, Y., Cao, J.\*, Fu, J., Liu, L., Wu, Q., Yang, X., Yang, S., Cheng, S., Qiu, X., **He, D.** (2022). Discovery of a Hadean xenocrystic zircon (4100 Ma) in the Cathaysia Block. Science Bulletin, 67(23), 2416-2419.\
 (57). Wang, Y. P., Luo, T., Zhou, X., Zhan, Z. W., Song, Z.\*, & **He, D.** (2022). Inverse relationships between salinity and hydrogen isotope fractionation of n-alkanes in the Aegiceras corniculatum leaves and surface sediments from Zhanjiang mangrove estuary of China. Chemical Geology, 612, 121138. [(Link)](https://www.sciencedirect.com/science/article/pii/S0009254122004326 )
 <div align="center"><img src="/images/publication_img/57.jpg" width="600"></div>
 (56). Qi, Y., Xie, Q., Wang, J. J., **He, D.**, Bao, H., Fu, Q. L., Su, S., Sheng, M., Li, S., Volmer, D., Wu, F., Jiang, G., Liu, C., & Fu, P.\* (2022). Deciphering dissolved organic matter by Fourier transform ion cyclotron resonance mass spectrometry (FT-ICR MS): from bulk to fractions and individuals. Carbon Research, 1(1), 1-22. [(Link)](https://link.springer.com/article/10.1007/s44246-022-00002-8 )
