@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+<br/>
 <div align="center"><img src="/images/contactus.jpg" width="90%"></div>
 <br/>
 
