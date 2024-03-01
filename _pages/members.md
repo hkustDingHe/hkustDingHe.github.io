@@ -76,6 +76,16 @@ Prof. Liu is interested in cutting-edge algorithms for big data and artificial i
 Email: <tongcun.liu@gmail.com>, <liutongcun@e-byte.com>
 
 <br/><br/>
+**Prof. Penghui Li** <img style="float: left; padding-right: 15px;" src="/images/LPH.jpg" width="200"> 
+<br>
+Visiting Scholar [Homepage](https://marine.sysu.edu.cn/teacher/7873?_=cfcd2084)\
+School of Marine Sciences, Sun Yat-Sen University
+<br/><br/>
+Prof. Li is interested in the characterization of dissolved organic matter in the natural environment, the biogeochemical cycle of dissolved organic matter, and the relationship between dissolved organic matter and environmental factors.
+<br/><br/>
+Email: <liph8@mail.sysu.edu.cn>
+
+<br/><br/>
 **Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
 <br>
 PhD student (2022-now)
