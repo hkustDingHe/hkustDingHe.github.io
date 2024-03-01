@@ -66,6 +66,16 @@ Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <chenzl@ust.hk>
 
 <br/><br/>
+**Prof. Tongcun Liu** <img style="float: left; padding-right: 15px;" src="/images/liutongcun.jpg" width="200"> 
+<br>
+Visiting Scholar\
+School of Mathematics and Computer Science, Zhejiang A&F University
+<br/><br/>
+Prof. Liu is interested in cutting-edge algorithms for big data and artificial intelligence. His researches focus on recommender system and user behavior modeling, spatiotemporal big data analysis and modeling, bioinformatics, ocean big data, natural language processing, and computer vision.
+<br/><br/>
+Email: <tongcun.liu@gmail.com>, <liutongcun@e-byte.com>
+
+<br/><br/>
 **Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
 <br>
 PhD student (2022-now)
