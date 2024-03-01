@@ -9,12 +9,13 @@ author_profile: true
 {% include base_path %}
 
 <div align="center"><img src="/images/contactus.jpg" width="90%"></div>
-<br/>
 <center>
   <b>
     <a href="https://oces.hkust.edu.hk/">Department of Ocean Science</a>
     <br/>
-    <a href="https://hkust.edu.hk/">HKUST</a>
+    <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>
+    <br/>
+    <a href="https://www.google.com/maps/search/1+University+Rd,+Hong+Kong+University+of+Science+and+Technology,+Clear+Water+Bay,+Hong+Kong/@22.337192,114.264417,15z?hl=zh-CN&entry=ttu">Clear Water Bay, Kowloon, Hong Kong</a>
   </b>
 </center>
 
