@@ -86,6 +86,16 @@ Prof. Li is interested in the characterization of dissolved organic matter in th
 Email: <liph8@mail.sysu.edu.cn>
 
 <br/><br/>
+**Associate Prof. Fang Yang** <img style="float: left; padding-right: 15px;" src="/images/yangfang.jpg" width="200"> 
+<br>
+Visiting Scholar [Homepage](https://www.researchgate.net/profile/Fang-Yang-76)\
+College of Natural Resources and Environment, Northwest A&F University (NWAFU)
+<br/><br/>
+Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
+<br/><br/>
+Email: <yangfang@ust.hk>
+
+<br/><br/>
 **Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
 <br>
 PhD student (2022-now)
