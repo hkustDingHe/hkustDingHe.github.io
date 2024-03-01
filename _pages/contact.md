@@ -9,6 +9,8 @@ author_profile: true
 {% include base_path %}
 
 <div align="center"><img src="/images/contactus.jpg" width="90%"></div>
+<br/>
+
 <center>
   <b>
     <a href="https://oces.hkust.edu.hk/">Department of Ocean Science</a>
