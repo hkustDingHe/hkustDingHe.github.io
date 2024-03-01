@@ -157,9 +157,10 @@ Email: <yura@ust.hk>
 Visiting Scholar [Homepage](https://es.nju.edu.cn/zb/list.htm)\
 School of Earth Sciences and Engineering, Nanjing University
 <br/><br/>
-Prof. Zhou is interested in elemental carbon records and fire and vegetation evolution history, biomarkers and paleoenvironmental reconstruction, and paleoclimate and environmental changes at different time scales in the East Asian monsoon region since the late Cenozoic.
+Prof. Zhou is interested in elemental carbon records and fire and vegetation evolution history, biomarkers and paleoenvironmental reconstruction, and paleoclimate and environmental changes 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;at different time scales in the East Asian monsoon region since the late Cenozoic.
 <br/><br/>
-Email: <zhoubinok@163.com>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <zhoubinok@163.com>
 
 <br/><br/>
 **Dr. Haowen Zheng** <img style="float: left; padding-right: 15px;" src="/images/zhenghaowen.jpg" width="200"> 
@@ -180,6 +181,7 @@ South China Sea Institute of Oceanology, Chinese Academy of Sciences
 Description
 <br/><br/>
 Email: 
+<br/><br/>
 
 ### Postdoc
 **Dr. Yuping Zhou** (Now Associated Professor of Qingdao University of Technology)
