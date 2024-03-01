@@ -160,7 +160,7 @@ author_profile: true
 
 ### 2017
 (11). **He, D.**, Zhu, C., Zhang, K., Xiao, S., Cui, X., & Sun, Y.\* (2017). Source and composition of sedimentary organic matter in the head of Three Gorges Reservoir: a multiproxy approach using δ<sup>13</sup>C, lignin phenols, and lipid biomarker analyses. Acta Geochimica, 36(3), 452-455. [(Link)](https://link.springer.com/article/10.1007/s11631-017-0189-8 )\
-(10). **He, D.**\*, Ladd, S. N., Sachs, J. P., & Jaffé, R. (2017). Inverse relationship between salinity and <sup>2</sup>H/<sup>1</sup>H fractionation in leaf wax n-alkanes from Florida mangroves. Organic Geochemistry, 110, 1-12. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016302881 )\
+(10). **He, D.**\*, Ladd, S. N., Sachs, J. P., & Jaffé, R. (2017). Inverse relationship between salinity and <sup>2</sup>H/<sup>1</sup>H fractionation in leaf wax n-alkanes from Florida mangroves. Organic Geochemistry, 110, 1-12. [(Link)](https://www.sciencedirect.com/science/article/pii/S0146638016302881 )
 
 ### 2016
 (9). **He, D.**, Anderson, W.T., & Jaffé, R.\* (2016). Compound specific δD and δ13C analyses as a tool for the assessment of hydrological change in a subtropical wetland. Aquatic Sciences, 78(4), 809-822. [(Link)](https://link.springer.com/article/10.1007/s00027-016-0473-4)\
