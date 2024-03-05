@@ -57,8 +57,8 @@ redirect_from:
 
 <br/><br/>
 **D**ata-driven app**R**oaches for **E**xploring geochemistry of **A**quatic ecosyste**M**s (**DREAM**) group focuses on the following scientific questions:
-<br\>
+<br/>
 **DREAM1: Bio-organic geochemistry —— Organic carbon cycling in estuaries and coasts**
-<br\>
-
+<br/>
+<div align="center"><img src="/images/dream1_1.jpg" width="70%"></div>
 
