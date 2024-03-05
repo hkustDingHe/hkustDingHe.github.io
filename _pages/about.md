@@ -1,4 +1,4 @@
----
+![image](https://github.com/hkustDingHe/hkustDingHe.github.io/assets/160555587/b3d2ea8d-306a-4113-9191-84a4dc936f0f)---
 layout: archive
 permalink: /
 title: "About us"
@@ -64,6 +64,6 @@ redirect_from:
 <br/><br/>
 **DREAM2: Big-data and machine-learning-assisted organic geochemistry and Molecular fingerprint platform**
 <br/>
-
-
+<div align="center"><img src="/images/dream2_1.gif" width="70%"></div>
+<center>Molecular network</center>
 
