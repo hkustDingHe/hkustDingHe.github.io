@@ -57,8 +57,13 @@ redirect_from:
 
 <br/><br/>
 **D**ata-driven app**R**oaches for **E**xploring geochemistry of **A**quatic ecosyste**M**s (**DREAM**) group focuses on the following scientific questions:
-<br/>
+<br/><br/>
 **DREAM1: Bio-organic geochemistry —— Organic carbon cycling in estuaries and coasts**
 <br/>
 <div align="center"><img src="/images/dream1_1.jpg" width="70%"></div>
+<br/><br/>
+**DREAM2: Big-data and machine-learning-assisted organic geochemistry and Molecular fingerprint platform**
+<br/>
+
+
 
