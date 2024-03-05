@@ -66,4 +66,10 @@ redirect_from:
 <br/>
 <div align="center"><img src="/images/dream2_1.gif" width="70%"></div>
 <center>Molecular network</center>
+<br/>
+<div align="center"><img src="/images/dream2_2.jpg" width="70%"></div>
+<center>Reichstein et al., 2019 Nature</center>
+<br/>
+<div align="center"><img src="/images/dream2_3.gif" width="70%"></div>
+<center>Molecular classification</center>
 
