@@ -56,4 +56,9 @@ redirect_from:
 </ul>
 
 <br/><br/>
-**HKUST DREAM Group**
+**D**ata-driven app**R**oaches for **E**xploring geochemistry of **A**quatic ecosyste**M**s (**DREAM**) group focuses on the following scientific questions:
+<br\>
+**DREAM1: Bio-organic geochemistry —— Organic carbon cycling in estuaries and coasts**
+<br\>
+
+
