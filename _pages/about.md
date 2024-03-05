@@ -72,4 +72,8 @@ redirect_from:
 <br/>
 <div align="center"><img src="/images/dream2_3.gif" width="70%"></div>
 <center>Molecular classification</center>
-
+<br/<br/>
+**Powerful tools to help our dreams come true**
+<br/><br/>
+<div align="center"><img src="/images/FT_ICR_MS.jpg" width="70%"></div>
+<center>Fourier Transform Ion Cyclotron Resonance Mass Spectrometry</center>
