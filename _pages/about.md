@@ -1,4 +1,4 @@
-![image](https://github.com/hkustDingHe/hkustDingHe.github.io/assets/160555587/b3d2ea8d-306a-4113-9191-84a4dc936f0f)---
+---
 layout: archive
 permalink: /
 title: "About us"
