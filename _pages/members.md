@@ -125,6 +125,15 @@ Email: <ypangag@connect.ust.hk>
 <br/><br/>
 
 <br/><br/>
+**Huiying Ma** <img style="float: left; padding-right: 15px;" src="/images/mahuiying.jpg" width="200"> 
+<br>
+PhD student (2022-now, Co-supervised with Prof. Si-Liang Li from Tianjin University)
+<br/><br/>
+Huiying is studying at the School of Earth System Science, Tianjin University. Her interest focused on the phototransformations of environmentally pertinent organic compounds, with a specific emphasis on dissolved organic sulfur (DOS) in estuarine coastal zones. Through photodegradation experiments, she tries to reveal the biogeochemical fate of DOS from different sources in estuarine coastal zones, and attempts to provide direct evidence for the photochemical degradation efficiency, products and mechanisms of DOS at the molecular scale.
+<br/><br/>
+Email: <huiying_ma@tju.edu.cn>
+
+<br/><br/>
 **Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
 <br>
 RA (2023-now)
