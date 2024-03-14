@@ -59,6 +59,7 @@ author_profile: true
         Yuanbi obtained his Ph.D. degree from Tianjin University, and he aims to use multiple methods, such as isotopic analysis and high-resolution mass spectrometry, to explore the transport and transformation of organic matter in aquatic systems and its impact on climate change.
         <br/><br/>
         Email: <a href="mailto://yuanbiyi@ust.hk">yuanbiyi@ust.hk</a>
+        <br/><br/><br/>
     </p>
 </div>
 
@@ -71,6 +72,7 @@ author_profile: true
         Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on the sources and sinks of organic matter in aquatic systems. His approaches include various techniques such as FT-ICR MS, excitation–emission matrix fluorescence spectroscopy, and lipid biomarkers. He likes movies and photography.
         <br/><br/>
         Email: <a href="mailto://zhexuanzhang@ust.hk">zhexuanzhang@ust.hk</a>
+        <br/><br/>
     </p>
 </div>
 
@@ -86,26 +88,19 @@ author_profile: true
     </p>
 </div>
 
-<br/><br/>
-**Dr. Wenzhao Liang** <img style="float: left; padding-right: 15px;" src="/images/liangwenzhao.jpg" width="200"> 
-<br>
-Postdoc (2022-now) **[CV](https://hkustDingHe.github.io/files/WenzhaoLiangCV.pdf)**
-<br/><br/>
-Dr. Liang holds a PhD degree in Hydrogeology and Biogeochemistry from The University of Hong Kong. His research primarily revolves around unraveling the intricate interplay among physical, biogeochemical, and environmental processes in coastal environments. Currently, his focus lies in the carbon cycle, with a particular interest in exploring the connection between the characteristics of dissolved organic matter and greenhouse gas dynamics. Additionally, Liang is actively engaged in utilizing machine learning techniques to evaluate the impact of environmental drivers on hydro-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;bio-geo-chemical processes.
-<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <liangwz@ust.hk>
+<div class="block">
+    <img src="/images/chenzhaoliang.jpg"/>
+    <p>
+        <b>Dr. Zhaoliang Chen</b><br/>
+        Postdoc (2022-now)
+        <br/><br/>
+        Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2022. His current research mainly focuses on understanding carbon cycling in coastal wetlands and estuaries by using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He is also interested in investigating the biogeochemical impact of microplastics on coastal carbon cycling.
+        <br/><br/>
+        Email: <a href="mailto://chenzl@ust.hk">chenzl@ust.hk</a>
+    </p>
+</div>
 
-<br/><br/>
-**Dr. Zhaoliang Chen** <img style="float: left; padding-right: 15px;" src="/images/chenzhaoliang.jpg" width="200"> 
-<br>
-Postdoc (2022-now)
-<br/><br/>
-Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2022. His current research mainly focuses on understanding carbon cycling in coastal wetlands and estuaries by 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He is also interested in investigating 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;the biogeochemical impact of microplastics on coastal carbon cycling.
-<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <chenzl@ust.hk>
+
 
 <br/><br/>
 **Prof. Tongcun Liu** <img style="float: left; padding-right: 15px;" src="/images/liutongcun.jpg" width="200"> 
