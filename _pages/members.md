@@ -34,6 +34,7 @@ author_profile: true
         I got my PhD degree (majored in Marine Organic Geochemistry; supervised by Professor Rudolf Jaffé and co-supervised by Professor Bernd R.T. Simoneit) from Florida International University in 2014. I worked as a Postdoctoral Fellow at Department of Marine Science (supervised by Professor Patricia Medeiros) from University of Georgia from 2014 to 2016. I worked as a visiting researcher at Tongji University in 2016, and a Hundred Talent Professor at Zhejiang University from 2016 and join in HKUST in 2021. I have established a DREAM group at HKUST.
         <br/><br/>
         Email: <a href="mailto://dinghe@ust.hk">dinghe@ust.hk</a>
+        <br/><br/>
     </p>
 </div>
 
