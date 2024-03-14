@@ -46,7 +46,7 @@ author_profile: true
         Ruanhong obtained his Ph.D. degree from Xiamen University. His research focuses on the microbially mediated cycling of dissolved organic matter (DOM) in the ocean and relevant environmental and climate effects.
         <br/><br/>
         Email: <a href="mailto://cairuanhong@ust.hk">cairuanhong@ust.hk</a>, <a href="mailto://crh1987@163.com">crh1987@163.com</a>
-        <br/><br/>
+        <br/><br/><br/>
     </p>
 </div>
 
@@ -74,14 +74,17 @@ author_profile: true
     </p>
 </div>
 
-<br/><br/>
-**Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 15px;" src="/images/zhengzexuan.jpg" width="200"> 
-<br>
-Postdoc (2024-now)
-<br/><br/>
-Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on the sources and sinks of organic matter in aquatic systems. His approaches include various techniques such as FT-ICR MS, excitation–emission matrix fluorescence spectroscopy, and lipid biomarkers. He likes movies and photography.
-<br/><br/>
-Email: <zhexuanzhang@ust.hk>
+<div class="block">
+    <img src="/images/liangwenzhao.jpg"/>
+    <p>
+        <b>Dr. Wenzhao Liang</b><br/>
+        Postdoc (2022-now) <a href="https://hkustDingHe.github.io/files/WenzhaoLiangCV.pdf">CV</a>
+        <br/><br/>
+        Dr. Liang holds a PhD degree in Hydrogeology and Biogeochemistry from The University of Hong Kong. His research primarily revolves around unraveling the intricate interplay among physical, biogeochemical, and environmental processes in coastal environments. Currently, his focus lies in the carbon cycle, with a particular interest in exploring the connection between the characteristics of dissolved organic matter and greenhouse gas dynamics. Additionally, Liang is actively engaged in utilizing machine learning techniques to evaluate the impact of environmental drivers on hydro-bio-geo-chemical processes.
+        <br/><br/>
+        Email: <a href="mailto://liangwz@ust.hk">liangwz@ust.hk</a>
+    </p>
+</div>
 
 <br/><br/>
 **Dr. Wenzhao Liang** <img style="float: left; padding-right: 15px;" src="/images/liangwenzhao.jpg" width="200"> 
