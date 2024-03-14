@@ -199,10 +199,10 @@ author_profile: true
         <b>Runze Xue</b><br/>
         RA (2023-now)
         <br/><br/>
-        Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
+        Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022-now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
         <br/><br/>
         Email: <a href="mailto://walkerxue@ust.hk">walkerxue@ust.hk</a>
-        <br/><br/><br/><br/><br/>
+        <br/><br/><br/><br/>
     </p>
 </div>
 
