@@ -16,7 +16,7 @@ author_profile: true
 }
 .block p{
     width: 78%;
-    line-height: 24px;
+    line-height: 26px;
     overflow: hidden;
     text-align: justify;
     text-align-last: auto;
@@ -34,6 +34,18 @@ author_profile: true
         I got my PhD degree (majored in Marine Organic Geochemistry; supervised by Professor Rudolf Jaffé and co-supervised by Professor Bernd R.T. Simoneit) from Florida International University in 2014. I worked as a Postdoctoral Fellow at Department of Marine Science (supervised by Professor Patricia Medeiros) from University of Georgia from 2014 to 2016. I worked as a visiting researcher at Tongji University in 2016, and a Hundred Talent Professor at Zhejiang University from 2016 and join in HKUST in 2021. I have established a DREAM group at HKUST.
         <br/><br/>
         Email: <a href="mailto://dinghe@ust.hk">dinghe@ust.hk</a>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/cairuanhong.jpg.jpg"/>
+    <p>
+        <b>Dr. Ruanhong Cai</b><br/>
+        Postdoc (2023-now)
+        <br/><br/>
+        Ruanhong obtained his Ph.D. degree from Xiamen University. His research focuses on the microbially mediated cycling of dissolved organic matter (DOM) in the ocean and relevant environmental and climate effects.
+        <br/><br/>
+        Email: <a href="mailto://cairuanhong@ust.hk">cairuanhong@ust.hk</a><a href="mailto://crh1987@163.com">crh1987@163.com</a>
     </p>
 </div>
 
