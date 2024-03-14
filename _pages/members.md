@@ -59,7 +59,7 @@ author_profile: true
         Yuanbi obtained his Ph.D. degree from Tianjin University, and he aims to use multiple methods, such as isotopic analysis and high-resolution mass spectrometry, to explore the transport and transformation of organic matter in aquatic systems and its impact on climate change.
         <br/><br/>
         Email: <a href="mailto://yuanbiyi@ust.hk">yuanbiyi@ust.hk</a>
-        <br/><br/><br/>
+        <br/><br/><br/><br/>
     </p>
 </div>
 
@@ -100,17 +100,21 @@ author_profile: true
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/liutongcun.jpg"/>
+    <p>
+        <b>Prof. Tongcun Liu</b><br/>
+        Visiting Scholar <a href="https://liutongcun.github.io/">Homepage</a>
+        <br/>
+        School of Mathematics and Computer Science, Zhejiang A&F University
+        <br/><br/>
+        Prof. Liu is interested in cutting-edge algorithms for big data and artificial intelligence. His researches focus on recommender system and user behavior modeling, spatiotemporal big data analysis and modeling, bioinformatics, ocean big data, natural language processing, and computer vision.
+        <br/><br/>
+        Email: <a href="mailto://tongcun.liu@gmail.com">tongcun.liu@gmail.com</a>, <a href="mailto://liutongcun@e-byte.com">liutongcun@e-byte.com</a>
+    </p>
+</div>
 
 
-<br/><br/>
-**Prof. Tongcun Liu** <img style="float: left; padding-right: 15px;" src="/images/liutongcun.jpg" width="200"> 
-<br>
-Visiting Scholar [Homepage](https://liutongcun.github.io/)\
-School of Mathematics and Computer Science, Zhejiang A&F University
-<br/><br/>
-Prof. Liu is interested in cutting-edge algorithms for big data and artificial intelligence. His researches focus on recommender system and user behavior modeling, spatiotemporal big data analysis and modeling, bioinformatics, ocean big data, natural language processing, and computer vision.
-<br/><br/>
-Email: <tongcun.liu@gmail.com>, <liutongcun@e-byte.com>
 
 <br/><br/>
 **Prof. Penghui Li** <img style="float: left; padding-right: 15px;" src="/images/LPH.jpg" width="200"> 
