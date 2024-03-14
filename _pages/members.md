@@ -45,7 +45,7 @@ author_profile: true
         <br/><br/>
         Ruanhong obtained his Ph.D. degree from Xiamen University. His research focuses on the microbially mediated cycling of dissolved organic matter (DOM) in the ocean and relevant environmental and climate effects.
         <br/><br/>
-        Email: <a href="mailto://cairuanhong@ust.hk">cairuanhong@ust.hk</a><a href="mailto://crh1987@163.com">crh1987@163.com</a>
+        Email: <a href="mailto://cairuanhong@ust.hk">cairuanhong@ust.hk</a>, <a href="mailto://crh1987@163.com">crh1987@163.com</a>
     </p>
 </div>
 
