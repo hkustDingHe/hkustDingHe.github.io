@@ -49,6 +49,18 @@ author_profile: true
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/yiyuanbi.jpg"/>
+    <p>
+        <b>Dr. Yuanbi Yi</b><br/>
+        Postdoc (2022-now) <a href="https://hkustDingHe.github.io/files/YuanbiCV.pdf">CV</a>
+        <br/><br/>
+        Yuanbi obtained his Ph.D. degree from Tianjin University, and he aims to use multiple methods, such as isotopic analysis and high-resolution mass spectrometry, to explore the transport and transformation of organic matter in aquatic systems and its impact on climate change.
+        <br/><br/>
+        Email: <a href="mailto://yuanbiyi@ust.hk">yuanbiyi@ust.hk</a>
+    </p>
+</div>
+
 **Dr. Ding He** <img style="float: left; padding-right: 15px;" src="/images/heding.jpg" width="200"> 
 <br>
 Assistant Professor, PI **[CV](https://hkustDingHe.github.io/files/HeDingCV.pdf)**
