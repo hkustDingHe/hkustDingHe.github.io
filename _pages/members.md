@@ -72,7 +72,7 @@ author_profile: true
         Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on the sources and sinks of organic matter in aquatic systems. His approaches include various techniques such as FT-ICR MS, excitation–emission matrix fluorescence spectroscopy, and lipid biomarkers. He likes movies and photography.
         <br/><br/>
         Email: <a href="mailto://zhexuanzhang@ust.hk">zhexuanzhang@ust.hk</a>
-        <br/><br/>
+        <br/>
     </p>
 </div>
 
@@ -142,16 +142,29 @@ author_profile: true
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/yanzhenwei.jpg"/>
+    <p>
+        <b>Zhenwei Yan</b><br/>
+        PhD student (2022-now)
+        <br/><br/>
+        Zhenwei obtained his Bachelor's and Master's degrees from the Ocean University of China. His research is centered around the use of stable nitrogen isotopes and high-resolution mass spectrometry to investigate the fate of dissolved organic nitrogen in marine environments. The objective of his study is to gain a deeper understanding of the role of dissolved organic nitrogen in marine nitrogen and carbon cycles, as well as its implications for global change.
+        <br/><br/>
+        Email: <a href="mailto://zyanbf@connect.ust.hk">zyanbf@connect.ust.hk</a>
+    </p>
+</div>
 
-
-<br/><br/>
-**Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
-<br>
-PhD student (2022-now)
-<br/><br/>
-Zhenwei obtained his Bachelor's and Master's degrees from the Ocean University of China. His research is centered around the use of stable nitrogen isotopes and high-resolution mass spectrometry to investigate the fate of dissolved organic nitrogen in marine environments. The objective of his study is to gain a deeper understanding of the role of dissolved organic nitrogen in marine nitrogen and carbon cycles, as well as its implications for global change.
-<br/><br/>
-Email: <zyanbf@connect.ust.hk>
+<div class="block">
+    <img src="/images/zhaochen.jpg"/>
+    <p>
+        <b>Chen Zhao</b><br/>
+        PhD student (2022-now)
+        <br/><br/>
+        Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
+        <br/><br/>
+        Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a>
+    </p>
+</div>
 
 <br/><br/>
 **Chen Zhao** <img style="float: left; padding-right: 15px;" src="/images/zhaochen.jpg" width="200"> 
