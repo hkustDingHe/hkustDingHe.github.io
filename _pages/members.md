@@ -8,21 +8,19 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-    .block img{
-        float: left;
-        margin-right: 2%;
-        width: 20%;
-    }
-    .block p{
-        width: 78%;
-        line-height: 20px;
-        overflow: hidden;
-        text-align: justify;
-        text-align-last: auto;
-        direction: ltr;
-    }
-</style>
+.block img{
+    float: left;
+    margin-right: 2%;
+    width: 20%;
+}
+.block p{
+    width: 78%;
+    line-height: 20px;
+    overflow: hidden;
+    text-align: justify;
+    text-align-last: auto;
+    direction: ltr;
+}
 
 ### Current members
 <div class="block">
