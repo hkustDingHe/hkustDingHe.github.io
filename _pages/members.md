@@ -38,7 +38,7 @@ author_profile: true
 </div>
 
 <div class="block">
-    <img src="/images/cairuanhong.jpg.jpg"/>
+    <img src="/images/cairuanhong.jpg"/>
     <p>
         <b>Dr. Ruanhong Cai</b><br/>
         Postdoc (2023-now)
