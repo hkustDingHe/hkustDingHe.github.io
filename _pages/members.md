@@ -8,7 +8,31 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+    .block img{
+        float: left;
+        margin-right: 2%;
+        width: 20%;
+    }
+    .block p{
+        width: 78%;
+        line-height: 20px;
+        overflow: hidden;
+        text-align: justify;
+        text-align-last: auto;
+        direction: ltr;
+    }
+</style>
+
 ### Current members
+<div class="block">
+    <img src="/images/heding.jpg"/>
+    <p><b>Dr. Ding He</b></p>
+    <p>I got my PhD degree (majored in Marine Organic Geochemistry; supervised by Professor Rudolf Jaffé and co-supervised by Professor Bernd R.T. Simoneit) from Florida International University in 2014. I worked as a Postdoctoral Fellow at Department of Marine Science (supervised by Professor Patricia Medeiros) from University of Georgia from 2014 to 2016. I worked as a visiting researcher at Tongji University in 2016, and a Hundred Talent Professor at Zhejiang University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;from 2016 and join in HKUST in 2021. I have established a DREAM group at HKUST.
+    </p>
+    <br/><br/><br/><br/>
+</div>
+
 **Dr. Ding He** <img style="float: left; padding-right: 15px;" src="/images/heding.jpg" width="200"> 
 <br>
 Assistant Professor, PI **[CV](https://hkustDingHe.github.io/files/HeDingCV.pdf)**
