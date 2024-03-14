@@ -140,7 +140,7 @@ author_profile: true
         Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
         <br/><br/>
         Email: <a href="mailto://yangfang@ust.hk">yangfang@ust.hk</a>
-        <br/><br/>
+        <br/>
     </p>
 </div>
 
@@ -165,7 +165,6 @@ author_profile: true
         Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
         <br/><br/>
         Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a>
-        <br/><br/><br/>
     </p>
 </div>
 
@@ -203,7 +202,7 @@ author_profile: true
         Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
         <br/><br/>
         Email: <a href="mailto://walkerxue@ust.hk">walkerxue@ust.hk</a>
-        <br/><br/>
+        <br/><br/><br/>
     </p>
 </div>
 
@@ -215,8 +214,8 @@ author_profile: true
         <br/><br/>
         Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
         <br/><br/>
-        <br/><br/>
         Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
+        <br/><br/><br/>
     </p>
 </div>
 
@@ -235,37 +234,49 @@ author_profile: true
 <br/>
 
 ### Alumni
-**Prof. Bin Zhou** <img style="float: left; padding-right: 15px;" src="/images/zhoubin.jpg" width="200"> 
-<br>
-Visiting Scholar [Homepage](https://es.nju.edu.cn/zb/list.htm)\
-School of Earth Sciences and Engineering, Nanjing University
-<br/><br/>
-Prof. Zhou is interested in elemental carbon records and fire and vegetation evolution history, biomarkers and paleoenvironmental reconstruction, and paleoclimate and environmental changes 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;at different time scales in the East Asian monsoon region since the late Cenozoic.
-<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <zhoubinok@163.com>
+<div class="block">
+    <img src="/images/zhoubin.jpg"/>
+    <p>
+        <b>Prof. Bin Zhou</b><br/>
+        Visiting Scholar <a href="https://es.nju.edu.cn/zb/list.htm">Homepage</a>
+        <br/>
+        School of Earth Sciences and Engineering, Nanjing University
+        <br/><br/>
+        Prof. Zhou is interested in elemental carbon records and fire and vegetation evolution history, biomarkers and paleoenvironmental reconstruction, and paleoclimate and environmental changes at different time scales in the East Asian monsoon region since the late Cenozoic.
+        <br/><br/>
+        Email: <a href="mailto://zhoubinok@163.com">zhoubinok@163.com</a>
+    </p>
+</div>
 
-<br/><br/>
-**Dr. Haowen Zheng** <img style="float: left; padding-right: 15px;" src="/images/zhenghaowen.jpg" width="200"> 
-<br>
-Visiting Scholar [Homepage]()\
-College of Oceanography and Environmental Science, Xiamen University
-<br/><br/>
-Introduction
-<br/><br/>
-Email: 
+<div class="block">
+    <img src="/images/zhenghaowen.jpg"/>
+    <p>
+        <b>Dr. Haowen Zheng</b><br/>
+        Visiting Scholar <a href="">Homepage</a>
+        <br/>
+        College of Oceanography and Environmental Science, Xiamen University
+        <br/><br/>
+        
+        <br/><br/>
+        Email: 
+        <br/><br/><br/><br/><br/><br/>
+    </p>
+</div>
 
-<br/><br/>
-**Dr. Yunchao Wu** <img style="float: left; padding-right: 15px;" src="/images/wuyunchao.jpg" width="200"> 
-<br>
-Visiting Scholar [Homepage]()\
-South China Sea Institute of Oceanology, Chinese Academy of Sciences
-<br/><br/>
-Introduction
-<br/><br/>
-Email: 
-<br/><br/>
-<br/><br/>
+<div class="block">
+    <img src="/images/wuyunchao.jpg"/>
+    <p>
+        <b>Dr. Yunchao Wu</b><br/>
+        Visiting Scholar <a href="">Homepage</a>
+        <br/>
+        South China Sea Institute of Oceanology, Chinese Academy of Sciences
+        <br/><br/>
+        
+        <br/><br/>
+        Email: 
+        <br/><br/><br/><br/><br/><br/>
+    </p>
+</div>
 
 ### Postdoc
 **Dr. Yuping Zhou** (Now Associated Professor of Qingdao University of Technology)
