@@ -114,27 +114,35 @@ author_profile: true
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/LPH.jpg"/>
+    <p>
+        <b>Prof. Penghui Li</b><br/>
+        Visiting Scholar <a href="https://marine.sysu.edu.cn/teacher/7873?_=cfcd2084">Homepage</a>
+        <br/>
+        School of Marine Sciences, Sun Yat-Sen University
+        <br/><br/>
+        Prof. Li is interested in the characterization of dissolved organic matter in the natural environment, the biogeochemical cycle of dissolved organic matter, and the relationship between dissolved organic matter and environmental factors.
+        <br/><br/>
+        Email: <a href="mailto://liph8@mail.sysu.edu.cn">liph8@mail.sysu.edu.cn</a>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/yangfang.jpg"/>
+    <p>
+        <b>Associate Prof. Fang Yang</b><br/>
+        Visiting Scholar <a href="https://www.researchgate.net/profile/Fang-Yang-76">Homepage</a>
+        <br/>
+        College of Natural Resources and Environment, Northwest A&F University (NWAFU)
+        <br/><br/>
+        Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
+        <br/><br/>
+        Email: <a href="mailto://yangfang@ust.hk">yangfang@ust.hk</a>
+    </p>
+</div>
 
 
-<br/><br/>
-**Prof. Penghui Li** <img style="float: left; padding-right: 15px;" src="/images/LPH.jpg" width="200"> 
-<br>
-Visiting Scholar [Homepage](https://marine.sysu.edu.cn/teacher/7873?_=cfcd2084)\
-School of Marine Sciences, Sun Yat-Sen University
-<br/><br/>
-Prof. Li is interested in the characterization of dissolved organic matter in the natural environment, the biogeochemical cycle of dissolved organic matter, and the relationship between dissolved organic matter and environmental factors.
-<br/><br/>
-Email: <liph8@mail.sysu.edu.cn>
-
-<br/><br/>
-**Associate Prof. Fang Yang** <img style="float: left; padding-right: 15px;" src="/images/yangfang.jpg" width="200"> 
-<br>
-Visiting Scholar [Homepage](https://www.researchgate.net/profile/Fang-Yang-76)\
-College of Natural Resources and Environment, Northwest A&F University (NWAFU)
-<br/><br/>
-Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
-<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <yangfang@ust.hk>
 
 <br/><br/>
 **Zhenwei Yan** <img style="float: left; padding-right: 15px;" src="/images/yanzhenwei.jpg" width="200"> 
