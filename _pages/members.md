@@ -62,15 +62,17 @@ author_profile: true
     </p>
 </div>
 
-
-<br/><br/>
-**Dr. Yuanbi Yi** <img style="float: left; padding-right: 15px;" src="/images/yiyuanbi.jpg" width="200"> 
-<br>
-Postdoc (2022-now) **[CV](https://hkustDingHe.github.io/files/YuanbiCV.pdf)**
-<br/><br/>
-Yuanbi obtained his Ph.D. degree from Tianjin University, and he aims to use multiple methods, such as isotopic analysis and high-resolution mass spectrometry, to explore the transport and transformation of organic matter in aquatic systems and its impact on climate change.
-<br/><br/>
-Email: <yuanbiyi@ust.hk>
+<div class="block">
+    <img src="/images/zhengzexuan.jpg"/>
+    <p>
+        <b>Dr. Zhe-Xuan Zhang</b><br/>
+        Postdoc (2024-now)
+        <br/><br/>
+        Zhe-Xuan holds a Ph.D. degree from Sorbonne Université. His research focuses on the sources and sinks of organic matter in aquatic systems. His approaches include various techniques such as FT-ICR MS, excitation–emission matrix fluorescence spectroscopy, and lipid biomarkers. He likes movies and photography.
+        <br/><br/>
+        Email: <a href="mailto://zhexuanzhang@ust.hk">zhexuanzhang@ust.hk</a>
+    </p>
+</div>
 
 <br/><br/>
 **Dr. Zhe-Xuan Zhang** <img style="float: left; padding-right: 15px;" src="/images/zhengzexuan.jpg" width="200"> 
