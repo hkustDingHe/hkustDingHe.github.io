@@ -125,7 +125,7 @@ author_profile: true
         Prof. Li is interested in the characterization of dissolved organic matter in the natural environment, the biogeochemical cycle of dissolved organic matter, and the relationship between dissolved organic matter and environmental factors.
         <br/><br/>
         Email: <a href="mailto://liph8@mail.sysu.edu.cn">liph8@mail.sysu.edu.cn</a>
-        <br/>
+        <br/><br/>
     </p>
 </div>
 
@@ -140,6 +140,7 @@ author_profile: true
         Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
         <br/><br/>
         Email: <a href="mailto://yangfang@ust.hk">yangfang@ust.hk</a>
+        <br/><br/>
     </p>
 </div>
 
@@ -177,7 +178,7 @@ author_profile: true
         Yu obtained her Master’s degrees from Zhejiang University. Her interests include DOM dynamics from rivers to oceans.
         <br/><br/>
         Email: <a href="mailto://ypangag@connect.ust.hk">ypangag@connect.ust.hk</a>
-        <br/><br/><br/><br/>
+        <br/><br/><br/><br/><br/>
     </p>
 </div>
 
@@ -202,6 +203,7 @@ author_profile: true
         Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
         <br/><br/>
         Email: <a href="mailto://walkerxue@ust.hk">walkerxue@ust.hk</a>
+        <br/><br/>
     </p>
 </div>
 
@@ -213,12 +215,13 @@ author_profile: true
         <br/><br/>
         Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
         <br/><br/>
+        <br/><br/>
         Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
     </p>
 </div>
 
 <div class="block">
-    <img src="/images/yeming.jpg.jpg"/>
+    <img src="/images/yeming.jpg"/>
     <p>
         <b>Ming Ye</b><br/>
         RA (2023-now)
@@ -226,6 +229,7 @@ author_profile: true
         Her interest focuses on utilizing a three-dimensional fluorescence spectrometer to investigate the biogeochemical cycling of dissolved organic matter  and its relationship with environmental factors.
         <br/><br/>
         Email: <a href="mailto://yura@ust.hk">yura@ust.hk</a>
+        <br/><br/>
     </p>
 </div>
 <br/>
