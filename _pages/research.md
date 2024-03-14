@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Dr. Ruanhong**: One of our recent research interests is to in depth understand the molecular composition and temporal/spatial distribution of natural dissolved organic matter (DOM) in various aquatic environments and sediments using state-of-the-art analytical chemistry tools, such as the ultrahigh resolution untargeted/liquid chromatography FT-ICR MS, the 3D EEM fluorescent spectrum, nuclear magnetic resonance, to name but a few. We also introduce methodologies in the microbial ecology and organic geochemistry to better understand how the complex microbial activities are involved in the transformation of DOM and the production of recalcitrant DOM, thereby facilitating better understanding of cycling and carbon sequestration of natural DOM in the aquatic environments and adjacent sediments.
-![image](https://github.com/hkustDingHe/hkustDingHe.github.io/assets/160555587/4fbccfef-88f7-4b50-85b8-9da43a3b9ae4)
+**Dr. Ruanhong**: One of our recent research interests is to in depth understand the molecular composition and temporal/spatial distribution of natural dissolved organic matter (DOM) in various aquatic environments and sediments using state-of-the-art analytical chemistry tools, such as the ultrahigh resolution untargeted/liquid chromatography FT-ICR MS, the 3D EEM fluorescent spectrum, nuclear magnetic resonance, to name but a few. We also introduce methodologies in the microbial ecology and organic geochemistry to better understand how the complex microbial activities are involved in the transformation of DOM and the production of recalcitrant DOM, thereby facilitating better understanding of cycling and carbon sequestration of natural DOM in the aquatic environments and adjacent sediments.\
+
 
 
 ### Research funding
