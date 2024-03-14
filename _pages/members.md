@@ -125,6 +125,7 @@ author_profile: true
         Prof. Li is interested in the characterization of dissolved organic matter in the natural environment, the biogeochemical cycle of dissolved organic matter, and the relationship between dissolved organic matter and environmental factors.
         <br/><br/>
         Email: <a href="mailto://liph8@mail.sysu.edu.cn">liph8@mail.sysu.edu.cn</a>
+        <br/>
     </p>
 </div>
 
@@ -163,66 +164,71 @@ author_profile: true
         Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
         <br/><br/>
         Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a>
+        <br/><br/><br/>
     </p>
 </div>
 
-<br/><br/>
-**Chen Zhao** <img style="float: left; padding-right: 15px;" src="/images/zhaochen.jpg" width="200"> 
-<br>
-PhD student (2022-now)
-<br/><br/>
-Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
-<br/><br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Email: <czhaobk@connect.ust.hk>
+<div class="block">
+    <img src="/images/panyu.jpg"/>
+    <p>
+        <b>Yu Pang</b><br/>
+        PhD student (2023-now)
+        <br/><br/>
+        Yu obtained her Master’s degrees from Zhejiang University. Her interests include DOM dynamics from rivers to oceans.
+        <br/><br/>
+        Email: <a href="mailto://ypangag@connect.ust.hk">ypangag@connect.ust.hk</a>
+        <br/><br/><br/><br/>
+    </p>
+</div>
 
-<br/><br/>
-**Yu Pang** <img style="float: left; padding-right: 15px;" src="/images/panyu.jpg" width="200"> 
-<br>
-PhD student (2023-now)
-<br/><br/>
-Yu obtained her Master’s degrees from Zhejiang University. Her interests include DOM dynamics from rivers to oceans.
-<br/><br/>
-Email: <ypangag@connect.ust.hk>
-<br/><br/>
-<br/><br/>
+<div class="block">
+    <img src="/images/mahuiying.jpg"/>
+    <p>
+        <b>Huiying Ma</b><br/>
+        PhD student (2022-now, Co-supervised with Prof. Si-Liang Li from Tianjin University)
+        <br/><br/>
+        Huiying is studying at the School of Earth System Science, Tianjin University. Her interest focused on the phototransformations of environmentally pertinent organic compounds, with a specific emphasis on dissolved organic sulfur (DOS) in estuarine coastal zones. Through photodegradation experiments, she tries to reveal the biogeochemical fate of DOS from different sources in estuarine coastal zones, and attempts to provide direct evidence for the photochemical degradation efficiency, products and mechanisms of DOS at the molecular scale.
+        <br/><br/>
+        Email: <a href="mailto://huiying_ma@tju.edu.cn">huiying_ma@tju.edu.cn</a>
+    </p>
+</div>
 
-<br/><br/>
-**Huiying Ma** <img style="float: left; padding-right: 15px;" src="/images/mahuiying.jpg" width="200"> 
-<br>
-PhD student (2022-now, Co-supervised with Prof. Si-Liang Li from Tianjin University)
-<br/><br/>
-Huiying is studying at the School of Earth System Science, Tianjin University. Her interest focused on the phototransformations of environmentally pertinent organic compounds, with a specific emphasis on dissolved organic sulfur (DOS) in estuarine coastal zones. Through photodegradation experiments, she tries to reveal the biogeochemical fate of DOS from different sources in estuarine coastal zones, and attempts to provide direct evidence for the photochemical degradation efficiency, products and mechanisms of DOS at the molecular scale.
-<br/><br/>
-Email: <huiying_ma@tju.edu.cn>
+<div class="block">
+    <img src="/images/xuerunze.jpg"/>
+    <p>
+        <b>Runze Xue</b><br/>
+        RA (2023-now)
+        <br/><br/>
+        Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
+        <br/><br/>
+        Email: <a href="mailto://walkerxue@ust.hk">walkerxue@ust.hk</a>
+    </p>
+</div>
 
-<br/><br/>
-**Run-Ze Xue** <img style="float: left; padding-right: 15px;" src="/images/xuerunze.jpg" width="200"> 
-<br>
-RA (2023-now)
-<br/><br/>
-Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022 - now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
-<br/><br/>
-Email: <walkerxue@ust.hk>
+<div class="block">
+    <img src="/images/yaopiao.jpg"/>
+    <p>
+        <b>Piao Yao</b><br/>
+        RA (2023-now)
+        <br/><br/>
+        Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
+        <br/><br/>
+        Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
+    </p>
+</div>
 
-<br/><br/>
-**Piao Yao** <img style="float: left; padding-right: 15px;" src="/images/yaopiao.jpg" width="200"> 
-<br>
-RA (2023-now)
-<br/><br/>
-Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
-<br/><br/>
-Email: <ocesyaopiao@ust.hk>
-
-<br/><br/>
-**Ming Ye** <img style="float: left; padding-right: 15px;" src="/images/yeming.jpg" width="200"> 
-<br>
-RA (2023-now)
-<br/><br/>
-Her interest focuses on utilizing a three-dimensional fluorescence spectrometer to investigate the biogeochemical cycling of dissolved organic matter  and its relationship with environmental factors.
-<br/><br/>
-Email: <yura@ust.hk>
-<br/><br/>
-<br/><br/>
+<div class="block">
+    <img src="/images/yeming.jpg.jpg"/>
+    <p>
+        <b>Ming Ye</b><br/>
+        RA (2023-now)
+        <br/><br/>
+        Her interest focuses on utilizing a three-dimensional fluorescence spectrometer to investigate the biogeochemical cycling of dissolved organic matter  and its relationship with environmental factors.
+        <br/><br/>
+        Email: <a href="mailto://yura@ust.hk">yura@ust.hk</a>
+    </p>
+</div>
+<br/>
 
 ### Alumni
 **Prof. Bin Zhou** <img style="float: left; padding-right: 15px;" src="/images/zhoubin.jpg" width="200"> 
