@@ -159,8 +159,8 @@ author_profile: true
 <div class="block">
     <img src="/images/zhaochen.jpg"/>
     <p>
-        <b>Chen Zhao</b><br/>
-        PhD student (2022-now)
+        <b>Chen Zhao (HKPFS)</b><br/>
+        PhD student (2022-now) <a href="https://hkustDingHe.github.io/files/ChenZhao.pdf">CV</a>
         <br/><br/>
         Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
         <br/><br/>
