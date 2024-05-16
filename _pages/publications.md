@@ -9,9 +9,9 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2024
-(94) Zhao, C., Wang, K., Jiao, Q., Xu, X., Yi, Y., Li, P., Merder, J., **He, D.*** (2024). Machine Learning Models for Evaluating Biological Reactivity within Molecular Fingerprints of Dissolved Organic Matter over time, Geophysical Research Letters, accepted and in press.
-(93) Wang, H., Zhang, Q. W., Chen, G., Li, X., Wang, Q. L., Gao, L., ... **He, D.*** & Li, M.\* (2024). The loss of dissolved organic matter from biological soil crust at various successional stages under rainfall of different intensities: Insights into the changes of molecular components at different rainfall stages. Water Research, 121719.
-(92) Chen, Z. L., Yi, Y., Fu, W., Liang, W., Li, P., Wang, K., Zhang, L., Dong, K., Li, S., Xu, S. & **He, D.*** (2024). Severe Flood Modulates the Sources and Age of Dissolved Organic Carbon in the Yangtze River Estuary. Environmental Research, 119040.
+(94) Zhao, C., Wang, K., Jiao, Q., Xu, X., Yi, Y., Li, P., Merder, J., **He, D.*** (2024). Machine Learning Models for Evaluating Biological Reactivity within Molecular Fingerprints of Dissolved Organic Matter over time, Geophysical Research Letters, accepted and in press.\
+(93) Wang, H., Zhang, Q. W., Chen, G., Li, X., Wang, Q. L., Gao, L., ... **He, D.*** & Li, M.\* (2024). The loss of dissolved organic matter from biological soil crust at various successional stages under rainfall of different intensities: Insights into the changes of molecular components at different rainfall stages. Water Research, 121719.\
+(92) Chen, Z. L., Yi, Y., Fu, W., Liang, W., Li, P., Wang, K., Zhang, L., Dong, K., Li, S., Xu, S. & **He, D.*** (2024). Severe Flood Modulates the Sources and Age of Dissolved Organic Carbon in the Yangtze River Estuary. Environmental Research, 119040.\
 (91). Zhang, C., Zhang, X., Chen, Q., Ye, S., Li, B., Pan, B., Wang, M., **He, D.**, & Li, M.* (2024). Variations in growth, photosynthesis, oxidative stress and microcystin production in Microcystis aeruginosa caused by acute exposure to Benzalkonium Chloride and Benzalkonium Bromide. Process Safety and Environmental Protection, 182, 1110-1120.
 <div align="center"><img src="/images/publication_img/91.jpg" width="600"></div>
 (90). Chen, Z. L., Zhang, H., Yi, Y., He, Y., Li, P., Wang, Y., ... & **He, D.*** (2024). Dissolved organic matter composition and characteristics during extreme flood events in the Yangtze River Estuary. Science of The Total Environment, 914, 169827.
