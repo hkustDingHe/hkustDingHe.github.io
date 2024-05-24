@@ -9,6 +9,7 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2024
+(95) Li, Z., Zhou, C., Wang, Y., **He, D.***, Liu, M., Yin, Y., Liu, G., Wang, X., Cai, Y., & Li, Y.\* (2024). Total mercury, methylmercury, and their possible controlling factors in soils of typical coastal wetlands in China, Journal of Hazardous Materials, in press. [(Link)](https://doi.org/10.1016/j.jhazmat.2024.134711)\
 (94) Zhao, C., Wang, K., Jiao, Q., Xu, X., Yi, Y., Li, P., Merder, J., **He, D.*** (2024). Machine Learning Models for Evaluating Biological Reactivity within Molecular Fingerprints of Dissolved Organic Matter over time, Geophysical Research Letters, accepted and in press.<br/>
 (93) Wang, H., Zhang, Q. W., Chen, G., Li, X., Wang, Q. L., Gao, L., ... **He, D.*** & Li, M.\* (2024). The loss of dissolved organic matter from biological soil crust at various successional stages under rainfall of different intensities: Insights into the changes of molecular components at different rainfall stages. Water Research, 121719.\
 (92) Chen, Z. L., Yi, Y., Fu, W., Liang, W., Li, P., Wang, K., Zhang, L., Dong, K., Li, S., Xu, S. & **He, D.*** (2024). Severe Flood Modulates the Sources and Age of Dissolved Organic Carbon in the Yangtze River Estuary. Environmental Research, 119040.\
