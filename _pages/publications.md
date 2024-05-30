@@ -9,6 +9,8 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2024
+(97) Liu, J.\*, Ladd, S.N., Zhao, J., Yan, D., **He, D.**, Cao, Y., An, Z. (2024). Plant type effect overweighs seasonal variation in n-alkanoic acid biomarker on regional Loess Plateau of China, Science China Earth Sciences. [(Link)](https://doi.org/10.1007/s11430-023-1323-2)<br/>
+(96) Han, Y., Qi, Y., Zhong, J.\*, Yi, Y., Nai, H., **He, D.**, He, C., Shi, Q., Li, S. (2024). Deciphering dissolved organic matter characteristics and its fate in a glacier-fed desert river—the Tarim River, China, Environmental Research. [(Link)](https://doi.org/10.1016/j.envres.2024.119251)<br/>
 (95) Li, Z., Zhou, C., Wang, Y., **He, D.**\*, Liu, M., Yin, Y., Liu, G., Wang, X., Cai, Y., & Li, Y.\* (2024). Total mercury, methylmercury, and their possible controlling factors in soils of typical coastal wetlands in China, Journal of Hazardous Materials, in press. [(Link)](https://doi.org/10.1016/j.jhazmat.2024.134711)\
 (94) Zhao, C., Wang, K., Jiao, Q., Xu, X., Yi, Y., Li, P., Merder, J., **He, D.**\* (2024). Machine Learning Models for Evaluating Biological Reactivity within Molecular Fingerprints of Dissolved Organic Matter over time, Geophysical Research Letters, accepted and in press.<br/>
 (93) Wang, H., Zhang, Q. W., Chen, G., Li, X., Wang, Q. L., Gao, L., ... **He, D.*** & Li, M.\* (2024). The loss of dissolved organic matter from biological soil crust at various successional stages under rainfall of different intensities: Insights into the changes of molecular components at different rainfall stages. Water Research, 121719.\
