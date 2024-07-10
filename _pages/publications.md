@@ -11,7 +11,7 @@ author_profile: true
 ### 2024
 (100). Cheng, Z., Li, A., Wang, R., Hu, Q., Zhou, J., Li, M., Wang, T.\*, **He, D.**\*, Zhu, L.\* (2024), Long-term straw return promotes accumulation of stable soil dissolved organic matter by driving molecular-level activity and diversity. Agriculture, Ecosystems & Environment, 374, 109155. [(Link)](https://doi.org/10.1016/j.agee.2024.109155)
 <div align="center"><img src="/images/publication_img/100.jpg" width="600"></div>
-(99). Hao, Q., Song, Z.\*, Zhang, X.\*, He, D., Guo, L., van Zwieten, L., ... & Wang, H. (2024). Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors. Earth-Science Reviews, 104853. [(Link)](https://doi.org/10.1016/j.earscirev.2024.104853)
+(99). Hao, Q., Song, Z.\*, Zhang, X.\*, **He, D.**, Guo, L., van Zwieten, L., ... & Wang, H. (2024). Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors. Earth-Science Reviews, 104853. [(Link)](https://doi.org/10.1016/j.earscirev.2024.104853)
 <div align="center"><img src="/images/publication_img/99.jpg" width="600"></div>
 (98). Cai, R., Yao, P., Yi, Y., Merder, J., Li, P., & **He, D.**\* (2024). The Hunt for Chemical Dark Matter across a River-to-Ocean Continuum. Environmental Science & Technology. [(Link)](https://doi.org/10.1021/acs.est.4c00648)
 <div align="center"><img src="/images/publication_img/98.jpg" width="600"></div>
