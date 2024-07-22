@@ -233,8 +233,6 @@ author_profile: true
 </div>
 <br/>
 
-
-
 <div class="block">
     <img src="/images/neal.jpg"/>
     <p>
@@ -248,8 +246,6 @@ author_profile: true
     </p>
 </div>
 
-
-
 <div class="block">
     <img src="/images/liuyinyi.jpg"/>
     <p>
@@ -262,16 +258,6 @@ author_profile: true
         <br/><br/><br/><br/>
     </p>
 </div>
-
-
-
-
-
-
-
-
-
-
 
 ### Alumni
 <div class="block">
