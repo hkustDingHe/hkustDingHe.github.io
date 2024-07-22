@@ -257,6 +257,7 @@ author_profile: true
     </p>
 </div>
 
+
 <div class="block">
     <img src="/images/neal.jpg"/>
     <p>
@@ -269,6 +270,7 @@ author_profile: true
         <br/><br/><br/><br/>
     </p>
 </div>
+
 
 <div class="block">
     <img src="/images/liuyinyi.jpg"/>
