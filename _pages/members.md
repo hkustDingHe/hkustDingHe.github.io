@@ -297,9 +297,8 @@ author_profile: true
         College of Oceanography and Environmental Science, Xiamen University
         <br/><br/>
         
-        <br/><br/>
-        Email: 
-        <br/><br/><br/><br/><br/><br/>
+        <br/>
+        <br/><br/><br/><br/><br/>
     </p>
 </div>
 
@@ -312,9 +311,8 @@ author_profile: true
         South China Sea Institute of Oceanology, Chinese Academy of Sciences
         <br/><br/>
         
-        <br/><br/>
-        Email: 
-        <br/><br/><br/><br/><br/><br/>
+        <br/>
+        <br/><br/><br/><br/><br/>
     </p>
 </div>
 
