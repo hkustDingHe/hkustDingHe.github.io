@@ -244,8 +244,7 @@ author_profile: true
         Neal is an Undergraduate Student currently studying environmental biology and applied ecology at Cornell University and is interested in environmental policies and governance as well.
         <br/><br/>
         Email: <a href="mailto://nxding@connect.ust.hk">nxding@connect.ust.hk</a>
-        <br/><br/>
-        <br/><br/>
+        <br/><br/><br/><br/>
     </p>
 </div>
 
@@ -260,8 +259,7 @@ author_profile: true
         Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including machine learning, Deep Learning and Data Mining for the analysis of molecular data.
         <br/><br/>
         Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
-        <br/><br/>
-        <br/><br/>
+        <br/><br/><br/><br/>
     </p>
 </div>
 
