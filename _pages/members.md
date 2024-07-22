@@ -276,7 +276,7 @@ author_profile: true
         <b>Yinyi Liu</b><br/>
         Visiting Undergraduate Student(2024)
         <br/><br/>
-        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including machine learning, Deep Learning and Data Mining for the analysis of molecular data.
+        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including Machine Learning, Deep Learning and Data Mining for the analysis of molecular data.
         <br/><br/>
         Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
         <br/><br/><br/><br/>
