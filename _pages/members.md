@@ -101,6 +101,18 @@ author_profile: true
 </div>
 
 <div class="block">
+    <img src="/images/liuyanjun.jpg"/>
+    <p>
+        <b>Dr. Yanjun Liu</b><br/>
+        Postdoc (2024-now)
+        <br/><br/>
+        Yanjun obtained his Ph.D. degree in Environmental Science and Engineering from University of Science and Technology of China in 2024. His research mainly focuses on unraveling the ecological effect and environmental risk of plastic products and their derivatives (e.g., microplastics, nanoplastics, and plastic additives) in aquatic environments. Additionally, he is currently engaged in investigating the biogeochemical impact of exogenous carbon material (e.g., microplastics, biochar, and biomass) on organic carbon cycling in coastal environments by using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He likes badminton and running.
+        <br/><br/>
+        Email: <a href="mailto://lyjyyy@mail.ustc.edu.cn">lyjyyy@mail.ustc.edu.cn</a>
+    </p>
+</div>
+
+<div class="block">
     <img src="/images/liutongcun.jpg"/>
     <p>
         <b>Prof. Tongcun Liu</b><br/>
