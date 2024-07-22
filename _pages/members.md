@@ -241,7 +241,7 @@ author_profile: true
         <br/><br/>
         Mandy holds a bachelor's degree in Ocean Science and Technology from the Hong Kong University of Science and Technology and is currently pursuing an MPhil program in Marine Environmental Science. She is particularly interested in marine toxicology and the interactions between human activities and dissolved organic matter.
         <br/><br/>
-        Email: <a href="mailto://yura@ust.hk">yura@ust.hk</a>
+        Email: <a href="mailto://hykwokal@connect.ust.hk">hykwokal@connect.ust.hk</a>
         <br/><br/>
     </p>
 </div>
