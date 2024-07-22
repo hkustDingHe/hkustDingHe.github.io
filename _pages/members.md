@@ -233,6 +233,26 @@ author_profile: true
 </div>
 <br/>
 
+
+
+<div class="block">
+    <img src="/images/neal.jpg"/>
+    <p>
+        <b>Neal Xiangyu Ding</b><br/>
+        Visiting Undergraduate Student(2024)
+        <br/><br/>
+        Neal is an Undergraduate Student currently studying environmental biology and applied ecology at Cornell University and is interested in environmental policies and governance as well.
+        <br/><br/>
+        Email: <a href="mailto://nxding@connect.ust.hk">nxding@connect.ust.hk</a>
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+
+
+
+
 ### Alumni
 <div class="block">
     <img src="/images/zhoubin.jpg"/>
