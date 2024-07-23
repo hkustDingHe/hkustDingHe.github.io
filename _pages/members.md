@@ -269,6 +269,9 @@ author_profile: true
     </p>
 </div>
 
+<br>
+<br>
+
 <div class="block">
     <img src="/images/neal.jpg"/>
     <p>
@@ -294,6 +297,9 @@ author_profile: true
         <br/><br/>
     </p>
 </div>
+
+<br>
+<br>
 
 ### Alumni
 <div class="block">
