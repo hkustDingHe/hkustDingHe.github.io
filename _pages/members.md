@@ -244,19 +244,6 @@ author_profile: true
 </div>
 
 <div class="block">
-    <img src="/images/yaopiao.jpg"/>
-    <p>
-        <b>Piao Yao</b><br/>
-        RA (2023-now)
-        <br/><br/>
-        Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
-        <br/><br/>
-        Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
-        <br/><br/><br/>
-    </p>
-</div>
-
-<div class="block">
     <img src="/images/yeming.jpg"/>
     <p>
         <b>Ming Ye</b><br/>
@@ -266,6 +253,19 @@ author_profile: true
         <br/><br/>
         Email: <a href="mailto://yura@ust.hk">yura@ust.hk</a>
         <br/><br/>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/yaopiao.jpg"/>
+    <p>
+        <b>Piao Yao</b><br/>
+        RA (2023-now)
+        <br/><br/>
+        Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
+        <br/><br/>
+        Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
+        <br/><br/><br/>
     </p>
 </div>
 
