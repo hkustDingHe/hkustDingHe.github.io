@@ -206,6 +206,18 @@ author_profile: true
 </div>
 
 <div class="block">
+    <img src="/images/huhuijie.jpg"/>
+    <p>
+        <b>Huijie Hu</b><br/>
+        PhD student(2024-now, Co-supervised with Prof. De-Lu Pan from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))
+        <br/><br/>
+        Hu obtained her Bachelor’s degree in Marine Science from Ocean University of China. She is interested in Numerical simulation,Remote sensing, Marine environment and Physical Oceanography.
+        <br/><br/>
+        Email: <a href="mailto://peanutwho@163.com">peanutwho@163.com</a>
+    </p>
+</div>
+
+<div class="block">
     <img src="/images/mandy.jpg"/>
     <p>
         <b>Mandy, Hoi Yan Kwok</b><br/>
