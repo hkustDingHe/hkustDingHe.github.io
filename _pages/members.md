@@ -244,19 +244,6 @@ author_profile: true
 </div>
 
 <div class="block">
-    <img src="/images/yeming.jpg"/>
-    <p>
-        <b>Ming Ye</b><br/>
-        RA (2023-now)
-        <br/><br/>
-        Her interest focuses on utilizing a three-dimensional fluorescence spectrometer to investigate the biogeochemical cycling of dissolved organic matter  and its relationship with environmental factors.
-        <br/><br/>
-        Email: <a href="mailto://yura@ust.hk">yura@ust.hk</a>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
     <img src="/images/yaopiao.jpg"/>
     <p>
         <b>Piao Yao</b><br/>
@@ -269,8 +256,34 @@ author_profile: true
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/yeming.jpg"/>
+    <p>
+        <b>Ming Ye</b><br/>
+        RA (2023-now)
+        <br/><br/>
+        Her interest focuses on utilizing a three-dimensional fluorescence spectrometer to investigate the biogeochemical cycling of dissolved organic matter  and its relationship with environmental factors.
+        <br/><br/>
+        Email: <a href="mailto://yura@ust.hk">yura@ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
+
 <br>
 <br>
+
+<div class="block">
+    <img src="/images/liuyinyi.jpg"/>
+    <p>
+        <b>Yinyi Liu</b><br/>
+        Visiting Undergraduate Student(2024)
+        <br/><br/>
+        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including Machine Learning, Deep Learning and Data Mining for the analysis of molecular data.
+        <br/><br/>
+        Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
 
 <div class="block">
     <img src="/images/neal.jpg"/>
@@ -285,18 +298,6 @@ author_profile: true
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/liuyinyi.jpg"/>
-    <p>
-        <b>Yinyi Liu</b><br/>
-        Visiting Undergraduate Student(2024)
-        <br/><br/>
-        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including Machine Learning, Deep Learning and Data Mining for the analysis of molecular data.
-        <br/><br/>
-        Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
-        <br/><br/>
-    </p>
-</div>
 
 <br>
 <br>
