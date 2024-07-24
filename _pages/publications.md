@@ -9,6 +9,15 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2024
+
+(102). Liang, W., Chen, X., Chen, Z. L., Zhu, P., Huang, Z., Li, J., ... Li, L.* & He, D.* (2024). Unraveling the impact of Spartina alterniflora invasion on greenhouse gas production and emissions in coastal saltmarshes: New Insights from dissolved organic matter characteristics and surface-porewater interactions. Water Research, 122120.
+<div align="center"><img src="/images/publication_img/102.jpg" width="600"></div>
+
+(101). Li, B., Zhang, C., Ma, Y., Zhou, Y., Gao, L., He, D., & Li, M.* (2024). Physiological and transcriptome level responses of Microcystis aeruginosa and M. viridis to environmental concentrations of Triclosan. Chemosphere, 142822.
+<div align="center"><img src="/images/publication_img/101.jpg" width="600"></div>
+
+
+
 (100). Cheng, Z., Li, A., Wang, R., Hu, Q., Zhou, J., Li, M., Wang, T.\*, **He, D.**\*, Zhu, L.\* (2024), Long-term straw return promotes accumulation of stable soil dissolved organic matter by driving molecular-level activity and diversity. Agriculture, Ecosystems & Environment, 374, 109155. [(Link)](https://doi.org/10.1016/j.agee.2024.109155)
 <div align="center"><img src="/images/publication_img/100.jpg" width="600"></div>
 (99). Hao, Q., Song, Z.\*, Zhang, X.\*, **He, D.**, Guo, L., van Zwieten, L., ... & Wang, H. (2024). Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors. Earth-Science Reviews, 104853. [(Link)](https://doi.org/10.1016/j.earscirev.2024.104853)
