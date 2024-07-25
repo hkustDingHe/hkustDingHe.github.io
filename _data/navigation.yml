@@ -20,6 +20,9 @@ main:
     
   - title: "Contact Us"
     url: /contact/
+
+  - title: "MEEF"
+    url: /meef/
     
   - title: "Others"
     url: /others/
