@@ -36,9 +36,14 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 **(a)** Seagrass meadows in Tung Chung Bay; **(b)** Seagrass meadows, tidal flats and mangroves in Tung Chung Bay; **(c)** The airport construction project across from Tung Chung Bay; **(d)** Seagrass sediment cores from Tung Chung; **(e)** The airport construction project, seagrass meadows and mangroves in Tung Chung Bay.
 <br/>
 <div align="center"><img src="/images/meef/Kuk_Po.jpg" width="90%"></div>
-**(a)** Kuk Po; **(b)** Mangroves in Kuk Po.
 <center><b>(a)</b> Kuk Po; <b>(b)</b> Mangroves in Kuk Po.</center>
 <br/>
 <div align="center"><img src="/images/meef/F5.jpg" width="90%"></div>
 <center>F5 Mangroves in Lai Chi Wo</center>
+br/>
+<div align="center"><img src="/images/meef/Ham_Tin.jpg" width="90%"></div>
+**(a)** Filed work in Ham Tin; **(b)** We are collecting cores in mangroves in Ham Tin; **(c)** Group photos in Ham Tin.
+<br/>
+<div align="center"><img src="/images/meef/F9.jpg" width="90%"></div>
+<center>Filed work in Lai Chi Chong</center>
 br/>
