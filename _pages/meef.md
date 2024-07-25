@@ -33,6 +33,12 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 **Sampling map for the MEEF project in Hong Kong.** Study wetlands are represented by yellow dots. The red circle indicates that we collected sediment samples from only mangroves and tidal flats; the blue circle indicates that we collected sediment samples from mangroves, tidal flats and gei wai; and the green circle indicates that we collected sediment samples from mangroves, tidal flats, and seagrass meadows.
 <br/>
 <div align="center"><img src="/images/meef/Tung_Chung_Bay.jpg" width="90%"></div>
-**(a)** Seagrass meadows in Tung Chung Bay; **(b)** Seagrass meadows, tidal flats and mangroves in Tung Chung Bay; **(c)** The airport construction project across from Tung Chung Bay; **(d)** Seagrass sediment cores from Tung Chung; **(e)** The airport construction project, seagrass meadows and mangroves in Tung Chung Bay.<br/>
+**(a)** Seagrass meadows in Tung Chung Bay; **(b)** Seagrass meadows, tidal flats and mangroves in Tung Chung Bay; **(c)** The airport construction project across from Tung Chung Bay; **(d)** Seagrass sediment cores from Tung Chung; **(e)** The airport construction project, seagrass meadows and mangroves in Tung Chung Bay.
+<br/>
 <div align="center"><img src="/images/meef/Kuk_Po.jpg" width="90%"></div>
-**(a)** Kuk Po; **(b)** Mangroves in Kuk Po.<br/>
+**(a)** Kuk Po; **(b)** Mangroves in Kuk Po.
+<center><b>(a)</b> Kuk Po; <b>(b)</b> Mangroves in Kuk Po.</center>
+<br/>
+<div align="center"><img src="/images/meef/F5.jpg" width="90%"></div>
+<center>F5 Mangroves in Lai Chi Wo</center>
+br/>
