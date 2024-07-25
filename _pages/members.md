@@ -303,6 +303,7 @@ author_profile: true
 <br>
 
 ### Alumni
+
 <div class="block">
     <img src="/images/zhoubin.jpg"/>
     <p>
@@ -324,7 +325,8 @@ author_profile: true
         Visiting Scholar <a href="">Homepage</a>
         <br/>
         College of Oceanography and Environmental Science, Xiamen University
-        <br/><br/><br/><br/>
+        <br/><br/>
+        <br/><br/>
     </p>
 </div>
 
@@ -338,7 +340,8 @@ author_profile: true
         Visiting Scholar <a href="">Homepage</a>
         <br/>
         South China Sea Institute of Oceanology, Chinese Academy of Sciences
-        <br/><br/><br/><br/>
+        <br/><br/>
+        <br/><br/>
     </p>
 </div>
 
