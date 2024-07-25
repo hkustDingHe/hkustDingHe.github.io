@@ -9,7 +9,7 @@ author_profile: true
 <div align="center"><img src="/images/meef/title.jpg" width="100%"></div>
 <center>
   <b>
-    <font size="14">MEEF2023008</font>
+    <font size="10">MEEF2023008</font>
   </b>
 </center>
 <br/>
@@ -39,12 +39,13 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 <center><b>(a)</b> Kuk Po; <b>(b)</b> Mangroves in Kuk Po.</center>
 <br/>
 <div align="center"><img src="/images/meef/F5.jpg" width="90%"></div>
-<center>F5 Mangroves in Lai Chi Wo</center>
+<center>Mangroves in Lai Chi Wo</center>
 <br/>
-<div align="center"><img src="/images/meef/Ham_Tin.jpg" width="90%"></div>
+<div align="center"><img src="/images/meef/Ham_Tin.jpg" width="60%"></div>
 **(a)** Filed work in Ham Tin; **(b)** We are collecting cores in mangroves in Ham Tin; **(c)** Group photos in Ham Tin.
+<center><b>(a)</b> Filed work in Ham Tin; <b>(b)</b> We are collecting cores in mangroves in Ham Tin;  <b>(c)</b> Group photos in Ham Tin.</center>
 <br/>
-<div align="center"><img src="/images/meef/F9.jpg" width="90%"></div>
+<div align="center"><img src="/images/meef/F9.jpg" width="60%"></div>
 <center>Filed work in Lai Chi Chong</center>
 <br/>
 <div align="center"><img src="/images/meef/Ting_Kok.jpg" width="90%"></div>
