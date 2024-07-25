@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "MEEF"
+title: "Marine Ecology Enhancement Fund (MEEF)"
 permalink: /meef/
 author_profile: true
 
