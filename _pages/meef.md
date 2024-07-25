@@ -9,7 +9,7 @@ author_profile: true
 <div align="center"><img src="/images/meef/title.jpg" width="100%"></div>
 <center>
   <b>
-    <font size="24">MEEF2023008</font>
+    <font size="20">MEEF2023008</font>
   </b>
 </center>
 <br/>
