@@ -319,6 +319,19 @@ author_profile: true
 </div>
 
 <div class="block">
+    <img src="/images/wuyunchao.jpg"/>
+    <p>
+        <b>Dr. Yunchao Wu</b><br/>
+        Visiting Scholar <a href="">Homepage</a>
+        <br/>
+        South China Sea Institute of Oceanology, Chinese Academy of Sciences
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+
+<div class="block">
     <img src="/images/zhenghaowen.jpg"/>
     <p>
         <b>Dr. Haowen Zheng</b><br/>
@@ -330,20 +343,7 @@ author_profile: true
     </p>
 </div>
 
-<br>
-<br>
 
-<div class="block">
-    <img src="/images/wuyunchao.jpg"/>
-    <p>
-        <b>Dr. Yunchao Wu</b><br/>
-        Visiting Scholar <a href="">Homepage</a>
-        <br/>
-        South China Sea Institute of Oceanology, Chinese Academy of Sciences
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
 
 ### Postdoc
 **Dr. Yuping Zhou** (Now Associated Professor of Qingdao University of Technology)
