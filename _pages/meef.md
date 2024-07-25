@@ -9,7 +9,7 @@ author_profile: true
 <div align="center"><img src="/images/meef/title.jpg" width="100%"></div>
 <center>
   <b>
-    <font size="10">MEEF2023008</font>
+    <font size="7">MEEF2023008</font>
   </b>
 </center>
 <br/>
@@ -20,7 +20,7 @@ This project aims to assess the ecological impact of anthropogenic activities (e
 Hong Kong has a long coastline supporting a variety of coastal wetlands (e.g., mangroves, seagrass meadows, and tidal flats). These coastal wetlands provide multiple functions, such as sustained biodiversity, fisheries nursing, shoreline protection, tourism and education. Under the background of global warming and national carbon peak and carbon neutral policies, coastal wetlands are also considered as a natural way to sequestrate carbon. Although they occupy only 0.5% of the global seafloor area, they fix ~50% of the global oceanic carbon. Therefore, the conservation of coastal wetlands is very important.<br/>
 As an international metropolis, Hong Kong has frequent human activities and urban construction, which likely affect the environment of coastal wetlands significantly, especially the composition of organic matter in sediments. Sewage, microplastics, and even fuel oil pollution can all affect the health of coastal wetlands. However, it is challenging to assess how these anthropogenic activities affect the environment and nutrient cycle of coastal wetlands. This has hindered the efforts of government, academia, and industry in coastal wetland conservation. Therefore, scientific research is needed to develop a rapid and efficient diagnostic approach. This will not only provide insight into the differences in organic composition across coastal wetlands, but also offer an opportunity to trace the source of anthropogenic organic pollution.<br/>
 Dissolved organic carbon (DOM) in coastal wetland sediments is an effective indicator of the composition of organic matter. Industrialization and urbanization have led to a large input of allochthonous DOM in the coastal environment, further complicating the composition and properties of DOM. This makes DOM an ideal indicator for assessing anthropogenic impacts on coastal wetlands. The development of three-dimensional excitation-emission matrix (3D-EEM) fluorescence spectroscopy has allowed us to measure the composition of sediment DOM in a few minutes without complex sample preparation.<br/>
-Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South Lantau, and Tolo Harbour) will form our study area (Figure 1). The proposed project has the following objectives.<br/>
+Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South Lantau, and Tolo Harbour) will form our study area. The proposed project has the following objectives.<br/>
 **Objective 1**: To monitor the physicochemical properties and DOM content of different coastal wetland sediments.<br/>
 **Objective 2**: To monitor the optical properties of DOM in coastal wetland sediments and to develop a 3D-EEM method to trace anthropogenic inputs and calculate their concentrations semi-quantitatively.<br/>
 **Objective 3**: To monitor the spatial and seasonal characteristics of DOM in different wetland sediments.<br/>
@@ -42,10 +42,9 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 <center>Mangroves in Lai Chi Wo</center>
 <br/>
 <div align="center"><img src="/images/meef/Ham_Tin.jpg" width="60%"></div>
-**(a)** Filed work in Ham Tin; **(b)** We are collecting cores in mangroves in Ham Tin; **(c)** Group photos in Ham Tin.
 <center><b>(a)</b> Filed work in Ham Tin; <b>(b)</b> We are collecting cores in mangroves in Ham Tin;  <b>(c)</b> Group photos in Ham Tin.</center>
 <br/>
-<div align="center"><img src="/images/meef/F9.jpg" width="60%"></div>
+<div align="center"><img src="/images/meef/F9.jpg" width="40%"></div>
 <center>Filed work in Lai Chi Chong</center>
 <br/>
 <div align="center"><img src="/images/meef/Ting_Kok.jpg" width="90%"></div>
