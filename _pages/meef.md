@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-<div align="center"><img src="/images/meef/title.jpg" width="1000%"></div>
+<div align="center"><img src="/images/meef/title.jpg" width="100%"></div>
 <center>
   <b>
     MEEF2023008
@@ -25,4 +25,10 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 **Objective 2**: To monitor the optical properties of DOM in coastal wetland sediments and to develop a 3D-EEM method to trace anthropogenic inputs and calculate their concentrations semi-quantitatively.<br/>
 **Objective 3**: To monitor the spatial and seasonal characteristics of DOM in different wetland sediments.<br/>
 **Objective 4**: To assess the relationship between coastal wetland sediment DOM and socio-economic indicators such as surrounding population density and urban construction.<br/>
-**Objective 5**: To assess the ecological value of coastal wetland sediments in the carbon and nutrient cycle of Hong Kong coastal areas, and to provide decision support and a baseline for the government and related stakeholders.<br/>
+**Objective 5**: To assess the ecological value of coastal wetland sediments in the carbon and nutrient cycle of Hong Kong coastal areas, and to provide decision support and a baseline for the government and related stakeholders.
+<div align="center"><img src="/images/meef/schematic.jpg" width="70%"></div>
+<center>Schematic diagram and technology roadmap of this project</center>
+<br/>
+<div align="center"><img src="/images/meef/sampling.jpg" width="70%"></div>
+**Sampling map for the MEEF project in Hong Kong.** Study wetlands are represented by yellow dots. The red circle indicates that we collected sediment samples from only mangroves and tidal flats; the blue circle indicates that we collected sediment samples from mangroves, tidal flats and gei wai; and the green circle indicates that we collected sediment samples from mangroves, tidal flats, and seagrass meadows.
+<br/>
