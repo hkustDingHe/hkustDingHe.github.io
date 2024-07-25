@@ -9,7 +9,7 @@ author_profile: true
 <div align="center"><img src="/images/meef/title.jpg" width="100%"></div>
 <center>
   <b>
-    <font size="20">MEEF2023008</font>
+    <font size="17">MEEF2023008</font>
   </b>
 </center>
 <br/>
@@ -32,3 +32,6 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 <div align="center"><img src="/images/meef/sampling.jpg" width="70%"></div>
 **Sampling map for the MEEF project in Hong Kong.** Study wetlands are represented by yellow dots. The red circle indicates that we collected sediment samples from only mangroves and tidal flats; the blue circle indicates that we collected sediment samples from mangroves, tidal flats and gei wai; and the green circle indicates that we collected sediment samples from mangroves, tidal flats, and seagrass meadows.
 <br/>
+<div align="center"><img src="/images/meef/Tung_Chung_Bay.jpg" width="70%"></div>
+**a** Seagrass meadows in Tung Chung Bay; **b** Seagrass meadows, tidal flats and mangroves in Tung Chung Bay; **c** The airport construction project across from Tung Chung Bay; **d** Seagrass sediment cores from Tung Chung; **e** The airport construction project, seagrass meadows and mangroves in Tung Chung Bay.<br/>
+
