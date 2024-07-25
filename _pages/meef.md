@@ -47,3 +47,12 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 <div align="center"><img src="/images/meef/F9.jpg" width="90%"></div>
 <center>Filed work in Lai Chi Chong</center>
 <br/>
+<div align="center"><img src="/images/meef/Ting_Kok.jpg" width="90%"></div>
+<center><b>(a)</b> Mangroves in Ting Kok; <b>(b)</b> Sediment core from Ting Kok.</center>
+<br/>
+<div align="center"><img src="/images/meef/Mai_Po.jpg" width="90%"></div>
+**(a)** Mai Po Nature Reserves; **(b)** Tida flats in Mai Po Nature Reserves; **(c)** Sample collecting in Mai Po; **(d)** Field work in Mai Po.
+<br/>
+<div align="center"><img src="/images/meef/F18.jpg" width="90%"></div>
+<center>Work presentation in a national conference</center>
+<br/>
