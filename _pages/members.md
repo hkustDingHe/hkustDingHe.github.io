@@ -299,6 +299,24 @@ author_profile: true
 </div>
 
 
+<div class="block">
+    <img src="/images/waihang.jpg"/>
+    <p>
+        <b>LEUNG Wai Hang</b><br/>
+        Student Helper
+        <br/><br/>
+        LEUNG Wai Hang is majoring in Ocean Science and Technology with an extended major in AI. She is interested in exploring the application of AI tools in oceanographic research.
+    </p>
+</div>
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 
