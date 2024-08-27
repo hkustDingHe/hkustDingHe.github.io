@@ -56,7 +56,7 @@ Four important coastal wetland areas in Hong Kong (Deep Bay, North Lantau, South
 <div align="center"><img src="/images/meef/F18.jpg" width="90%"></div>
 <center>Work presentation in a national conference</center>
 <br/>
-<video width="70%" controls="autoplay">
+<video width="100%" controls="autoplay">
   <source src="/images/meef/hkust.mp4" type="video/mp4">
 </video>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Field sampling and laboratory treatment
+<center>Field sampling and laboratory treatment</center>
