@@ -306,6 +306,7 @@ author_profile: true
         Student Helper
         <br/><br/>
         LEUNG Wai Hang is majoring in Ocean Science and Technology with an extended major in AI. She is interested in exploring the application of AI tools in oceanographic research.
+        <br/><br/>
     </p>
 </div>
 
