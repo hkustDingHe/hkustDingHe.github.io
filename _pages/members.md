@@ -294,7 +294,7 @@ author_profile: true
         Neal is an Undergraduate Student currently studying environmental biology and applied ecology at Cornell University and is interested in environmental policies and governance as well.
         <br/><br/>
         Email: <a href="mailto://nxding@connect.ust.hk">nxding@connect.ust.hk</a>
-        <br/><br/>
+        <br/><br/><br/>
     </p>
 </div>
 
