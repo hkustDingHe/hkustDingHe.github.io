@@ -10,10 +10,11 @@ author_profile: true
 ### Published research articles (* corresponding author):
 ### 2024
 
-(104). Utsumi, G. S., **He, D**.,Berelson, W. M., Castelao, R. M., Yager, P. L., & Medeiros, P. M.* (2024). Influence of the Amazon River on the composition of particulate organic carbon in the western tropical Atlantic Ocean. Geochimica et Cosmochimica Acta. [(Link)](https://doi.org/10.1016/j.gca.2024.09.011 )
+(104). Utsumi, G. S., **He, D**.,Berelson, W. M., Castelao, R. M., Yager, P. L., & Medeiros, P. M.\* (2024). Influence of the Amazon River on the composition of particulate organic carbon in the western tropical Atlantic Ocean. Geochimica et Cosmochimica Acta. [(Link)](https://doi.org/10.1016/j.gca.2024.09.011 )
 <div align="center"><img src="/images/publication_img/104.jpg" width="600"></div>
 
-(103). Yi, Y., Li, S.L.*, Zhong, J., Wang, K., Merder, J., Bao, H., Qi, Y., **He, D.,** Xu, S., Dittmar, T.*& Liu, C.Q., 2024. Assessing the impacts of reservoirs on riverine dissolved organic matter: Insights from the largest reservoir in the Pearl River. Journal of Geophysical Research: Biogeosciences, 129(8), p.e2024JG008199. [(Link)]( https://doi.org/10.1029/2024JG008199) 
+(103). Yi, Y., Li, S.L.\*, Zhong, J., Wang, K., Merder, J., Bao, H., Qi, Y., **He, D**., Xu, S., Dittmar, T.\*& Liu, C.Q., 2024. Assessing the impacts of reservoirs on riverine dissolved organic matter: Insights from the largest reservoir in the Pearl River. Journal of Geophysical Research: Biogeosciences, 129(8), p.e2024JG008199. [(Link)]( https://doi.org/10.1029/2024JG008199) 
+<div align="center"><img src="/images/publication_img/103.jpg" width="600"></div>
 
 (102). Liang, W., Chen, X., Chen, Z. L., Zhu, P., Huang, Z., Li, J., ... Li, L.* & He, D.* (2024). Unraveling the impact of Spartina alterniflora invasion on greenhouse gas production and emissions in coastal saltmarshes: New Insights from dissolved organic matter characteristics and surface-porewater interactions. Water Research, 122120.
 <div align="center"><img src="/images/publication_img/102.jpg" width="600"></div>
