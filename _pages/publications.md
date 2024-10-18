@@ -9,6 +9,14 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2024
+(107) Chen, G., Wang, H. \*, Zhang, Q.W., Geng, R., Wang, J., Yi, Y.B., Li, M., **He, D**. (2024). Variation of Dissolved Organic Matter Chemistry in the Runoff From Slopes Covered With Biocrusts Under Rainfall: Insights From the Linkages Between the Optical and Molecular Composition Analyses,  Land Degradation & Development. [(Link)]( https://doi.org/10.1002/ldr.5340) 
+<div align="center"><img src="/images/publication_img/107.jpg" width="600"></div>
+
+(106) Xia, F., Fu, M., Liu, C., Li, Y., Qiang, Y., **He, D**., ... & Cui, L. \* (2024). Dissolved Organic Matters, an Intermediary of the Microbial Community and Potassium Fertilizers in A. carmichaeli rhizosphere Soil. Journal of Soil Science and Plant Nutrition, 24(3), 5472-5486. [(Link)]( https://doi.org/10.1007/s42729-024-01920-9) 
+<div align="center"><img src="/images/publication_img/106.jpg" width="600"></div>
+
+(105) Zhao, C., Tian, Z., Zhang, Q., Wang, Y., Zhang, P., Sun, G., Yang, Y., **He, D**., Tu, S. & Wang, J. \* (2024). Unraveling the distribution of black carbon in Chinese forest soils using machine learning approaches. Geophysical Research Letters, 51(19), e2024GL110618. [(Link)]( https://doi.org/10.1029/2024GL110618) 
+<div align="center"><img src="/images/publication_img/105.jpg" width="600"></div>
 
 (104). Utsumi, G. S., **He, D**.,Berelson, W. M., Castelao, R. M., Yager, P. L., & Medeiros, P. M.\* (2024). Influence of the Amazon River on the composition of particulate organic carbon in the western tropical Atlantic Ocean. Geochimica et Cosmochimica Acta. [(Link)](https://doi.org/10.1016/j.gca.2024.09.011 )
 <div align="center"><img src="/images/publication_img/104_1.jpg" width="600"></div>
