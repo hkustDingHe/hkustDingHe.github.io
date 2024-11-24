@@ -8,7 +8,24 @@ author_profile: true
 {% include base_path %}
 
 ### Published research articles (* corresponding author):
+### 2025
+
+(112) Lin, H., Zhong, C., Wen, R., Ma, T. H., **He, D**., Martin, J. W., ... & He, Y. (2025). Identification and hazard prioritization of hydrophobic organic chemicals in flowback and produced water particles: Implications for water management. Water Research, 268, 122674. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0043135424015732) 
+<div align="center"><img src="/images/publication_img/112.jpg" width="600"></div>
+
 ### 2024
+(111) Zhang, Z. X., Zhao, C., Chen, Z. L., Zhang, Z., Yi, Y., Li, P. \*,  & **He, D.**\* (2024).  Optical signatures as a diagnostic tool for tracking dynamics of sedimentary dissolved organic nitrogen, phosphorus, and sulfur in an anthropogenic bay. Chemical Geology, 122508. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0009254124005886) 
+<div align="center"><img src="/images/publication_img/111.jpg" width="600"></div>
+
+(110) Chen, Z. L. \*, Zhang, Z. X., Cai, R., Yi, Y., Liang, W., Macreadie, P. I., ... & **He, D.**\* (2024).  Molecular fingerprints of sedimentary dissolved organic matter in mangroves: Importance to blue carbon sequestration. Chemical Geology, 122495. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0009254124005758) 
+<div align="center"><img src="/images/publication_img/110.jpg" width="600"></div>
+
+(109) Ma, X., Song, Z., Wang, Y. P.\*, Wang, S., Zhan, Z. W., & **He, D.**\* (2024). Heavy metal dynamics in riverine mangrove systems: A case study on content, migration, and enrichment in surface sediments, pore water, and plants in Zhanjiang, China. Marine Environmental Research, 106832.
+<div align="center"><img src="/images/publication_img/109.jpg" width="600"></div>
+
+(108) Zhang, X., Wang, Y., Liu, Z., Liu, B., Wu, W., Liu, L., ..., **He, D.**\*,  & Xu, Y. \* (2024). Heterogeneous Sources, Distribution, and removal processes of dissolved black carbon from East China Sea shelf to open ocean of Northwest Pacific. Progress in Oceanography, 103374. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0079661124001800#f0045) 
+<div align="center"><img src="/images/publication_img/108.jpg" width="600"></div>
+
 (107) Chen, G., Wang, H. \*, Zhang, Q.W., Geng, R., Wang, J., Yi, Y.B., Li, M., **He, D**. (2024). Variation of Dissolved Organic Matter Chemistry in the Runoff From Slopes Covered With Biocrusts Under Rainfall: Insights From the Linkages Between the Optical and Molecular Composition Analyses,  Land Degradation & Development. [(Link)]( https://doi.org/10.1002/ldr.5340) 
 <div align="center"><img src="/images/publication_img/107.jpg" width="600"></div>
 
