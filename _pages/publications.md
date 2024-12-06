@@ -10,10 +10,16 @@ author_profile: true
 ### Published research articles (* corresponding author):
 ### 2025
 
-(112) Lin, H., Zhong, C., Wen, R., Ma, T. H., **He, D**., Martin, J. W., ... & He, Y. (2025). Identification and hazard prioritization of hydrophobic organic chemicals in flowback and produced water particles: Implications for water management. Water Research, 268, 122674. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0043135424015732) 
+(114) Lin, H., Zhong, C., Wen, R., Ma, T. H., **He, D**., Martin, J. W., ... & He, Y. (2025). Identification and hazard prioritization of hydrophobic organic chemicals in flowback and produced water particles: Implications for water management. Water Research, 268, 122674. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0043135424015732) 
 <div align="center"><img src="/images/publication_img/112.jpg" width="600"></div>
 
 ### 2024
+(113) Chen, Z. L., Yi, Y. \*, Cai, R., Zhang, Z. X., Liang, W., Fu, W., ... & **He, D.**\* (2024). Revealing the Mobilization and Age of Estuarine Dissolved Organic Matter During Floods Using Radiocarbon and Molecular Fingerprints. Water Research, 122898. [(Link)]( https://doi.org/10.1016/j.watres.2024.122898)
+<div align="center"><img src="/images/publication_img/113.jpg" width="600"></div>
+
+(112) Chen, G., Zhang, Q. W. \*, Wang, H., Geng, R., Wang, J., Yi, Y. B., ... & **He, D** (2024). Optical and molecular techniques are complementary to understand the characteristics of dissolved organic matter in the runoff from sloping croplands with various micro-topographies during rainfall. Journal of Hydrology, 132403. [(Link)]( https://doi.org/10.1016/j.jhydrol.2024.132403) 
+<div align="center"><img src="/images/publication_img/112_2.jpg" width="600"></div>
+
 (111) Zhang, Z. X., Zhao, C., Chen, Z. L., Zhang, Z., Yi, Y., Li, P. \*,  & **He, D.**\* (2024).  Optical signatures as a diagnostic tool for tracking dynamics of sedimentary dissolved organic nitrogen, phosphorus, and sulfur in an anthropogenic bay. Chemical Geology, 122508. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0009254124005886) 
 <div align="center"><img src="/images/publication_img/111.jpg" width="600"></div>
 
