@@ -10,10 +10,22 @@ author_profile: true
 ### Published research articles (* corresponding author):
 ### 2025
 
-(114) Lin, H., Zhong, C., Wen, R., Ma, T. H., **He, D**., Martin, J. W., ... & He, Y. (2025). Identification and hazard prioritization of hydrophobic organic chemicals in flowback and produced water particles: Implications for water management. Water Research, 268, 122674. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0043135424015732) 
+(116) Lin, H., Zhong, C., Wen, R., Ma, T. H., **He, D**., Martin, J. W., ... & He, Y. (2025). Identification and hazard prioritization of hydrophobic organic chemicals in flowback and produced water particles: Implications for water management. Water Research, 268, 122674. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0043135424015732) 
 <div align="center"><img src="/images/publication_img/112.jpg" width="600"></div>
 
 ### 2024
+
+(115) Cai, G., Zhan, Z. W., Song, Z., Wang, Y. P., Xia, J., & **He, D**. (2024). n-Alkanes δ13C and salinity correlation in mangrove Aegiceras corniculatum leaves and surface sediments from Zhanjiang estuaries, China. Chemical Geology, 122552.
+<div align="center"><img src="/images/publication_img/115_1.jpg" width="600"></div>
+<div align="center"><img src="/images/publication_img/115_2.jpg" width="600"></div>
+
+
+(114) Huang, Y., Zhang, P., Peng, H., Pan, F., Liu, Y., Wang, K., Cai, Y., Wang, J., Wang, Z., Zheng, C., Li, H., **He, D**., Wang, J., Dang, C., Wu, P., Chen, J., Maher, D., Xiao, K. (2024). Benthic bioturbations weaken the stability of blue carbon storage. National Science Open.
+[(Link)]( https://doi.org/10.1360/nso/20240052 )
+<div align="center"><img src="/images/publication_img/114_1.jpg" width="600"></div>
+<div align="center"><img src="/images/publication_img/114_2.jpg" width="600"></div>
+
+
 (113) Chen, Z. L., Yi, Y. \*, Cai, R., Zhang, Z. X., Liang, W., Fu, W., ... & **He, D.**\* (2024). Revealing the Mobilization and Age of Estuarine Dissolved Organic Matter During Floods Using Radiocarbon and Molecular Fingerprints. Water Research, 122898. [(Link)]( https://doi.org/10.1016/j.watres.2024.122898)
 <div align="center"><img src="/images/publication_img/113.jpg" width="600"></div>
 
