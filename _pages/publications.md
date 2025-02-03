@@ -10,6 +10,13 @@ author_profile: true
 ### Published research articles (* corresponding author):
 ### 2025
 
+(118) Chen, X., Santos, I. R., Du, J., Xu, B., Tamborski, J. J., **He, D**., ... & Li, L. (2025). Sandy Subterranean estuaries minimize groundwater nitrogen pollution impacts on coastal waters. Geophysical Research Letters, 52(3), e2024GL109621.
+<div align="center"><img src="/images/publication_img/118.jpg" width="600"></div>
+
+(117) Li, P., Tang, S., Cai, R. \*, Zhang, Z., He, C., Shi, Q., & **He, D.**\* (2025). Molecular dynamics and factors governing recalcitrance of dissolved organic matter: Insights from laboratory incubation and ultra-high resolution mass spectrometry. Science of The Total Environment, 964, 178580.
+<div align="center"><img src="/images/publication_img/117.jpg" width="600"></div>
+
+
 (116) Lin, H., Zhong, C., Wen, R., Ma, T. H., **He, D**., Martin, J. W., ... & He, Y. (2025). Identification and hazard prioritization of hydrophobic organic chemicals in flowback and produced water particles: Implications for water management. Water Research, 268, 122674. [(Link)]( https://www.sciencedirect.com/science/article/pii/S0043135424015732) 
 <div align="center"><img src="/images/publication_img/112.jpg" width="600"></div>
 
