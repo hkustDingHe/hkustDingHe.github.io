@@ -9,6 +9,8 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(119) Chang, C., Ren, M., Wang, H., Ye, S., Tang, X., **He, D**., ... & Pan, B. (2025). Riverine network size determined major driving factors of the composition and diversity of aquatic invertebrate communities in a multi-tributary mountain river basin. Water Research, 123257.
+<div align="center"><img src="/images/publication_img/119.jpg" width="600"></div>
 
 (118) Chen, X., Santos, I. R., Du, J., Xu, B., Tamborski, J. J., **He, D**., ... & Li, L. (2025). Sandy Subterranean estuaries minimize groundwater nitrogen pollution impacts on coastal waters. Geophysical Research Letters, 52(3), e2024GL109621.
 <div align="center"><img src="/images/publication_img/118.jpg" width="600"></div>
