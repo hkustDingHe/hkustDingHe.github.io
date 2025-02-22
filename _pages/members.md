@@ -370,10 +370,10 @@ author_profile: true
 
 
 ### Postdoc
-**Dr. Yuping Zhou** (Now Associated Professor of Qingdao University of Technology)
+**Dr. Yuping Zhou** (Now Associate Professor in Ocean University of China)
 
 ### PhD
-**Dr. Kai Wang** (2017-2020; Now Research Assistant Professor of Southern University of Science and Technology)
+**Dr. Kai Wang** (2017-2020; Now Associate Professor in Tianjin University)
 
 ### Mphil
 **Ms. Yu Pang** (Now PhD student in DREAM group)
