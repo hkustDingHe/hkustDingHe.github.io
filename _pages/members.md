@@ -113,6 +113,20 @@ author_profile: true
 </div>
 
 <div class="block">
+    <img src="/images/sunjing.jpg"/>
+    <p>
+        <b>Dr. Jing Sun</b><br/>
+        Postdoc (2025-now)
+        <br/><br/>
+       Jing holds a Ph.D. degree in Marine Environmental Science from the Hong Kong University of Science and Technology (HKUST). She is interested in studying biogeochemical cycles, including those of carbon, oxygen, nitrogen, sulfur, and redox metals, in the sediments of coastal oceans. By combining field observations, laboratory analyses, and numerical modeling, she aims to understand the mechanistic controls of biogeochemical cycling and their implications for aquatic ecosystems.
+        <br/><br/>
+        Email: <a href="mailto://lyjyyy@mail.ustc.edu.cn">jings@ust.hk</a>
+    </p>
+</div>
+
+
+
+<div class="block">
     <img src="/images/liutongcun.jpg"/>
     <p>
         <b>Prof. Tongcun Liu</b><br/>
@@ -194,6 +208,23 @@ author_profile: true
 </div>
 
 <div class="block">
+    <img src="/images/zhangzekun.jpg"/>
+    <p>
+        <b>Zekun Zhang</b><br/>
+        PhD student (2024-now)
+        <br/><br/>
+       Zekun received his Bachelor’s degree from Ocean University of China and his Master’s degree from Sun Yat-sen University. His current research is primarily focused on two major areas:
+	1.	Investigating the dynamic changes of sedimentary dissolved organic matter (DOM) in estuarine and continental shelf environments, and exploring how minerals influence the preservation of sedimentary DOM (SDOM).
+	2.	Utilizing big data techniques （ML or GNN）to explore the biogeochemical processes of molecules.
+        <br/><br/>
+        <br/><br/><br/><br/><br/>
+    </p>
+</div>
+
+
+
+
+<div class="block">
     <img src="/images/mahuiying.jpg"/>
     <p>
         <b>Huiying Ma</b><br/>
@@ -229,6 +260,44 @@ author_profile: true
         <br/><br/>
     </p>
 </div>
+
+<div class="block">
+    <img src="/images/wangyinuo.jpg"/>
+    <p>
+        <b>Yinuo Wang</b><br/>
+        Msc Student 
+        <br/><br/>
+       I’m Yinuo Wang. I graduated from Ocean University of China and am currently pursuing a master’s degree in Marine Resource Management through a joint program between the University of Southampton and the Hong Kong University of Science and Technology. I’m really excited to join the Data-driven appRoaches for Exploring geochemistry of Aquatic ecosysteMs (DREAM) group and learn from all of you. I’ll do my best to keep up with the team, take on challenges, and keep improving. Looking forward to exploring new research frontiers together, growing alongside everyone, and chasing our dreams as part of the DREAM group! 
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/chowhonam.jpg"/>
+    <p>
+        <b>Ho Nam CHOW </b><br/>
+        Msc Student 
+        <br/><br/>
+      CHOW Ho Nam holds a bachelor’s degree in Environmental Engineering and Sustainable Development from The Hong Kong Polytechnic University and is currently pursuing Master in Global Marine Resources Management. He is interested in utilising machine learning in marine pollution management. 
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/wangmingchen.jpg"/>
+    <p>
+        <b>Mingchen Wang </b><br/>
+        Msc Student 
+        <br/><br/>
+She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing a Master's degree in Global Marine Resource Management (GMRM). My academic background combines expertise in geospatial technologies with a multidisciplinary approach to ocean resource management, equipping me with the skills to analyze and address marine and environmental challenges on a global scale
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+
 
 <div class="block">
     <img src="/images/xuerunze.jpg"/>
