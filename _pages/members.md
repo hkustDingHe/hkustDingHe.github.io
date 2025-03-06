@@ -377,9 +377,12 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
         Student Helper
         <br/><br/>
         LEUNG Wai Hang is majoring in Ocean Science and Technology with an extended major in AI. She is interested in exploring the application of AI tools in oceanographic research.
-        <br/><br/>
+        <br/><br/><br/>
     </p>
 </div>
+
+<br>
+<br>
 
 <div class="block">
     <img src="/images/xiamingyuan.jpg"/>
