@@ -381,7 +381,16 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
-
+<div class="block">
+    <img src="/images/xiamingyuan.jpg"/>
+    <p>
+        <b>Mingyuan Xia</b><br/>
+        Student Helper
+        <br/><br/>
+       He is majoring in Chemistry and minoring in Mathematics. He is dedicated to acquiring more knowledge and experience about spectrums and applying them to research.
+        <br/><br/>
+    </p>
+</div>
 
 
 
