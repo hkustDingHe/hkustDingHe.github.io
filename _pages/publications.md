@@ -9,6 +9,15 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(121) Wang, Y. P., Song, Z., Xia, J., Zhan, Z. W., Sessions, A. L., Silverman, S. N., ... &  **He, D.** (2025). Dry season dominance of salinity’s impact on hydrogen isotope fractionation in Aegiceras corniculatum mangrove lipids. Geochimica et Cosmochimica Acta. 
+[(Link)]( https://doi.org/10.1016/j.gca.2025.02.024 )
+<div align="center"><img src="/images/publication_img/121.jpg" width="600"></div>
+
+
+(120) Yang, F., Chang, C., Wen, L., Hao, Z., Pang, Y., Yi, Y., **He, D.**\*, Li, M. \* (2025). Unravelling Riverine Dissolved Organic Matter Sources Using Molecular Fingerprints and FEAST Model in A Multi-tributary Mountain River Basin. Water Research. 
+[(Link)]( https://doi.org/10.1016/j.watres.2025.123478 )
+<div align="center"><img src="/images/publication_img/120.jpg" width="600"></div>
+
 (119) Chang, C., Ren, M., Wang, H., Ye, S., Tang, X., **He, D**., ... & Pan, B. (2025). Riverine network size determined major driving factors of the composition and diversity of aquatic invertebrate communities in a multi-tributary mountain river basin. Water Research, 123257.
 <div align="center"><img src="/images/publication_img/119.jpg" width="600"></div>
 
