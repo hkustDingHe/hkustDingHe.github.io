@@ -395,7 +395,33 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
+<br>
+<br>
 
+<div class="block">
+    <img src="/images/hunghoilam.jpg"/>
+    <p>
+        <b>Hung Hoi Lam</b><br/>
+        Student Helper
+        <br/><br/>
+       I am Hung Hoi Lam. I am a year2 student of Ocean Science and Technology.
+        <br/><br/>
+    </p>
+</div>
+
+<br>
+<br>
+
+<div class="block">
+    <img src="/images/chenghoutin.jpg"/>
+    <p>
+        <b>CHENG Hou Tin, Max</b><br/>
+        Student Helper
+        <br/><br/>
+       Max is a undergraduate student majoring in Ocean Science and Technology (OST). He is interested in the chemistry of marine environments, especially nutrient cycling in the ocean.
+        <br/><br/>
+    </p>
+</div>
 
 
 
