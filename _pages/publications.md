@@ -9,6 +9,11 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(122) Assavapanuvat, P., Breithaupt, J., **He, D**., Mead, R., Bianchi, T. (2025). The predominance of root- and salt-marsh-derived soil organic carbon in a mangrove poleward range expansion front. Geoderma, 456, 117249
+[(Link)]( https://doi.org/10.1016/j.geoderma.2025.117249 )
+<div align="center"><img src="/images/publication_img/122.jpg" width="600"></div>
+
+
 (121) Wang, Y. P., Song, Z., Xia, J., Zhan, Z. W., Sessions, A. L., Silverman, S. N., ... &  **He, D.** (2025). Dry season dominance of salinity’s impact on hydrogen isotope fractionation in Aegiceras corniculatum mangrove lipids. Geochimica et Cosmochimica Acta. 
 [(Link)]( https://doi.org/10.1016/j.gca.2025.02.024 )
 <div align="center"><img src="/images/publication_img/121.jpg" width="600"></div>
