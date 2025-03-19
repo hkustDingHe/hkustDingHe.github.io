@@ -32,6 +32,22 @@ author_profile: true
         Assistant Professor, PI <a href="https://hkustDingHe.github.io/files/HeDingCV.pdf">CV</a>
         <br/><br/>
         I got my PhD degree (majored in Marine Organic Geochemistry; supervised by Professor Rudolf Jaffé and co-supervised by Professor Bernd R.T. Simoneit) from Florida International University in 2014. I worked as a Postdoctoral Fellow at Department of Marine Science (supervised by Professor Patricia Medeiros) from University of Georgia from 2014 to 2016. I worked as a visiting researcher at Tongji University in 2016, and a Hundred Talent Professor at Zhejiang University from 2016 and join in HKUST in 2021. I have established a DREAM group at HKUST.
+<br/><br/>
+Now I am serving as Associated Editor for: 
+<br/>
+&nbsp;&nbsp;1.	<b>Applied Geochemistry</b> (2024 to present) (official journal of the International Association of Geochemistry)<br/>
+&nbsp;&nbsp;2.	<b>Journal of Environmental Quality</b> (2025 to present) (official journal of the American Society of Agronomy, Crop Science Society of America, and Soil Science Society of America)
+<br/><br/>
+Primary convenor of special collection for:<br/>
+&nbsp;&nbsp;3.	<b>Global Biogeochemical Cycle</b> <br>
+&nbsp;&nbsp;4.	<b>Geophysical Research Letters</b><br>
+&nbsp;&nbsp;5.	<b>JGR-Biogeosciences</b><br>
+&nbsp;&nbsp;6.	<b>JGR-Machine Learning and Computation</b><br>
+&nbsp;&nbsp;7.	<b>JGR-Oceans</b><br>
+&nbsp;&nbsp;8.	<b>Earth’s Future </b>
+<br/><br/>
+Editorial Broad Member for:<br/>
+&nbsp;&nbsp;9.	<b>Scientific Reports</b> (2025 to present) (a peer-reviewed open access scientific mega journal published by Nature Portfolio).
         <br/><br/>
         Email: <a href="mailto://dinghe@ust.hk">dinghe@ust.hk</a>
     </p>
