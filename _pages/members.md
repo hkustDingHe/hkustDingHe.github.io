@@ -206,7 +206,8 @@ Editorial Broad Member for:<br/>
         <br/><br/>
         Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
         <br/><br/>
-        Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a>
+        Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a><br/>
+	Website:<a href="https://chenzhao-geoai.github.io/">Homepage</a>
     </p>
 </div>
 
