@@ -104,17 +104,7 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/chenzhaoliang.jpg"/>
-    <p>
-        <b>Dr. Zhaoliang Chen</b><br/>
-        Postdoc (2022-now)
-        <br/><br/>
-        Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2022. His current research mainly focuses on understanding carbon cycling in coastal wetlands and estuaries by using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He is also interested in investigating the biogeochemical impact of microplastics on coastal carbon cycling.
-        <br/><br/>
-        Email: <a href="mailto://chenzl@ust.hk">chenzl@ust.hk</a>
-    </p>
-</div>
+
 
 <div class="block">
     <img src="/images/liuyanjun.jpg"/>
@@ -171,20 +161,7 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/yangfang.jpg"/>
-    <p>
-        <b>Associate Prof. Fang Yang</b><br/>
-        Visiting Scholar <a href="https://www.researchgate.net/profile/Fang-Yang-76">Homepage</a>
-        <br/>
-        College of Natural Resources and Environment, Northwest A&F University (NWAFU)
-        <br/><br/>
-        Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
-        <br/><br/>
-        Email: <a href="mailto://yangfang@ust.hk">yangfang@ust.hk</a>
-        <br/>
-    </p>
-</div>
+
 
 <div class="block">
     <img src="/images/yanzhenwei.jpg"/>
@@ -329,18 +306,7 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/yaopiao.jpg"/>
-    <p>
-        <b>Piao Yao</b><br/>
-        RA (2023-now)
-        <br/><br/>
-        Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
-        <br/><br/>
-        Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
-        <br/><br/><br/>
-    </p>
-</div>
+
 
 <div class="block">
     <img src="/images/yeming.jpg"/>
@@ -355,34 +321,7 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
-<br>
-<br>
 
-<div class="block">
-    <img src="/images/liuyinyi.jpg"/>
-    <p>
-        <b>Yinyi Liu</b><br/>
-        Visiting Undergraduate Student(2024)
-        <br/><br/>
-        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including Machine Learning, Deep Learning and Data Mining for the analysis of molecular data.
-        <br/><br/>
-        Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/neal.jpg"/>
-    <p>
-        <b>Neal Xiangyu Ding</b><br/>
-        Visiting Undergraduate Student(2024)
-        <br/><br/>
-        Neal is an Undergraduate Student currently studying environmental biology and applied ecology at Cornell University and is interested in environmental policies and governance as well.
-        <br/><br/>
-        Email: <a href="mailto://nxding@connect.ust.hk">nxding@connect.ust.hk</a>
-        <br/><br/><br/>
-    </p>
-</div>
 
 <br>
 <br>
@@ -451,6 +390,7 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
 
 ### Alumni
 
+
 <div class="block">
     <img src="/images/zhoubin.jpg"/>
     <p>
@@ -490,10 +430,74 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/chenzhaoliang.jpg"/>
+    <p>
+        <b>Dr. Zhaoliang Chen</b><br/>
+        Postdoc 
+        <br/><br/>
+        Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2022. His current research mainly focuses on understanding carbon cycling in coastal wetlands and estuaries by using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He is also interested in investigating the biogeochemical impact of microplastics on coastal carbon cycling.
+        <br/><br/>
+        Email: <a href="mailto://chenzl@ust.hk">chenzl@ust.hk</a>
+    </p>
+</div>
 
+<div class="block">
+    <img src="/images/yangfang.jpg"/>
+    <p>
+        <b>Associate Prof. Fang Yang</b><br/>
+        Visiting Scholar <a href="https://www.researchgate.net/profile/Fang-Yang-76">Homepage</a>
+        <br/>
+        College of Natural Resources and Environment, Northwest A&F University (NWAFU)
+        <br/><br/>
+        Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
+        <br/><br/>
+        Email: <a href="mailto://yangfang@ust.hk">yangfang@ust.hk</a>
+        <br/>
+    </p>
+</div>
 
+<div class="block">
+    <img src="/images/yaopiao.jpg"/>
+    <p>
+        <b>Piao Yao</b><br/>
+        RA
+        <br/><br/>
+        Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
+        <br/><br/>
+        Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
+        <br/><br/><br/>
+    </p>
+</div>
 
+<br>
+<br>
 
+<div class="block">
+    <img src="/images/liuyinyi.jpg"/>
+    <p>
+        <b>Yinyi Liu</b><br/>
+        Visiting Undergraduate Student(2024)
+        <br/><br/>
+        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including Machine Learning, Deep Learning and Data Mining for the analysis of molecular data.
+        <br/><br/>
+        Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/neal.jpg"/>
+    <p>
+        <b>Neal Xiangyu Ding</b><br/>
+        Visiting Undergraduate Student(2024)
+        <br/><br/>
+        Neal is an Undergraduate Student currently studying environmental biology and applied ecology at Cornell University and is interested in environmental policies and governance as well.
+        <br/><br/>
+        Email: <a href="mailto://nxding@connect.ust.hk">nxding@connect.ust.hk</a>
+        <br/><br/><br/>
+    </p>
+</div>
 
 ### Postdoc
 **Dr. Yuping Zhou** (Now Associate Professor in Ocean University of China)
