@@ -337,10 +337,25 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
+<br>
+<br>
 
+<div class="block">
+    <img src="/images/chenzhiyan.jpg"/>
+    <p>
+        <b>Zhiyan Chen</b><br/>
+        RA (2025-now)
+        <br/><br/>
+       Zhiyan is a research assistant in Prof. HE's lab. She holds a Bachelor's degree from the Ocean University of China and a Master's degree of Marine Geology from the Institute of Deep-Sea Science and Engineering, CAS. Her previous research focused on investigating organic carbon cycling in deep-sea and mangrove sediments using biomarkers such as lipids, lignin and eDNA.
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
 
 <br>
 <br>
+
+
 
 <div class="block">
     <img src="/images/waihang.jpg"/>
