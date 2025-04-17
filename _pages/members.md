@@ -161,6 +161,22 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/huanghailong.jpg"/>
+    <p>
+        <b>Asst. Prof. Hailong Huang</b><br/>
+        Visiting Scholar 
+        <br/>
+        School of Marine Sciences, Ningbo University
+        <br/><br/>
+       Asst. Prof. Huang holds a Ph.D. degree from the Ningbo University. His current research focuses on elucidating the generation, transformation, and transport mechanisms of organic carbon within algal bloom dynamics, while systematically investigating the dynamic response mechanisms of carbon sequestration effects in eutrophic aquaculture waters under climate warming drivers.
+        <br/><br/>
+        Email: <a href="mailto://huanghailong@nbu.edu.cn">huanghailong@nbu.edu.cn</a>
+        <br/><br/>
+    </p>
+</div>
+
+
 
 
 <div class="block">
