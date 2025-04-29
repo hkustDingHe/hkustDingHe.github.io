@@ -9,6 +9,15 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(124) Liu, T., Yu, G., Kwok, H. Y., Xue, R., **He, D.**\*, & Liang, W. \* (2025). Enhancing Tree-Based Machine Learning for Chlorophyll-a Prediction in Coastal Seawater Through Spatiotemporal Feature Integration. Marine Environmental Research, 107170. 
+[(Link)]( https://doi.org/10.1016/j.marenvres.2025.107170 )
+<div align="center"><img src="/images/publication_img/124.jpg" width="600"></div>
+
+
+(123) Chen, G., Wang, H., Zhang, Q. W., Chang, C., Wang, J., Yi, Y. B., ... & **He, D** (2025). Interactions between dissolved organic matter composition and microbial communities in runoff from biocrust-colonized slopes on the Loess Plateau of China. Journal of Hydrology: Regional Studies, 59, 102411. 
+[(Link)]( https://doi.org/10.1016/j.ejrh.2025.102411)
+<div align="center"><img src="/images/publication_img/123.jpg" width="600"></div>
+
 (122) Assavapanuvat, P., Breithaupt, J., **He, D**., Mead, R., Bianchi, T. (2025). The predominance of root- and salt-marsh-derived soil organic carbon in a mangrove poleward range expansion front. Geoderma, 456, 117249
 [(Link)]( https://doi.org/10.1016/j.geoderma.2025.117249 )
 <div align="center"><img src="/images/publication_img/122.jpg" width="600"></div>
