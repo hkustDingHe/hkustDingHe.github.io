@@ -9,6 +9,13 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(126). Chen, Z., Torres, R., Yao, J., **He, D**., Fan, D., Conley, D., Manning, A. & Ge, J. (2025). Regulating factors and spatiotemporal patterns of terrestrial dissolved organic carbon adsorption in a high-turbidity estuary. Water Research, 123837. [(Link)]( https://doi.org/10.1016/j.watres.2025.123837)
+<div align="center"><img src="/images/publication_img/126.jpg" width="600"></div>
+
+(125). Lv, Z., Liu, X., **He, D**., Ran, X., Feng, Y., Gao, W., ... & Jiao, N. (2025). Constraining the Composition and Biochemical Activity of Organic Carbon in a Large Eutrophic Estuary using Size-Fractionated Analysis. Environmental Research, 121853. 
+[(Link)]( https://doi.org/10.1016/j.envres.2025.121853)
+<div align="center"><img src="/images/publication_img/125.jpg" width="600"></div>
+
 (124) Liu, T., Yu, G., Kwok, H. Y., Xue, R., **He, D.**\*, & Liang, W. \* (2025). Enhancing Tree-Based Machine Learning for Chlorophyll-a Prediction in Coastal Seawater Through Spatiotemporal Feature Integration. Marine Environmental Research, 107170. 
 [(Link)]( https://doi.org/10.1016/j.marenvres.2025.107170 )
 <div align="center"><img src="/images/publication_img/124.jpg" width="600"></div>
