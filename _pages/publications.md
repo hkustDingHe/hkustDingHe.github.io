@@ -9,6 +9,18 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(129) Fang, F., Zhu, Z., Yi, Y., **He, D**., Bao, H., Zhang, E., Zhou, C. (2025). Eutrophication-induced dinoflagellate succession contributes to marine carbon sequestration through refractory dissolved organic matter accumulation. Limnology and Oceanography
+[(Link)]( https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70097)
+<div align="center"><img src="/images/publication_img/129.jpg" width="600"></div>
+
+(128) Wu, L., Song, Z., Zhang, X., Guo, Y., Wang, Y., Yu, C., Fang, Y., Hartley, I.P., Chen, J., Xia, S., Ouyang, X., Mi, W., **He, D**., Liu, C.Q., Wang, H.L. (2025). Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China. Catena, 257,109186. 
+[(Link)]( https://www.sciencedirect.com/science/article/pii/S0341816225004886?via%3Dihub)
+<div align="center"><img src="/images/publication_img/128.jpg" width="600"></div>
+
+(127) Yang, J., Wu, Y., Shang, B., Li, J., Li, P., Zhang, L., ... & **He, D**. (2025). Intensified human activities shape the dynamics of sediment organic matter in a highly-disturbed estuary. Journal of Environmental Management, 387, 125852. 
+[(Link)](https://doi.org/10.1016/j.jenvman.2025.125852)
+<div align="center"><img src="/images/publication_img/127.jpg" width="600"></div>
+
 (126). Chen, Z., Torres, R., Yao, J., **He, D**., Fan, D., Conley, D., Manning, A. & Ge, J. (2025). Regulating factors and spatiotemporal patterns of terrestrial dissolved organic carbon adsorption in a high-turbidity estuary. Water Research, 123837. [(Link)]( https://doi.org/10.1016/j.watres.2025.123837)
 <div align="center"><img src="/images/publication_img/126.jpg" width="600"></div>
 
