@@ -9,6 +9,27 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(135) Zhang, Z. X., Sachs, J. P., Wang, Y. P., Chen, Z. L., Huguet, A., &**He, D.**\* (2025). Molecular and trace metal signatures of pristine and anthropogenically altered mangrove sediments. Marine Pollution Bulletin, 219, 118309.  [(Link)]( https://doi.org/10.1016/j.marpolbul.2025.118309)
+<div align="center"><img src="/images/publication_img/135.jpg" width="600"></div>
+
+(134) Chen, G., Wang, H., Zhang, Q., Chang, C., Wang, F., Zhang, Q., ... & **He, D**. (2025). Unraveling the links between molecular weight and multidimensional dynamics of dissolved organic matter in the runoff from gentle sloping land under rainfall. Water Research, 124061. [(Link)]( https://doi.org/10.1016/j.watres.2025.124061)
+<div align="center"><img src="/images/publication_img/134.jpg" width="600"></div>
+
+(133) Liu, S., Mai, F., Huang, M., Yang, Q., Li, X., Mu, G., Zhang, B., Lu, L., Pang, Y., **He, D**., Zhang, Q., Liu, Y. & Tong, Y. (2025). Comprehensive analysis of greenhouse gases emissions and microbial dynamics in glacier-fed lakes across various ablation stages. Water Research, 124064 
+[(Link)]( https://doi.org/10.1016/j.watres.2025.124064)
+<div align="center"><img src="/images/publication_img/133.jpg" width="600"></div>
+
+(132) He, D., Wang, W., Yi, Y., Zhong, J., Mostofa, K. M., Hu, X., Shi, W., **He, D**. & Li, S. L. (2025). Cascading river damming amplifies photosynthetic organic matter production and DOC transport. Water Research, 124036. [(Link)]( https://doi.org/10.1016/j.watres.2025.124036)
+<div align="center"><img src="/images/publication_img/132.jpg" width="600"></div>
+
+(131) Du, Y., Zhao, C., Han, X., An, S., Mao, Z., Xun, F., **He, D**., Zhang, Y., Feng, M., Luo, W., Wu, Qi. & Xing, P. (2025). Authigenic CaCO3 precipitation contributes to the stabilization of algal-derived organic carbon in karst lake. Water Research, 123999.
+[(Link)]( https://doi.org/10.1016/j.watres.2025.123999)
+<div align="center"><img src="/images/publication_img/131.jpg" width="600"></div>
+
+(130) Tang, S., Yan, Z., Yi, Y., Shen, Y., Xie, W., **He, D**., & Li, P. (2025). Transportation and transformation of dissolved organic matter from overlying to bottom waters of cold seeps in the south China sea: insights at the molecular level. Global and Planetary Change, 104920.
+[(Link)]( https://doi.org/10.1016/j.gloplacha.2025.104920)
+<div align="center"><img src="/images/publication_img/130.jpg" width="600"></div>
+
 (129) Fang, F., Zhu, Z., Yi, Y., **He, D**., Bao, H., Zhang, E., Zhou, C. (2025). Eutrophication-induced dinoflagellate succession contributes to marine carbon sequestration through refractory dissolved organic matter accumulation. Limnology and Oceanography
 [(Link)]( https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70097)
 <div align="center"><img src="/images/publication_img/129.jpg" width="600"></div>
