@@ -126,9 +126,26 @@ Editorial Broad Member for:<br/>
         <br/><br/>
        Jing holds a Ph.D. degree in Marine Environmental Science from the Hong Kong University of Science and Technology (HKUST). She is interested in studying biogeochemical cycles, including those of carbon, oxygen, nitrogen, sulfur, and redox metals, in the sediments of coastal oceans. By combining field observations, laboratory analyses, and numerical modeling, she aims to understand the mechanistic controls of biogeochemical cycling and their implications for aquatic ecosystems.
         <br/><br/>
-        Email: <a href="mailto://lyjyyy@mail.ustc.edu.cn">jings@ust.hk</a>
+        Email: <a href="mailto://jings@ust.hk">jings@ust.hk</a>
     </p>
 </div>
+
+<div class="block">
+    <img src="/images/CH.jpg"/>
+    <p>
+        <b>Dr. He Chen</b><br/>
+        Postdoc (2025-now)
+        <br/><br/>
+      He Chen received her Ph.D. degree in Environmental Science from the Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences. Her research focuses on microbial ecology and biogeochemical cycling of key elements (e.g., carbon, nitrogen, phosphorus) in freshwater and coastal aquatic ecosystems. By combining field investigations, laboratory experiments, and advanced analytical techniques (e.g., FT-ICR MS, stable isotope tracing, metagenomics), she aims to understand how microbial processes mediate elemental transformations and contribute to long-term carbon storage, particularly via microbial carbon pump processes that lead to the formation of recalcitrant dissolved organic matter. She enjoys playing badminton and swimming in her spare time.
+        <br/><br/>
+        Email: <a href="mailto://carinachenhe@ust.hk">carinachenhe@ust.hk</a>, <a href="mailto://carinachenhe@163.com">carinachenhe@163.com</a>
+    </p>
+</div>
+
+
+
+
+
 
 
 
