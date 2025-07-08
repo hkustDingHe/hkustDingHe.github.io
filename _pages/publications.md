@@ -9,6 +9,12 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(137) Zhang, Z., Chen, Z. L., Liu, Y., Yi, Y., Cai, R., Ye, M., Liu, M.Y., Yan, M., Leung, K. M.Y. & **He, D.**\* (2025). Molecular Fingerprints of Dissolved Organic Matter Leached from Microplastics over Prolonged Photochemical Aging: Implications for Aquatic Carbon Cycling. Water Research, 124163. [(Link)]( https://doi.org/10.1016/j.watres.2025.124163)
+<div align="center"><img src="/images/publication_img/137.jpg" width="600"></div>
+
+(136) Xing, J., Zhou, Y., **He, D**., Guo, F., Li, P., Zhang, Y., Lv, R., Xue, R., Liu, C. & Xiao, Y. (2025). Sediments amplify organic matter cycling and nutrients feedback in eutrophic lake zones. Water Research, 124164.[(Link)]( https://doi.org/10.1016/j.watres.2025.124164)
+<div align="center"><img src="/images/publication_img/136.jpg" width="600"></div>
+
 (135) Zhang, Z. X., Sachs, J. P., Wang, Y. P., Chen, Z. L., Huguet, A., &**He, D.**\* (2025). Molecular and trace metal signatures of pristine and anthropogenically altered mangrove sediments. Marine Pollution Bulletin, 219, 118309.  [(Link)]( https://doi.org/10.1016/j.marpolbul.2025.118309)
 <div align="center"><img src="/images/publication_img/135.jpg" width="600"></div>
 
