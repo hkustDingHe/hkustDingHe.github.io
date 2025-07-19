@@ -9,6 +9,12 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(139) Cai, R., Lechtenfeld, O. J\*, Yan, Z., Yi, Y., Chen, X., Zheng, Q., Koch, B., Jiao, N.Z. & **He, D.**\* (2025). Constraining biorecalcitrance of carboxyl-rich alicyclic molecules in the ocean. Science Advances, 11(28), eadw1148. [(Link)]( https://www.science.org/doi/abs/10.1126/sciadv.adw1148)
+<div align="center"><img src="/images/publication_img/139.jpg" width="600"></div>
+
+(138) Liang, W., Li, P \*, Pan, Y., Zhang, Z. X., Yi, Y., Chen, Z. L., ... Gan, J. P. & **He, D.**\*  (2025). The role of dissolved organic matter in fuelling coastal hypoxia: identifying key molecules and drivers. Water Research, 124210. [(Link)]( https://doi.org/10.1016/j.watres.2025.124210) 
+<div align="center"><img src="/images/publication_img/138.jpg" width="600"></div>
+
 (137) Zhang, Z., Chen, Z. L., Liu, Y., Yi, Y., Cai, R., Ye, M., Liu, M.Y., Yan, M., Leung, K. M.Y. & **He, D.**\* (2025). Molecular Fingerprints of Dissolved Organic Matter Leached from Microplastics over Prolonged Photochemical Aging: Implications for Aquatic Carbon Cycling. Water Research, 124163. [(Link)]( https://doi.org/10.1016/j.watres.2025.124163)
 <div align="center"><img src="/images/publication_img/137.jpg" width="600"></div>
 
