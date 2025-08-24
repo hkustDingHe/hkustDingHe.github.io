@@ -276,6 +276,34 @@ Editorial Broad Member for:<br/>
 </div>
 
 <div class="block">
+    <img src="/images/caichaofeng.jpg"/>
+    <p>
+        <b>Chaofeng Cai</b><br/>
+        PhD student (2025-now, Co-supervised with Prof. Si Zhang from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))
+        <br/><br/>
+        Chaofeng earned his Batchelor’s and Master’s degree in Guangdong University of Technology. He is interested in investigating the dissolved organic matter (DOM) profile of seawater and sediment in cold seeps and its changes as cold seep develops.
+        <br/><br/>
+        Email: <a href="mailto:// ccaiah@connect.ust.hk">ccaiah@connect.ust.hk</a>
+    </p>
+</div>
+
+
+
+<div class="block">
+    <img src="/images/tangshi.jpg"/>
+    <p>
+        <b>Shi Tang</b><br/>
+        PhD Student (2025-Present, Co-supervised with Prof. Qing-Long Wu from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))  
+        <br/><br/>
+        Shi received her Bachelor's and Master's degrees from Sun Yat-sen University. Her previous research focused on the biogeochemistry of dissolved organic matter (DOM) in cold seeps and hydrothermal vents. She is also interested in the molecular fingerprinting of DOM and its interactions with microbial communities in estuaries.  
+        <br/><br/>
+        Email: <a href="mailto:// stangar@connect.ust.hk">stangar@connect.ust.hk</a>
+    </p>
+</div>
+
+
+
+<div class="block">
     <img src="/images/mandy.jpg"/>
     <p>
         <b>Mandy, Hoi Yan Kwok</b><br/>
