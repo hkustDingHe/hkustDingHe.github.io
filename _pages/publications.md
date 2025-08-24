@@ -9,6 +9,23 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(144) Liu, Y. J., Chen, Z. L. \*, Zhang, Z., Yi, Y., Cai, R., Ye, M., Liu, M., Yan, M., Leung, K.M.Y., Adyel, T.M. & **He, D.**\* (2025). Size and Structure-Dependent Molecular Fingerprint Transformation of Microplastic-Derived Dissolved Organic Matter in Sunlit Seawater: Implication for Marine Carbon Cycles. Environmental Science & Technology. [(Link)]( https://doi.org/10.1021/acs.est.5c04083)
+<div align="center"><img src="/images/publication_img/144_1.jpg" width="600"></div>
+<div align="center"><img src="/images/publication_img/144_2.jpg" width="600"></div>
+
+(143) Zhang, Q., Wang, H., Zhang, F., Chen, G., Yi, Y., Pang, Y., Wang, J., **He, D.**\* & Li, M. \* (2025). Exploring the role of surface micro-topography in governing dissolved nitrogen dynamics in agricultural runoff during rainfall. Water Research, 124400. [(Link)]( https://doi.org/10.1016/j.watres.2025.124400)
+<div align="center"><img src="/images/publication_img/143.jpg" width="600"></div>
+
+(142) Wu, L., Song, Z., Xiao, Z., Zhang, X., Van Zwieten, L., Guo, L., ... **He, D**., Wang, W.Q., Liu, C. & Wang, H. (2025). Assessment of Soil Organic and Inorganic Carbon Stocks in Coastal Salt Marshes of China: Key Mechanisms Elucidated. Global Change Biology, 31(8), e70421. 
+[(Link)]( https://doi.org/10.1111/gcb.70421)
+<div align="center"><img src="/images/publication_img/142.jpg" width="600"></div>
+
+(141) Gao, R., Yang, X., Zhang, Q., Yung, C. C., **He, D**., Yin, H., & Li, J. (2025). Polyphosphate Dynamics in Marine Heterotrophic Bacteria Under Phosphorus and Organic Carbon Limitations. Environmental Microbiology, 27(8), e70165. [(Link)]( https://doi.org/10.1111/1462-2920.70165)
+<div align="center"><img src="/images/publication_img/141.jpg" width="600"></div>
+
+(140) Wu, Y., Fang, H., Huang, L., He, C., Shi, Q., Yi, Y., ... **He, D** & Wang, K. (2025). Reservoir operation regulates the dynamics of dissolved organic matter in sediments. Journal of Environmental Management, 392, 126850. [(Link)]( https://doi.org/10.1016/j.jenvman.2025.126850)
+<div align="center"><img src="/images/publication_img/140.jpg" width="600"></div>
+
 (139) Cai, R., Lechtenfeld, O. J\*, Yan, Z., Yi, Y., Chen, X., Zheng, Q., Koch, B., Jiao, N.Z. & **He, D.**\* (2025). Constraining biorecalcitrance of carboxyl-rich alicyclic molecules in the ocean. Science Advances, 11(28), eadw1148. [(Link)]( https://www.science.org/doi/abs/10.1126/sciadv.adw1148)
 <div align="center"><img src="/images/publication_img/139.jpg" width="600"></div>
 
@@ -338,3 +355,4 @@ author_profile: true
 (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (2). Rudolf Jaffé, **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (3). Rudolf Jaffé, Bernd. R.T., Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (*Typha domingensis* P. and *Typha latifolia* L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+
