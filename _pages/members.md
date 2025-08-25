@@ -142,6 +142,16 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/zhoujunming.jpg"/>
+    <p>
+        <b>Dr. Junming Zhou</b><br/>
+        Postdoc (2025-now)
+        <br/><br/>
+       Junming obtained his Ph.D. degree from Guangzhou Institute of Geochemistry, Chinese Academy of Sciences. His research interests focus on the evolution of marine minerals, along with their associated resources and environmental impacts. His work primarily encompasses two core directions: (1) deep-sea mineral resources, including ferromanganese nodules/crusts, deep-sea mud enriched rare earth elements, natural gas hydrates, and cold seeps; (2) evolution of marine authigenic minerals (e.g., clay minerals, Fe-Mn oxides, apatite, etc.) and their related geochemical cycles of elements (e.g., carbon, silicon, phosphorus, iron, etc.).
+        <br/><br/>
+    </p>
+</div>
 
 
 
