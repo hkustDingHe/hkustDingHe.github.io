@@ -9,6 +9,17 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(147) Ye, S., Wen, H., Chang, C., Yang, F., Ma, Y., Tang, X., Wang, G., Qiao, R., Pang, Y., **He, D.**\* & Li, M. \*  (2025). River network size-dependent chemodiversity of dissolved organic matter and its driving factors in a multi-tributary mountain river. Water Research, 124580. 
+[(Link)]( https://doi.org/10.1016/j.watres.2025.124580)
+<div align="center"><img src="/images/publication_img/147.jpg" width="600"></div>
+
+(146) Li, H., Zhang, Z. \*, Chen, J., Nair, S., Xiong, T., Zhao, H., **He, D**., Lee, Kitack, Jiao, N. \* & Zhang, Y. \* (2025). Fate and carbon sequestration potential of sunken macroalgae in coastal oceans from long-term microbial degradation perspective. National Science Review, 12(8), nwaf273. 
+[(Link)]( https://doi.org/10.1093/nsr/nwaf273 )
+<div align="center"><img src="/images/publication_img/146.jpg" width="600"></div>
+
+(145) Wang, K., Zhang, F., Wang, D., Zhu, Y., Yi, Y., Yan, Z., ... **He, D**. & Zhou, Y. \* (2025). The response of dissolved organic matter dynamics to flood events in tidal estuaries. Journal of Environmental Management, 393, 127173. [(Link)]( https://doi.org/10.1016/j.jenvman.2025.127173 )
+<div align="center"><img src="/images/publication_img/145.jpg" width="600"></div>
+
 (144) Liu, Y. J., Chen, Z. L. \*, Zhang, Z., Yi, Y., Cai, R., Ye, M., Liu, M., Yan, M., Leung, K.M.Y., Adyel, T.M. & **He, D.**\* (2025). Size and Structure-Dependent Molecular Fingerprint Transformation of Microplastic-Derived Dissolved Organic Matter in Sunlit Seawater: Implication for Marine Carbon Cycles. Environmental Science & Technology. [(Link)]( https://doi.org/10.1021/acs.est.5c04083)
 <div align="center"><img src="/images/publication_img/144_1.jpg" width="600"></div>
 <div align="center"><img src="/images/publication_img/144_2.jpg" width="600"></div>
@@ -355,4 +366,5 @@ author_profile: true
 (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (2). Rudolf Jaffé, **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (3). Rudolf Jaffé, Bernd. R.T., Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (*Typha domingensis* P. and *Typha latifolia* L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+
 
