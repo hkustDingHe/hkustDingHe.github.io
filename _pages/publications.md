@@ -9,6 +9,26 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(152). Wang, L., Wu, Y., Li, J. \*, Wen, J., Lyu, L., Mai, Z., Xue, R., **He, D**., Zhang, S. (2025). Biocrusts facilitate organic carbon preservation in tropical coral islands undergoing primary succession. Geoderma, 463, 117552. 
+[(Link)]( https://doi.org/10.1016/j.geoderma.2025.117552)
+<div align="center"><img src="/images/publication_img/152.jpg" width="600"></div>
+
+(151) Zhang, L., Wu, Y. \*, Li, P., Yang, J., Ni, Z., Jiang, Z., Huang, X. \*, **He, D**. (2025). Labile heavy metals in sediments controlled by terrestrial organic matter based on isotopic and molecular signatures in an anthropogenic estuary. Journal of Hazardous Materials, 499, 140157. 
+[(Link)]( https://doi.org/10.1016/j.jhazmat.2025.140157)
+<div align="center"><img src="/images/publication_img/151.jpg" width="600"></div>
+
+(150) Assavapanuvat, P. \*, Breithaupt, J. L., **He, D**., Mead, R. N., & Bianchi, T. S. (2025). Transformation of lignin and lipid biomarkers through degradation of plant tissues and soil organic carbon in a salt marsh-mangrove ecotone. Organic Geochemistry, 105084. 
+[(Link)]( https://doi.org/10.1016/j.orggeochem.2025.105084)
+<div align="center"><img src="/images/publication_img/150.jpg" width="600"></div>
+
+(149) Liu, S., Zhou, J., Che, L., Kuzyakov, Y., Min, K., Smith, P., **He, D**., Eivind Olesen, J., Mueller, C., Sun, S., Liu, J., Ren, G., Wu, L. \* & Chen, J. \* (2025). Divergent responses of particulate and mineral-associated organic carbon to permafrost degradation. Catena, 261, 109527. 
+[(Link)]( https://doi.org/10.1016/j.catena.2025.109527)
+<div align="center"><img src="/images/publication_img/149.jpg" width="600"></div>
+
+(148) Yao, P., Zhang, J. \*, Zhou, B. \*, Chen, Y., & **He, D**. (2025). A Novel Approach for Fast Microplastic Quantification in Sediments Using Machine Learning—Spectrometer Combinations. Water, Air, & Soil Pollution, 236(14), 1-12. 
+[(Link)]( https://link.springer.com/article/10.1007/s11270-025-08575-x )
+<div align="center"><img src="/images/publication_img/148.jpg" width="600"></div>
+
 (147) Ye, S., Wen, H., Chang, C., Yang, F., Ma, Y., Tang, X., Wang, G., Qiao, R., Pang, Y., **He, D.**\* & Li, M. \*  (2025). River network size-dependent chemodiversity of dissolved organic matter and its driving factors in a multi-tributary mountain river. Water Research, 124580. 
 [(Link)]( https://doi.org/10.1016/j.watres.2025.124580)
 <div align="center"><img src="/images/publication_img/147.jpg" width="600"></div>
@@ -366,5 +386,6 @@ author_profile: true
 (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (2). Rudolf Jaffé, **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (3). Rudolf Jaffé, Bernd. R.T., Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (*Typha domingensis* P. and *Typha latifolia* L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+
 
 
