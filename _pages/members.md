@@ -258,7 +258,18 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
-
+<div class="block">
+    <img src="/images/xuerunze.jpg"/>
+    <p>
+        <b>Runze Xue</b><br/>
+        PhD student (2025-now)
+        <br/><br/>
+        Runze is a PhD student in Prof. HE's lab. He received his Master's degree from Huazhong University of Science and Technology. His research interest focuses on Cold Seep Sediment DOM and Methane Carbon Cycling Processes.
+        <br/><br/>
+        Email: <a href="mailto://rxueai@connect.ust.hk">rxueai@connect.ust.hk</a>
+        <br/><br/><br/><br/>
+    </p>
+</div>
 
 
 <div class="block">
@@ -366,18 +377,7 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
 
 
 
-<div class="block">
-    <img src="/images/xuerunze.jpg"/>
-    <p>
-        <b>Runze Xue</b><br/>
-        RA (2023-now)
-        <br/><br/>
-        Run-Ze is a research assistant in Prof. HE's lab, a Master of Huazhong University of Science and Technology (2022-now) in reading, and his research interest focuses on Deep-sea mining simulation, and heavy metals.
-        <br/><br/>
-        Email: <a href="mailto://walkerxue@ust.hk">walkerxue@ust.hk</a>
-        <br/><br/><br/><br/>
-    </p>
-</div>
+
 
 
 
