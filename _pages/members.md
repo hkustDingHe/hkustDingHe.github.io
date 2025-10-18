@@ -273,6 +273,20 @@ Editorial Broad Member for:<br/>
 
 
 <div class="block">
+    <img src="/images/zhaoyifu.jpg"/>
+    <p>
+        <b>Yifu Zhao</b><br/>
+        PhD student (2025-now)
+        <br/><br/>
+        Yifu received both his Bachelor’s and Master’s degrees from the China University of Geosciences (Wuhan). His research focuses on applying machine learning methods to understand the degradation of dissolved organic matter (DOM) and its geochemical cycle.
+        <br/><br/>
+        Email: <a href="mailto://yzhaohp@connect.ust.hk">yzhaohp@connect.ust.hk</a>
+        <br/><br/><br/><br/>
+    </p>
+</div>
+
+
+<div class="block">
     <img src="/images/mahuiying.jpg"/>
     <p>
         <b>Huiying Ma</b><br/>
