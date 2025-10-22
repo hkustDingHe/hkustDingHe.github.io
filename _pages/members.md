@@ -389,8 +389,29 @@ She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing 
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/luowenxi.jpg"/>
+    <p>
+        <b>Wenxi Luo </b><br/>
+        Msc Student 
+        <br/><br/>
+Wenxi is a msc student in Prof. HE's lab. She holds a Bachelor's degree from the Xi'an University of Science and Technology of China and a postgraduate student in Ocean Science Department in HKUST now. Her previous research focused on Life-cycle-based environmental impact assessment of grassland animal husbandry in the agro-pastoral ecotone of the Loess Plateau.
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
 
-
+<div class="block">
+    <img src="/images/cuihaoyu.jpg"/>
+    <p>
+        <b>Haoyu Cui </b><br/>
+        Msc Student 
+        <br/><br/>
+Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degree of Earth Science from Carleton University in Canada and now he is a postgraduate student in Ocean Science Department in HKUST. His previous research in university focused on applied geology and mining and worked for an Isotope Geochronology Geochemistry Research Center that focused on lead isotope.
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
 
 
 
