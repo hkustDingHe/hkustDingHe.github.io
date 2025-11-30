@@ -9,6 +9,18 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(155). Yi, Y., Tanentzap, A. J., He, C., Merder, J., Osterholz, H., Bao, H., Hawkes, J., Cai, R., Li, S.L., Shi, Q., Xu, S., Zhang, C., Liu, C., Zhao, M. & **He, D.**\* (2025). Underestimated input of terrestrial dissolved organic carbon to the ocean. Proceedings of the National Academy of Sciences, 122(45), e2505838122.
+[(Link)]( https://doi.org/10.1073/pnas.2505838122)
+<div align="center"><img src="/images/publication_img/155.jpg" width="600"></div>
+
+(154). Bao, H. \*, Yi, Y., Zhao, W., Niggemann, J., Merder, J., Li, K., ... **He, D**., Dittmar, T. & Kao, S. J. (2025). Predicting dissolved black carbon concentration from chromophoric dissolved organic matter along the land‐ocean continuum. Geophysical Research Letters, 52(22), e2025GL119009.
+[(Link)]( https://doi.org/10.1029/2025GL119009)
+<div align="center"><img src="/images/publication_img/154.jpg" width="600"></div>
+
+(153). Fang, F. T., Zhu, Z. Y.\*, Yi, Y. B., & **He, D**. (2025). Seasonality of surface dissolved organic matter composition in the northern part of a large marginal sea in an extremely dry year. Journal of Geophysical Research: Oceans, 130(10), e2024JC022019.
+[(Link)]( https://doi.org/10.1029/2024JC022019)
+<div align="center"><img src="/images/publication_img/153.jpg" width="600"></div>
+
 (152). Wang, L., Wu, Y., Li, J. \*, Wen, J., Lyu, L., Mai, Z., Xue, R., **He, D**., Zhang, S. (2025). Biocrusts facilitate organic carbon preservation in tropical coral islands undergoing primary succession. Geoderma, 463, 117552. 
 [(Link)]( https://doi.org/10.1016/j.geoderma.2025.117552)
 <div align="center"><img src="/images/publication_img/152.jpg" width="600"></div>
@@ -386,6 +398,7 @@ author_profile: true
 (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (2). Rudolf Jaffé, **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (3). Rudolf Jaffé, Bernd. R.T., Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (*Typha domingensis* P. and *Typha latifolia* L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+
 
 
 
