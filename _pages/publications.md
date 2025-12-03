@@ -9,6 +9,14 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2025
+(157). Guo, D., Zhang, R. \*, Ma, H., Zhang, H., Zhang, Z., Qi, Y., Sun, P., **He, D**. & Li, S. L. (2025). Photochemical Transformation of Dissolved Organic Matter: Source, Particulate Matter Interaction and Disinfection Byproduct Formation Potential. Water Research, 125078. 
+[(Link)]( https://doi.org/10.1016/j.watres.2025.125078)
+<div align="center"><img src="/images/publication_img/157.jpg" width="600"></div>
+
+(156). Zhang, L., Xiao, K. \*, Zhang, P., Wang, K., **He, D**., Han, G., & Zheng, C. (2025). Response of dissolved organic carbon molecular footprints in mangrove tidal flats to extreme rainstorm events. Carbon Footprints, 4(4), N-A. 
+[(Link)]( https://www.oaepublish.com/articles/cf.2025.63)
+<div align="center"><img src="/images/publication_img/156.jpg" width="600"></div>
+
 (155). Yi, Y., Tanentzap, A. J., He, C., Merder, J., Osterholz, H., Bao, H., Hawkes, J., Cai, R., Li, S.L., Shi, Q., Xu, S., Zhang, C., Liu, C., Zhao, M. & **He, D.**\* (2025). Underestimated input of terrestrial dissolved organic carbon to the ocean. Proceedings of the National Academy of Sciences, 122(45), e2505838122.
 [(Link)]( https://doi.org/10.1073/pnas.2505838122)
 <div align="center"><img src="/images/publication_img/155.jpg" width="600"></div>
@@ -398,6 +406,7 @@ author_profile: true
 (1). Rudolf Jaffé, **Ding He**, Peter Regier, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2014, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (2). Rudolf Jaffé, **Ding He**, Sheetflow Effects and Canal Backfilling on Sediment Source and Transport in the DECOMP Physical Model: Analysis of Molecular Organic Biomarkers, 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.\
 (3). Rudolf Jaffé, Bernd. R.T., Simoneit, **Ding He**, Blanca Jara, Identification of solanesol and a series of long-chain alkyl hydroxycinnamates from two species of cattail (*Typha domingensis* P. and *Typha latifolia* L.), 2013, Government report submitted to South Florida Water Management District, West Palm Beach, USA.
+
 
 
 
