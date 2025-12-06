@@ -290,7 +290,7 @@ Editorial Broad Member for:<br/>
     <img src="/images/mahuiying.jpg"/>
     <p>
         <b>Huiying Ma</b><br/>
-        PhD student (2022-now, Co-supervised with Prof. Si-Liang Li from Tianjin University)
+        PhD student (2022-now, Co-supervised with Prof. Si-Liang Li 李思亮教授 from Tianjin University)
         <br/><br/>
         Huiying is studying at the School of Earth System Science, Tianjin University. Her interest focused on the phototransformations of environmentally pertinent organic compounds, with a specific emphasis on dissolved organic sulfur (DOS) in estuarine coastal zones. Through photodegradation experiments, she tries to reveal the biogeochemical fate of DOS from different sources in estuarine coastal zones, and attempts to provide direct evidence for the photochemical degradation efficiency, products and mechanisms of DOS at the molecular scale.
         <br/><br/>
@@ -302,7 +302,7 @@ Editorial Broad Member for:<br/>
     <img src="/images/huhuijie.jpg"/>
     <p>
         <b>Huijie Hu</b><br/>
-        PhD student(2024-now, Co-supervised with Prof. De-Lu Pan from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))
+        PhD student(2024-now, Co-supervised with Prof. De-Lu Pan 潘德炉院士 from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))
         <br/><br/>
         Hu obtained her Bachelor’s degree in Marine Science from Ocean University of China. She is interested in Numerical simulation,Remote sensing, Marine environment and Physical Oceanography.
         <br/><br/>
@@ -314,7 +314,7 @@ Editorial Broad Member for:<br/>
     <img src="/images/caichaofeng.jpg"/>
     <p>
         <b>Chaofeng Cai</b><br/>
-        PhD student (2025-now, Co-supervised with Prof. Si Zhang from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))
+        PhD student (2025-now, Co-supervised with Prof. Si Zhang 张偲院士 from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))
         <br/><br/>
         Chaofeng earned his Batchelor’s and Master’s degree in Guangdong University of Technology. He is interested in investigating the dissolved organic matter (DOM) profile of seawater and sediment in cold seeps and its changes as cold seep develops.
         <br/><br/>
@@ -330,7 +330,7 @@ Editorial Broad Member for:<br/>
     <img src="/images/tangshi.jpg"/>
     <p>
         <b>Shi Tang</b><br/>
-        PhD Student (2025-Present, Co-supervised with Prof. Qing-Long Wu from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))  
+        PhD Student (2025-Present, Co-supervised with Prof. Qing-Long Wu 吴庆龙教授 from Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou))  
         <br/><br/>
         Shi received her Bachelor's and Master's degrees from Sun Yat-sen University. Her previous research focused on the biogeochemistry of dissolved organic matter (DOM) in cold seeps and hydrothermal vents. She is also interested in the molecular fingerprinting of DOM and its interactions with microbial communities in estuaries.  
         <br/><br/>
@@ -349,42 +349,6 @@ Editorial Broad Member for:<br/>
         Mandy holds a bachelor's degree in Ocean Science and Technology from the Hong Kong University of Science and Technology and is currently pursuing an MPhil program in Marine Environmental Science. She is particularly interested in marine toxicology and the interactions between human activities and dissolved organic matter.
         <br/><br/>
         Email: <a href="mailto://hykwokal@connect.ust.hk">hykwokal@connect.ust.hk</a>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/wangyinuo.jpg"/>
-    <p>
-        <b>Yinuo Wang</b><br/>
-        Msc Student 
-        <br/><br/>
-       I’m Yinuo Wang. I graduated from Ocean University of China and am currently pursuing a master’s degree in Marine Resource Management through a joint program between the University of Southampton and the Hong Kong University of Science and Technology. I’m really excited to join the Data-driven appRoaches for Exploring geochemistry of Aquatic ecosysteMs (DREAM) group and learn from all of you. I’ll do my best to keep up with the team, take on challenges, and keep improving. Looking forward to exploring new research frontiers together, growing alongside everyone, and chasing our dreams as part of the DREAM group! 
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/chowhonam.jpg"/>
-    <p>
-        <b>Ho Nam CHOW </b><br/>
-        Msc Student 
-        <br/><br/>
-      CHOW Ho Nam holds a bachelor’s degree in Environmental Engineering and Sustainable Development from The Hong Kong Polytechnic University and is currently pursuing Master in Global Marine Resources Management. He is interested in utilising machine learning in marine pollution management. 
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/wangmingchen.jpg"/>
-    <p>
-        <b>Mingchen Wang </b><br/>
-        Msc Student 
-        <br/><br/>
-She hold a Bachelor's degree in Geomatics Engineering and am currently pursuing a Master's degree in Global Marine Resource Management (GMRM). My academic background combines expertise in geospatial technologies with a multidisciplinary approach to ocean resource management, equipping me with the skills to analyze and address marine and environmental challenges on a global scale
-        <br/><br/>
         <br/><br/>
     </p>
 </div>
@@ -447,188 +411,39 @@ Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degre
 <br>
 <br>
 
-
-
-<div class="block">
-    <img src="/images/waihang.jpg"/>
-    <p>
-        <b>LEUNG Wai Hang</b><br/>
-        Student Helper
-        <br/><br/>
-        LEUNG Wai Hang is majoring in Ocean Science and Technology with an extended major in AI. She is interested in exploring the application of AI tools in oceanographic research.
-        <br/><br/><br/>
-    </p>
-</div>
-
-<br>
-<br>
-
-<div class="block">
-    <img src="/images/xiamingyuan.jpg"/>
-    <p>
-        <b>Mingyuan Xia</b><br/>
-        Student Helper
-        <br/><br/>
-       He is majoring in Chemistry and minoring in Mathematics. He is dedicated to acquiring more knowledge and experience about spectrums and applying them to research.
-        <br/><br/>
-    </p>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<div class="block">
-    <img src="/images/hunghoilam.jpg"/>
-    <p>
-        <b>Hung Hoi Lam</b><br/>
-        Student Helper
-        <br/><br/>
-       I am Hung Hoi Lam. I am a year2 student of Ocean Science and Technology.
-        <br/><br/>
-    </p>
-</div>
-
-<br>
-<br>
-
-<div class="block">
-    <img src="/images/chenghoutin.jpg"/>
-    <p>
-        <b>CHENG Hou Tin, Max</b><br/>
-        Student Helper
-        <br/><br/>
-       Max is a undergraduate student majoring in Ocean Science and Technology (OST). He is interested in the chemistry of marine environments, especially nutrient cycling in the ocean.
-        <br/><br/>
-    </p>
-</div>
-
-
-
-
-
-<br>
-<br>
-
 ### Alumni
 
-
-<div class="block">
-    <img src="/images/zhoubin.jpg"/>
-    <p>
-        <b>Prof. Bin Zhou</b><br/>
-        Visiting Scholar <a href="https://es.nju.edu.cn/zb/list.htm">Homepage</a>
-        <br/>
-        School of Earth Sciences and Engineering, Nanjing University
-        <br/><br/>
-        Prof. Zhou is interested in elemental carbon records and fire and vegetation evolution history, biomarkers and paleoenvironmental reconstruction, and paleoclimate and environmental changes at different time scales in the East Asian monsoon region since the late Cenozoic.
-        <br/><br/>
-        Email: <a href="mailto://zhoubinok@163.com">zhoubinok@163.com</a>
-    </p>
-</div>
-
-
-<div class="block">
-    <img src="/images/wuyunchao.jpg"/>
-    <p>
-        <b>Dr. Yunchao Wu</b><br/>
-        Visiting Scholar <a href="">Homepage</a>
-        <br/>
-        South China Sea Institute of Oceanology, Chinese Academy of Sciences
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/zhenghaowen.jpg"/>
-    <p>
-        <b>Dr. Haowen Zheng</b><br/>
-        Visiting Scholar <a href="">Homepage</a>
-        <br/>
-        College of Oceanography and Environmental Science, Xiamen University
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
-
-<br/>
-<br/>
-<div class="block">
-    <img src="/images/chenzhaoliang.jpg"/>
-    <p>
-        <b>Dr. Zhaoliang Chen</b><br/>
-        Postdoc 
-        <br/><br/>
-        Zhaoliang got his Ph.D. in Biology from the Chinese University of Hong Kong in 2022. His current research mainly focuses on understanding carbon cycling in coastal wetlands and estuaries by using FT-ICR MS and 3D-EEMs fluorescence spectrometer. He is also interested in investigating the biogeochemical impact of microplastics on coastal carbon cycling.
-        <br/><br/>
-        Email: <a href="mailto://chenzl@ust.hk">chenzl@ust.hk</a>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/yangfang.jpg"/>
-    <p>
-        <b>Associate Prof. Fang Yang</b><br/>
-        Visiting Scholar <a href="https://www.researchgate.net/profile/Fang-Yang-76">Homepage</a>
-        <br/>
-        College of Natural Resources and Environment, Northwest A&F University (NWAFU)
-        <br/><br/>
-        Associate Prof. Yang is interested in understanding the environmental pollution chemistry and remediation, and mechanisms and effects of organic matters on environmental behaviors of trace organic pollutants.
-        <br/><br/>
-        Email: <a href="mailto://yangfang@ust.hk">yangfang@ust.hk</a>
-        <br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/yaopiao.jpg"/>
-    <p>
-        <b>Piao Yao</b><br/>
-        RA
-        <br/><br/>
-        Yao Piao is a research assistant in Prof. HE's lab. He obtained a Master's degree from Nanjing University, and his research focuses on the microscopic interaction between clay minerals and organic matter.
-        <br/><br/>
-        Email: <a href="mailto://ocesyaopiao@ust.hk">ocesyaopiao@ust.hk</a>
-        <br/><br/><br/>
-    </p>
-</div>
-
-<br>
-<br>
-
-<div class="block">
-    <img src="/images/liuyinyi.jpg"/>
-    <p>
-        <b>Yinyi Liu</b><br/>
-        Visiting Undergraduate Student(2024)
-        <br/><br/>
-        Yinyi is an Undergraduate Student currently studying Artificial Intelligence at South China Normal University and University Of Aberdeen. She uses lots of data-driven techniques, including Machine Learning, Deep Learning and Data Mining for the analysis of molecular data.
-        <br/><br/>
-        Email: <a href="mailto://yliunx@connect.ust.hk">yliunx@connect.ust.hk</a>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/neal.jpg"/>
-    <p>
-        <b>Neal Xiangyu Ding</b><br/>
-        Visiting Undergraduate Student(2024)
-        <br/><br/>
-        Neal is an Undergraduate Student currently studying environmental biology and applied ecology at Cornell University and is interested in environmental policies and governance as well.
-        <br/><br/>
-        Email: <a href="mailto://nxding@connect.ust.hk">nxding@connect.ust.hk</a>
-        <br/><br/><br/>
-    </p>
-</div>
-<br/>
 ### Postdoc
-**Dr. Yuping Zhou** (Now Associate Professor in Ocean University of China)
+**Dr. Yuping Zhou** (Now Associate Professor in Ocean University of China)<br/>
+**Dr. Wenzhao Liang** (Will join in Sun Yat-sen University as an Assistant Professor&博士生导师)<br/>
+**Dr. Zhao Liang Chen** (Now postdoc at The Chinese University of Hong Kong)<br/>
 
 ### PhD
-**Dr. Kai Wang** (2017-2020; Now Associate Professor in Tianjin University)
+**Dr. Kai Wang** (2017-2020; Now Associate Professor in Tianjin University)<br/>
 
 ### Mphil
-**Ms. Yu Pang** (Now PhD student in DREAM group)
+**Ms. Yu Pang** (Now PhD student in DREAM group)<br/>
+
+### Msc
+**Mingchen Wang (HKUST)**<br/>
+**Ho Nam CHOW (HKUST)**<br/>
+**Yinuo Wang (HKUST)**<br/>
+
+### RA
+**Piao Yao**<br/>
+
+### Student helper
+**CHENG Hou Tin, Max (HKUST)**<br/>
+**Mingyuan Xia (HKUST)**<br/>
+**LEUNG Wai Hang (HKUST)**<br/>
+**Hung Hoi Lam (HKUST)**<br/>
+
+### Visiting scholar 
+**Prof. Bin Zhou (School of Earth Sciences and Engineering, Nanjing University)**<br/>
+**Associate Prof. Fang Yang (Northwest A&F University)**<br/>
+**Dr. Haowen Zheng (Xiamen University)**<br/>
+**Dr. Yunchao Wu (South China Sea Institute of Oceanology, Chinese Academy of Sciences)**<br/>
+
+### Visiting student
+**Neal Xiangyu Ding (Cornell University)**<br/>
+**Yinyi Liu (South China Normal University and University of Aberdeen)**<br/>
