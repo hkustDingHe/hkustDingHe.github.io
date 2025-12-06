@@ -93,20 +93,6 @@ Editorial Broad Member for:<br/>
 </div>
 
 <div class="block">
-    <img src="/images/liangwenzhao.jpg"/>
-    <p>
-        <b>Dr. Wenzhao Liang</b><br/>
-        Postdoc (2022-now) <a href="https://hkustDingHe.github.io/files/WenzhaoLiangCV.pdf">CV</a>
-        <br/><br/>
-        Dr. Liang holds a PhD degree in Hydrogeology and Biogeochemistry from The University of Hong Kong. His research primarily revolves around unraveling the intricate interplay among physical, biogeochemical, and environmental processes in coastal environments. Currently, his focus lies in the carbon cycle, with a particular interest in exploring the connection between the characteristics of dissolved organic matter and greenhouse gas dynamics. Additionally, Liang is actively engaged in utilizing machine learning techniques to evaluate the impact of environmental drivers on hydro-bio-geo-chemical processes.
-        <br/><br/>
-        Email: <a href="mailto://liangwz@ust.hk">liangwz@ust.hk</a>
-    </p>
-</div>
-
-
-
-<div class="block">
     <img src="/images/liuyanjun.jpg"/>
     <p>
         <b>Dr. Yanjun Liu</b><br/>
