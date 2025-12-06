@@ -414,36 +414,36 @@ Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degre
 ### Alumni
 
 ### Postdoc
-**Dr. Yuping Zhou** (Now Associate Professor in Ocean University of China)<br/>
-**Dr. Wenzhao Liang** (Will join in Sun Yat-sen University as an Assistant Professor&博士生导师)<br/>
-**Dr. Zhao Liang Chen** (Now postdoc at The Chinese University of Hong Kong)<br/>
+Dr. Yuping Zhou (Now Associate Professor in Ocean University of China)<br/>
+Dr. Wenzhao Liang (Will join in Sun Yat-sen University as an Assistant Professor&博士生导师)<br/>
+Dr. Zhao Liang Chen (Now postdoc at The Chinese University of Hong Kong)<br/>
 
 ### PhD
-**Dr. Kai Wang** (2017-2020; Now Associate Professor in Tianjin University)<br/>
+Dr. Kai Wang (2017-2020; Now Associate Professor in Tianjin University)<br/>
 
 ### Mphil
-**Ms. Yu Pang** (Now PhD student in DREAM group)<br/>
+Ms. Yu Pang (Now PhD student in DREAM group)<br/>
 
 ### Msc
-**Mingchen Wang (HKUST)**<br/>
-**Ho Nam CHOW (HKUST)**<br/>
-**Yinuo Wang (HKUST)**<br/>
+Mingchen Wang (HKUST)<br/>
+Ho Nam CHOW (HKUST)<br/>
+Yinuo Wang (HKUST)<br/>
 
 ### RA
-**Piao Yao**<br/>
+Piao Yao<br/>
 
 ### Student helper
-**CHENG Hou Tin, Max (HKUST)**<br/>
-**Mingyuan Xia (HKUST)**<br/>
-**LEUNG Wai Hang (HKUST)**<br/>
-**Hung Hoi Lam (HKUST)**<br/>
+CHENG Hou Tin, Max (HKUST)<br/>
+Mingyuan Xia (HKUST)<br/>
+LEUNG Wai Hang (HKUST)<br/>
+Hung Hoi Lam (HKUST)<br/>
 
 ### Visiting scholar 
-**Prof. Bin Zhou (School of Earth Sciences and Engineering, Nanjing University)**<br/>
-**Associate Prof. Fang Yang (Northwest A&F University)**<br/>
-**Dr. Haowen Zheng (Xiamen University)**<br/>
-**Dr. Yunchao Wu (South China Sea Institute of Oceanology, Chinese Academy of Sciences)**<br/>
+Prof. Bin Zhou (School of Earth Sciences and Engineering, Nanjing University)<br/>
+Associate Prof. Fang Yang (Northwest A&F University)<br/>
+Dr. Haowen Zheng (Xiamen University)<br/>
+Dr. Yunchao Wu (South China Sea Institute of Oceanology, Chinese Academy of Sciences)<br/>
 
 ### Visiting student
-**Neal Xiangyu Ding (Cornell University)**<br/>
-**Yinyi Liu (South China Normal University and University of Aberdeen)**<br/>
+Neal Xiangyu Ding (Cornell University)<br/>
+Yinyi Liu (South China Normal University and University of Aberdeen)<br/>
