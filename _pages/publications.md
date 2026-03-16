@@ -9,6 +9,27 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2026
+(165) Zhang, Z. X., Sachs, J. P., Zhao, C., Huguet, A., Chen, Z. L., Li, J., & **He, D.**\* (2026). Development and validation of untargeted screening approaches to determine the source and fate of organic matter in coastal sediments. Geochimica et Cosmochimica Acta. 419, 1-14.
+[(Link)]( https://doi.org/10.1016/j.gca.2026.02.042)
+<div align="center"><img src="/images/publication_img/165.jpg" width="600"></div>
+
+(164) Zhang, Z. X., Sachs, J. P., Chen, Z. L., Yuan, M. \*, Zhang, Z., Zhao, C., Yi, Y., Li, J. & **He, D.**\* (2026). Exploring biogeochemical processes through untargeted screening of solvent-extracted molecular signatures. Chemical Geology, 123361.
+[(Link)]( https://doi.org/10.1016/j.chemgeo.2026.123361)
+<div align="center"><img src="/images/publication_img/164.jpg" width="600"></div>
+
+(163) Yan, Z., Xin, Y. \*, Yi, Y., Li, P., Xu, W., Xu, W., Zhou, Y., Zhang, C. & **He, D.**\* (2026). Molecular composition determines the nitrogen isotopic signatures of dissolved organic matter. Marine Chemistry, 104619.
+[(Link)]( https://doi.org/10.1016/j.marchem.2026.104619)
+<div align="center"><img src="/images/publication_img/163.jpg" width="600"></div>
+
+(162) Qi, H., Liu, Y. \*, Wang, H., Pang, Y., Li, J., Ma, X., Wu, L., **He, D**. & Gan, J. (2026). Geological regulation of nitrous oxide emission risks in rivers globally. Communications Earth & Environment.
+[(Link)]( https://doi.org/10.1038/s43247-026-03250-3)
+<div align="center"><img src="/images/publication_img/162.jpg" width="600"></div>
+
+(161) Li, Y., Fu, C., Ren, P., Song, Z. \*, Ni, L., Wang, T., Yu, C., Chen, J., Guo, L., Hartley, I.P., **He, D**., Ouyang, X., Zhi, W., Xia, S., Wang, W., Zhao, M., Han, G. \*, & Luo, Y. \* (2026). Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands. Global Change Biology, 32(2), e70763.
+[(Link)](https://doi.org/10.1111/gcb.70763)
+<div align="center"><img src="/images/publication_img/161_1.jpg" width="600"></div>
+<div align="center"><img src="/images/publication_img/161_2.jpg" width="600"></div>
+
 (160). Zhu, Q., Yang, C., **He, D**., Yang, H., Gao, W., Xu, Z., & Zhu, Z. (2026). Bio-geomorphologic effects on blue carbon accumulation in mangrove sediments. Ocean & Coastal Management, 273, 108054.
 [(Link)]( https://doi.org/10.1016/j.ocecoaman.2025.108054)
 <div align="center"><img src="/images/publication_img/160.jpg" width="600"></div>
