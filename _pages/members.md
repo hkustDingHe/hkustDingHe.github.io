@@ -67,19 +67,6 @@ Editorial Broad Member for:<br/>
 </div>
 
 <div class="block">
-    <img src="/images/yiyuanbi.jpg"/>
-    <p>
-        <b>Dr. Yuanbi Yi</b><br/>
-        Postdoc (2022-now) <a href="https://hkustDingHe.github.io/files/YuanbiCV.pdf">CV</a>
-        <br/><br/>
-        Yuanbi obtained his Ph.D. degree from Tianjin University, and he aims to use multiple methods, such as isotopic analysis and high-resolution mass spectrometry, to explore the transport and transformation of organic matter in aquatic systems and its impact on climate change.
-        <br/><br/>
-        Email: <a href="mailto://yuanbiyi@ust.hk">yuanbiyi@ust.hk</a>
-        <br/><br/><br/><br/>
-    </p>
-</div>
-
-<div class="block">
     <img src="/images/zhengzexuan.jpg"/>
     <p>
         <b>Dr. Zhe-Xuan Zhang</b><br/>
@@ -116,17 +103,6 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/CH.jpg"/>
-    <p>
-        <b>Dr. He Chen</b><br/>
-        Postdoc (2025-now)
-        <br/><br/>
-      He Chen received her Ph.D. degree in Environmental Science from the Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences. Her research focuses on microbial ecology and biogeochemical cycling of key elements (e.g., carbon, nitrogen, phosphorus) in freshwater and coastal aquatic ecosystems. By combining field investigations, laboratory experiments, and advanced analytical techniques (e.g., FT-ICR MS, stable isotope tracing, metagenomics), she aims to understand how microbial processes mediate elemental transformations and contribute to long-term carbon storage, particularly via microbial carbon pump processes that lead to the formation of recalcitrant dissolved organic matter. She enjoys playing badminton and swimming in her spare time.
-        <br/><br/>
-        Email: <a href="mailto://carinachenhe@ust.hk">carinachenhe@ust.hk</a>, <a href="mailto://carinachenhe@163.com">carinachenhe@163.com</a>
-    </p>
-</div>
 
 <div class="block">
     <img src="/images/zhoujunming.jpg"/>
@@ -139,10 +115,31 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/anshilin.jpg"/>
+    <p>
+        <b>Dr. Shilin An</b><br/>
+        Postdoc (2026-now)
+        <br/><br/>
+       Shilin holds a Ph.D. in Environmental Science from the Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS). His research focuses on the cycling and transformation of carbon in aquatic environments. Specifically, he investigates the driving mechanisms of various conversion processes, including photo-mineralization, photo-oxidation, microbial metabolism, and photo-microbial synergistic effects. Methodologically, he specializes in using Fourier Transform Ion Cyclotron Resonance Mass Spectrometry (FT-ICR MS) for precise molecular characterization of dissolved organic matter. His work aims to unravel the composition of "molecular dark matter" in water bodies and elucidate potential halogen-related transformation pathways. 
+		<br/><br/>
+		   Email: <a href="mailto://slan@ust.hk">slan@ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
 
-
-
-
+<div class="block">
+    <img src="/images/yeongjin.jpg"/>
+    <p>
+        <b>Dr. Yeongjin Ryu	</b><br/>
+        Postdoc (2026-now)
+        <br/><br/>
+       Yeongjin received his Ph.D. from the School of Earth and Environmental Sciences at Seoul National University, South Korea, in 2025. His research focuses on the transport and persistence of marine dissolved organic matter (DOM) using radiocarbon-based approaches. At HKUST, he has expanded his expertise by integrating molecular characterization with isotopic and optical parameters. By linking bulk and molecular characteristics, he aims to elucidate the complex fate of marine DOM.
+		<br/><br/>
+		   Email: <a href="mailto://yeongjinryu@ust.hk">yeongjinryu@ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
 
 
 <div class="block">
@@ -401,8 +398,10 @@ Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degre
 
 ### Postdoc
 Dr. Yuping Zhou (Now Associate Professor in Ocean University of China)<br/>
-Dr. Wenzhao Liang (Will join in Sun Yat-sen University as an Assistant Professor&博士生导师)<br/>
-Dr. Zhao Liang Chen (Now postdoc at The Chinese University of Hong Kong)<br/>
+Dr. Zhao Liang Chen (Now Postdoctoral Researcher at The Chinese University of Hong Kong)<br/>
+Dr. Wenzhao Liang (Now Associated Professor and Doctoral Supervisor at Sun Yat-sen University)<br/>
+Dr. Yuanbi Yi (Now Associated Professor and Doctoral Supervisor at Nanjing University)<br/>
+Dr. He Chen (Now Postdoctoral Researcher at Hainan University)<br/>
 
 ### PhD
 Dr. Kai Wang (2017-2020; Now Associate Professor in Tianjin University)<br/>
