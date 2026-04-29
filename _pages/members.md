@@ -268,6 +268,23 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/songyingran.jpg"/>
+    <p>
+        <b>Yingran Song</b><br/>
+        PhD student (2026-now)
+        <br/><br/>
+        Yingran earned her Bachelor's degree from Huazhong Agricultural University and subsequently completed her Master's degree at the Southern University of Science and Technology. Her earlier research focused on the intricate photochemical and microbial transformation of pyrogenic organic matter (DOM). She is particularly interested in understanding how the molecular characteristics of DOM govern its complex geochemical behavior in aquatic systems.
+        <br/><br/>
+        Email: <a href="12332326@mail.sustech.edu.cn">12332326@mail.sustech.edu.cn</a>
+        <br/><br/><br/><br/>
+    </p>
+</div>
+
+
+
+
+
 
 <div class="block">
     <img src="/images/mahuiying.jpg"/>
@@ -335,6 +352,19 @@ Editorial Broad Member for:<br/>
         <br/><br/>
     </p>
 </div>
+
+<div class="block">
+    <img src="/images/gaoyongsheng.jpg"/>
+    <p>
+        <b>Andy, Wing Sang Ko</b><br/>
+        MPhil Student (2026-now)
+        <br/><br/>
+        Andy is an undergraduate student in Life Science at the Hong Kong University of Science and Technology and is currently pursuing an MPhil program in Marine Environmental Science. He is particularly interested in the impact of anthropogenic pollutants on microbial communities and the molecular characterization of Dissolved Organic Matter (DOM).
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
 
 <div class="block">
     <img src="/images/luowenxi.jpg"/>
