@@ -141,6 +141,19 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/zhangxiaoxiao.jpg"/>
+    <p>
+        <b>Dr. Xiaoxiao (Alisa) Zhang	</b><br/>
+        Postdoc (2026-now)
+        <br/><br/>
+       Xiaoxiao obtained her Ph.D. degree from Harbin Institute of Technology. Her research focuses on unraveling the molecular composition of natural organic matter (NOM) and pyrogenic carbon in aquatic environments. Additionally, she is deeply engaged in investigating the formation mechanisms and control strategies of emerging halogenated organic compounds (HOCs) during halogen-related reaction processes. She extensively utilizes ultrahigh-resolution mass spectrometry (FT-ICR MS) and optical spectroscopy (EEM, UV, FTIR) to decipher the "black box" of complex organic matter. She likes badminton, running, hiking and reading.
+		<br/><br/>
+		   Email: <a href="mailto://zhangxiaoxiaowater@163.com">zhangxiaoxiaowater@163.com</a>, <a href="mailto://alisa@ust.hk">alisa@ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
+
 
 <div class="block">
     <img src="/images/liutongcun.jpg"/>
