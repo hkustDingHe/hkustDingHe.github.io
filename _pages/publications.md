@@ -9,6 +9,77 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2026
+(183) Cao, X.H., Zhang, Y.X. \*, Zhou, J.C., Chen, Y.L., **He, D**, Sun, K. \*, Chen, J. (2026). Contrasting responses of soil dissolved organic matter molecular characteristics to short- and long-term grazing exclusion in an alpine meadow. Soil and Tillage Research, 264, 107367.
+[(Link)](https://doi.org/10.1016/j.still.2026.107367)
+<div align="center"><img src="/images/publication_img/183.jpg" width="600"></div>
+
+(182) Zhou, Y. \*, Zhu, Y., Xiao, Y., Wang, K., Yan, Z., **He, D**, Wang, Y. \* (2026). Water levels shape different dissolved organic matter chemistry across Yellow River Deltaic distributary channels. Journal of Hydrology, 676, 135704.
+[(Link)](https://doi.org/10.1016/j.jhydrol.2026.135704)
+<div align="center"><img src="/images/publication_img/182.jpg" width="600"></div>
+
+(181) Yan, Z., Chen, G., Zhang, Q. \*, Jia, L., Wang, H., Chang, C., Zhang, F., Wang, J., Li, M., **He, D**, Zheng, W. (2026). Variations in microbial community characteristics in runoff driven by maize growth stages under simulated rainfall in the semi-humid southern loess plateau of China. CATENA, 269, 110138.
+[(Link)](https://doi.org/10.1016/j.catena.2026.110138)
+<div align="center"><img src="/images/publication_img/181.jpg" width="600"></div>
+
+(180) Xing, C., Zhang, Y., Qi, H., **He, D**, Liu, Y. \* (2026). Unraveling dissolved inorganic nitrogen dynamics in a sandy beach: The role of tidal forces and aquifer heterogeneity. Journal of Hydrology, 675, 135591.
+[(Link)](https://doi.org/10.1016/j.jhydrol.2026.135591)
+<div align="center"><img src="/images/publication_img/180.jpg" width="600"></div>
+
+(179) Wu, S., Li, M. \*, Yang, X., Sun, J., **He, D** (2026). Human-associated modulation of urban DOM heterogeneity: transformation toward aquatic carbon sink-like and carbon source-like molecular pools. Environmental Research, 306, 125240.
+[(Link)](https://doi.org/10.1016/j.envres.2026.125240)
+<div align="center"><img src="/images/publication_img/179.jpg" width="600"></div>
+
+(178) Wei, B. \*, Waska, H., Zhou, Z., **He, D**, Grotheer, H., Ruben, M., Mollenhauer, G., Elvert, M., Holtappels, M. (2026). Dissolved Organic Matter (DOM) Dynamics at the Sediment‐Water Interface in the North Sea: Implications for Global Benthic DOM Fluxes. Global Biogeochemical Cycles, 40, e2025GB008980.
+[(Link)](https://doi.org/10.1029/2025GB008980)
+<div align="center"><img src="/images/publication_img/178.jpg" width="600"></div>
+
+(177) Wang, F., Chen, G., Lan, J., Jia, L., Zhang, Q., Zhang, F., Wang, J., Pang, Y., Li, M., **He, D**, Wang, H. \* (2026). Coupled Optical and Molecular Insights Into Dissolved Organic Matter Dynamics in Runoff From Patchy Slopes Co‐Covered by Vegetation and Biocrusts During Rainfall in Arid and Semiarid Regions. Land Degradation & Development, 37, 7953–7967.
+[(Link)](https://doi.org/10.1002/ldr.70630)
+<div align="center"><img src="/images/publication_img/177_1.jpg" width="600"></div>
+
+(176) Shao, M., Liu, Z. \*, Zeng, S., **He, D**, Zhang, Z., Yan, H., Bao, Q., Tang, L., Li, X., Sun, H., Yan, J., Shi, L. (2026). Photosynthesis-induced carbonate precipitation amplifies calcium isotope differences between surface water and groundwater in carbonate-rich watersheds. Geochimica et Cosmochimica Acta, 425, 275–288.
+[(Link)](https://doi.org/10.1016/j.gca.2026.04.028)
+<div align="center"><img src="/images/publication_img/176.jpg" width="600"></div>
+
+(175) Nuruddin, M.F., Poon, Y.C.J., He, X., Zhang, Z., Tang, X., Lee, S.S., Zhang, S., **He, D**, Wu, L. \* (2026). Zooplankton Metabolism Shapes Molecular Composition of Dissolved Organic Matter in Coastal Waters. Environmental Science & Technology, 60, 15873–15887.
+[(Link)](https://doi.org/10.1021/acs.est.6c05592)
+<div align="center"><img src="/images/publication_img/175.jpg" width="600"></div>
+
+(174) Ma, H., Zhang, R. \*, Yan, Z., Li, P., Yi, Y., Chen, Z.L., Li, S.L., **He, D.**\* (2026). Molecular insights into divergent dissolved organic sulfur evolution along two plume pathways under hypoxia in the Yangtze River Estuary. Biogeochemistry.
+[(Link)](https://doi.org/10.1007/s10533-026-01345-9)
+<div align="center"><img src="/images/publication_img/174_1.jpg" width="600"></div>
+
+(173) Noman, M.A. \*, Adyel, T.M., Callahan, D.L., **He, D**, Macreadie, P.I., Trevathan-Tackett, S.M. (2026). Microplastics and co-occurring nitrogen synergistically accelerate blue carbon loss. Journal of Hazardous Materials, 514, 142641.
+[(Link)](https://doi.org/10.1016/j.jhazmat.2026.142641)
+<div align="center"><img src="/images/publication_img/173.jpg" width="600"></div>
+
+(172) Liu, Y.J., Chen, Z.L., Zhang, Z., Sachs, J.P., Lønborg, C., Yi, Y., Cai, R., Ye, M., Liu, M., Yan, M., Wang, Y., Adyel, T.M., Leung, K.M.Y., **He, D.**\* (2026). Decoding molecular fingerprints of halogenated organic compounds generated from the photodegradation of microplastics in sunlit seawater. Chemical Engineering Journal, 544, 178815.
+[(Link)](https://doi.org/10.1016/j.cej.2026.178815)
+<div align="center"><img src="/images/publication_img/172.jpg" width="600"></div>
+
+(171) Liu, T., Yi, Y., Zhao, C., Zhang, Z., Merder, J., Tanentzap, A.J., Yan, Z., Zhang, F., Feng, H., Yang, C., **He, D.**\* (2026). Graph-based understanding of isomeric diversity in complex dissolved organic matter. Communications Chemistry, 9, 228.
+[(Link)](https://doi.org/10.1038/s42004-026-02036-0)
+<div align="center"><img src="/images/publication_img/171_1.jpg" width="600"></div>
+
+(170) Lin, H. \*, Hao, Q., Zhang, W., Yan, Z., Zhang, H., Fang, Z., Gao, Y., Yu, Y., **He, D** (2026). Molecular and optical signatures of labile dissolved organic matter during bloom senescence in the Amundsen Sea Polynya. Limnology & Oceanography, 71, e70381.
+[(Link)](https://doi.org/10.1002/lno.70381)
+<div align="center"><img src="/images/publication_img/170.jpg" width="600"></div>
+
+(169) Li, P., Yang, J., Wu, Y. \*, Li, J., Ye, F., Yi, Y., Zhang, L., Jiang, Z., Liu, S., Huang, X. \*, **He, D** (2026). Microbial-driven transformation of dissolved organic nitrogen in estuarine waters: mechanisms and environmental implications. Environmental Research, 305, 124939.
+[(Link)](https://doi.org/10.1016/j.envres.2026.124939)
+<div align="center"><img src="/images/publication_img/169.jpg" width="600"></div>
+
+(168) Hao, Y., Yu, M. \*, Li, K., Zhan, L., Zhang, H., Ding, Y., Li, L., Wang, W., Zhou, Y., **He, D**, Zhao, M. (2026). Anthropogenic water and sediment regulation drives a refractory terrestrial carbon pulse to the Yellow River estuary. Marine Pollution Bulletin, 230, 119836.
+[(Link)](https://doi.org/10.1016/j.marpolbul.2026.119836)
+<div align="center"><img src="/images/publication_img/168.jpg" width="600"></div>
+
+(167) Chen, G., Wang, H. \*, Zhang, Q., Chang, C., Ye, S., Wang, J., Zhang, F., Yan, Z., Zhu, B., Li, M., **He, D.**\* (2026b). Overlooked dark dissolved organic matter reveals the migration and transformation of carbon exports in surface and subsurface flows from cropland during rainfall. Water Research, 301, 126051.
+[(Link)](https://doi.org/10.1016/j.watres.2026.126051)
+<div align="center"><img src="/images/publication_img/167.jpg" width="600"></div>
+(166) Chen, G., Chang, C., Yan, Z., Wang, H. \*, Zhang, Q., Wang, J., Li, M., Zheng, W., **He, D**, Zhu, B. (2026a). Cross-domain microbial interactions mediate soil multifunctionality during crop growth stages. Applied Soil Ecology, 222, 106992.
+[(Link)](https://doi.org/10.1016/j.apsoil.2026.106992)
+<div align="center"><img src="/images/publication_img/166.jpg" width="600"></div>
+
 (165) Zhang, Z. X., Sachs, J. P., Zhao, C., Huguet, A., Chen, Z. L., Li, J., & **He, D.**\* (2026). Development and validation of untargeted screening approaches to determine the source and fate of organic matter in coastal sediments. Geochimica et Cosmochimica Acta. 419, 1-14.
 [(Link)]( https://doi.org/10.1016/j.gca.2026.02.042)
 <div align="center"><img src="/images/publication_img/165.jpg" width="600"></div>
