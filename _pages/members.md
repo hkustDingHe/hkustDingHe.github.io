@@ -154,6 +154,34 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
+<div class="block">
+    <img src="/images/pengsainan.jpg"/>
+    <p>
+        <b>Dr. Sainan Peng	</b><br/>
+        Postdoc (2026-now)
+        <br/><br/>
+       Sainan holds a Ph.D. degree from China University of Geosciences. His research focuses on elucidating the molecular structures and aggregation behavior of extracellular polymeric substances in sludge. In addition, he is currently using molecular dynamics (MD) simulations and FT-ICR-MS to investigate the aggregation behavior and intermolecular interactions of dissolved organic matter (DOM), with the aim of better understanding the preservation mechanisms and environmental fate of organic carbon in the marine environment. 
+		<br/><br/>
+		   Email: <a href="mailto://snpeng@ust.hk">snpeng@ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/wushixi.jpg"/>
+    <p>
+        <b>Dr. Shixi Wu	</b><br/>
+        Postdoc (2026-now)
+        <br/><br/>
+       Shixi received his Ph.D. in Environmental Science and Engineering from China University of Geosciences, Wuhan in 2026. His research focuses on the molecular-level characterization of halogenated organic compounds (HOCs) in aquatic environments, with particular emphasis on their formation mechanisms, including photochemically and biologically driven halogenation, and their environmental fate, using advanced ultrahigh-resolution mass spectrometry (FT-ICR MS).
+		<br/><br/>
+		   Email: <a href="mailto://shixiwu@ust.hk">shixiwu@ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
+
+
+
 
 <div class="block">
     <img src="/images/liutongcun.jpg"/>
