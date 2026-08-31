@@ -23,7 +23,7 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/images/recreation1.jpg" style="width:70%;" alt="Manabu Fujii visited the lab in November 2025">
   <br/>
-  <div>Manabu Fujii, an Associate Professor from Tokyo Institute of Technology, whose research focuses on sustainability for water and environment, visited the lab in November, 2025, and engaged in a lively academic discussion with the students and postdoc fellows.</div>
+  <div>Prof. Manabu Fujii, an Associate Professor from Tokyo Institute of Technology, whose research focuses on sustainability for water and environment, visited the lab in November, 2025, and engaged in a lively academic discussion with the students and postdoc fellows.</div>
 </div>
 <br/>
 
@@ -31,7 +31,7 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/images/recreation2.jpg" style="width:70%;" alt="Julian Sachs visited our group in July 2026">
   <br/>
-  <div>Julian Sachs from the School of Oceanography at the University of Washington, a specialist in chemical oceanography and paleoclimate reconstruction, visited our group in July 2026. He shared insights and inspiring deep discussions with postdocs and students.</div>
+  <div>Prof. Julian Sachs from the School of Oceanography at the University of Washington, a specialist in chemical oceanography and paleoclimate reconstruction, visited our group in July 2026. He shared insights and inspiring deep discussions with postdocs and students.</div>
 </div>
 <br/>
 
@@ -47,7 +47,7 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/images/recreation4.jpg" style="width:70%;" alt="Prof. Xu Jie visited our group in June 2026">
   <br/>
-  <div>Prof. Xu Jie, an Associate Professor of University of Macau, whose research focuses on marine nutrients visited our group in June, 2026.</div>
+  <div>Prof. Jie XU, an Associate Professor of University of Macau, whose research focuses on marine nutrients visited our group in June, 2026.</div>
 </div>
 <br/>
 
@@ -55,7 +55,7 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/images/recreation5.jpg" style="width:70%;" alt="Cai Chaofeng and Xue Runze represented our team on the 2026 Haima Cold Seep cruise">
   <br/>
-  <div>Cai Chaofeng (left) and Xue Runze (right), current PhD students in the Dream Group, represented our team on the 2026 Haima Cold Seep cruise aboard the Jiaolong HOV. This expedition was strategically managed by the China Deep Ocean Affairs Administration and executed by the National Deep Sea Center (MNR), the first time a large group of early-career researchers from Hong Kong has participated in such a manned deep-diving voyage.</div>
+  <div>Chaofeng CAI(left) and Runze XUE(right), current PhD students in the Dream Group, represented our team on the 2026 Haima Cold Seep cruise aboard the Jiaolong HOV. This expedition was strategically managed by the China Deep Ocean Affairs Administration and executed by the National Deep Sea Center (MNR), the first time a large group of early-career researchers from Hong Kong has participated in such a manned deep-diving voyage.</div>
 </div>
 <br/>
 
@@ -71,7 +71,7 @@ author_profile: true
 <div style="text-align: center;">
   <img src="/images/recreation7.jpg" style="width:70%;" alt="Tang Shi represented the team on the Pearl River Estuary winter cruise in January 2026">
   <br/>
-  <div>Tang Shi, a current PhD student in the Dream Group, represented the team on the Pearl River Estuary winter cruise in January 2026. This expedition was key-funded by the Department of Earth Sciences of the National Natural Science Foundation of China (NSFC), focusing on the carbon cycle and biogeochemistry across the river-estuary-shelf continuum</div>
+  <div>Shi TANG, a current PhD student in the Dream Group, represented the team on the Pearl River Estuary winter cruise in January 2026. This expedition was key-funded by the Department of Earth Sciences of the National Natural Science Foundation of China (NSFC), focusing on the carbon cycle and biogeochemistry across the river-estuary-shelf continuum</div>
 </div>
 <br/>
 
