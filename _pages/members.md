@@ -212,20 +212,6 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/huanghailong.jpg"/>
-    <p>
-        <b>Asst. Prof. Hailong Huang</b><br/>
-        Visiting Scholar 
-        <br/>
-        School of Marine Sciences, Ningbo University
-        <br/><br/>
-       Asst. Prof. Huang holds a Ph.D. degree from the Ningbo University. His current research focuses on elucidating the generation, transformation, and transport mechanisms of organic carbon within algal bloom dynamics, while systematically investigating the dynamic response mechanisms of carbon sequestration effects in eutrophic aquaculture waters under climate warming drivers.
-        <br/><br/>
-        Email: <a href="mailto://huanghailong@nbu.edu.cn">huanghailong@nbu.edu.cn</a>
-        <br/><br/>
-    </p>
-</div>
 
 
 
@@ -242,18 +228,7 @@ Editorial Broad Member for:<br/>
     </p>
 </div>
 
-<div class="block">
-    <img src="/images/zhaochen.jpg"/>
-    <p>
-        <b>Chen Zhao (HKPFS)</b><br/>
-        PhD student (2022-now) <a href="https://hkustDingHe.github.io/files/CV_CZhao.pdf">CV</a>
-        <br/><br/>
-        Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
-        <br/><br/>
-        Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a><br/>
-	Website:<a href="https://chenzhao-geoai.github.io/">Homepage</a>
-    </p>
-</div>
+
 
 <div class="block">
     <img src="/images/panyu.jpg"/>
@@ -381,18 +356,7 @@ Editorial Broad Member for:<br/>
 <br>
 
 
-<div class="block">
-    <img src="/images/mandy.jpg"/>
-    <p>
-        <b>Mandy, Hoi Yan Kwok</b><br/>
-        MPhil Student (2024-now)
-        <br/><br/>
-        Mandy holds a bachelor's degree in Ocean Science and Technology from the Hong Kong University of Science and Technology and is currently pursuing an MPhil program in Marine Environmental Science. She is particularly interested in marine toxicology and the interactions between human activities and dissolved organic matter.
-        <br/><br/>
-        Email: <a href="mailto://hykwokal@connect.ust.hk">hykwokal@connect.ust.hk</a>
-        <br/><br/>
-    </p>
-</div>
+
 
 <div class="block">
     <img src="/images/gaoyongsheng.jpg"/>
@@ -405,32 +369,6 @@ Editorial Broad Member for:<br/>
         <br/><br/>
     </p>
 </div>
-
-
-<div class="block">
-    <img src="/images/luowenxi.jpg"/>
-    <p>
-        <b>Wenxi Luo </b><br/>
-        Msc Student 
-        <br/><br/>
-Wenxi is a msc student in Prof. HE's lab. She holds a Bachelor's degree from the Xi'an University of Science and Technology of China and a postgraduate student in Ocean Science Department in HKUST now. Her previous research focused on Life-cycle-based environmental impact assessment of grassland animal husbandry in the agro-pastoral ecotone of the Loess Plateau.
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
-
-<div class="block">
-    <img src="/images/cuihaoyu.jpg"/>
-    <p>
-        <b>Haoyu Cui </b><br/>
-        Msc Student 
-        <br/><br/>
-Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degree of Earth Science from Carleton University in Canada and now he is a postgraduate student in Ocean Science Department in HKUST. His previous research in university focused on applied geology and mining and worked for an Isotope Geochronology Geochemistry Research Center that focused on lead isotope.
-        <br/><br/>
-        <br/><br/>
-    </p>
-</div>
-
 
 
 
@@ -468,19 +406,72 @@ Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degre
 ### Alumni
 
 ### Postdoc
-Dr. Yuping Zhou (Now Associate Professor in Ocean University of China)<br/>
-Dr. Zhao Liang Chen (Now Postdoctoral Researcher at The Chinese University of Hong Kong)<br/>
-Dr. Wenzhao Liang (Now Associated Professor and Doctoral Supervisor at Sun Yat-sen University)<br/>
-Dr. Yuanbi Yi (Now Associated Professor and Doctoral Supervisor at Nanjing University)<br/>
-Dr. He Chen (Now Postdoctoral Researcher at Hainan University)<br/>
+Dr. Yuping Zhou (Now Associated Professor at Ocean University of China)
+Dr. Keyu Tao (Now Associated Professor at Second Institute Of Oceanography, MNR)
+Dr. Zhao Liang Chen (Now Research Assistant Professor at The Chinese University of Hong Kong)
+Dr. Wenzhao Liang (Now Associated Professor at Sun Yat-sen University)
+Dr. Yuanbi Yi (Now Associated Professor at Nanjing University)
+Dr. He Chen (Now Postdoctoral Researcher at Hainan University)
 
 ### PhD
+<div class="block">
+    <img src="/images/zhaochen.jpg"/>
+    <p>
+        <b>Chen Zhao (HKPFS)</b><br/>
+        PhD student (2022-2026) <a href="https://hkustDingHe.github.io/files/CV_CZhao.pdf">CV</a>
+        <br/><br/>
+        Chen is interested in the following two aspects: 1) Elucidating the carbon cycling in estuarine systems and its impacts on climate change; 2) Developing new data science toolbox addressing molecular geochemistry.
+        <br/><br/>
+        Email: <a href="mailto://czhaobk@connect.ust.hk">czhaobk@connect.ust.hk</a><br/>
+	Website:<a href="https://chenzhao-geoai.github.io/">Homepage</a>
+    </p>
+</div>
 Dr. Kai Wang (2017-2020; Now Associate Professor in Tianjin University)<br/>
 
 ### Mphil
+<div class="block">
+    <img src="/images/mandy.jpg"/>
+    <p>
+        <b>Mandy, Hoi Yan Kwok</b><br/>
+        MPhil Student (2024-2026)
+        <br/><br/>
+        Mandy holds a bachelor's degree in Ocean Science and Technology from the Hong Kong University of Science and Technology and is currently pursuing an MPhil program in Marine Environmental Science. She is particularly interested in marine toxicology and the interactions between human activities and dissolved organic matter.
+        <br/><br/>
+        Email: <a href="mailto://hykwokal@connect.ust.hk">hykwokal@connect.ust.hk</a>
+        <br/><br/>
+    </p>
+</div>
 Ms. Yu Pang (Now PhD student in DREAM group)<br/>
 
+
+
+
 ### Msc
+<div class="block">
+    <img src="/images/luowenxi.jpg"/>
+    <p>
+        <b>Wenxi Luo </b><br/>
+        Msc Student 
+        <br/><br/>
+Wenxi is a msc student in Prof. HE's lab. She holds a Bachelor's degree from the Xi'an University of Science and Technology of China and a postgraduate student in Ocean Science Department in HKUST now. Her previous research focused on Life-cycle-based environmental impact assessment of grassland animal husbandry in the agro-pastoral ecotone of the Loess Plateau.
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+<div class="block">
+    <img src="/images/cuihaoyu.jpg"/>
+    <p>
+        <b>Haoyu Cui </b><br/>
+        Msc Student 
+        <br/><br/>
+Haoyu is a MSc student in Prof. HE’s Lab. He holds a Bachelor of Science degree of Earth Science from Carleton University in Canada and now he is a postgraduate student in Ocean Science Department in HKUST. His previous research in university focused on applied geology and mining and worked for an Isotope Geochronology Geochemistry Research Center that focused on lead isotope.
+        <br/><br/>
+        <br/><br/>
+    </p>
+</div>
+
+
 Mingchen Wang (HKUST)<br/>
 Ho Nam CHOW (HKUST)<br/>
 Yinuo Wang (HKUST)<br/>
@@ -495,6 +486,21 @@ LEUNG Wai Hang (HKUST)<br/>
 Hung Hoi Lam (HKUST)<br/>
 
 ### Visiting scholar 
+<div class="block">
+    <img src="/images/huanghailong.jpg"/>
+    <p>
+        <b>Associate Prof. Hailong Huang</b><br/>
+        Visiting Scholar 
+        <br/>
+        School of Marine Sciences, Ningbo University
+        <br/><br/>
+       Asst. Prof. Huang holds a Ph.D. degree from the Ningbo University. His current research focuses on elucidating the generation, transformation, and transport mechanisms of organic carbon within algal bloom dynamics, while systematically investigating the dynamic response mechanisms of carbon sequestration effects in eutrophic aquaculture waters under climate warming drivers.
+        <br/><br/>
+        Email: <a href="mailto://huanghailong@nbu.edu.cn">huanghailong@nbu.edu.cn</a>
+        <br/><br/>
+    </p>
+</div>
+
 Prof. Bin Zhou (School of Earth Sciences and Engineering, Nanjing University)<br/>
 Associate Prof. Fang Yang (Northwest A&F University)<br/>
 Dr. Haowen Zheng (Xiamen University)<br/>
