@@ -285,6 +285,23 @@ Editorial Broad Member for:<br/>
 </div>
 
 <div class="block">
+    <img src="/images/Baran.jpg"/>
+    <p>
+        <b>Fatemeh Kachoueiyan</b><br/>
+        PhD student (2026-now)
+        <br/><br/>
+        Fatemeh received her M.Sc. in Civil & Environmental Engineering from the University of Tehran. Her earlier research focused on sediment biogeochemistry, trace-metal dynamics, redox-driven element mobility, environmental pollution in aquatic ecosystems, and the geochemical controls on anaerobic oxidation of methane (AOM) in freshwater ecosystems, tracing the evolutionary emergence of methane-oxidizing archaea. She is broadly interested in the interplay between elemental biogeochemical cycling, climate, and the biosphere, including how climate change alters carbon exchange between the ocean, land, and atmosphere, and the search for viable carbon capture strategies. Her research combines field observations, laboratory experiments, molecular characterization, and biogeochemical approaches to understand carbon cycling and biogeochemical processes in aquatic environments.
+        <br/><br/>
+        Email: <a href="mailto://fkachoueiyan@connect.ust.hk">fkachoueiyan@connect.ust.hk</a>
+        <br/><br/><br/><br/>
+    </p>
+</div>
+
+
+
+
+
+<div class="block">
     <img src="/images/songyingran.jpg"/>
     <p>
         <b>Yingran Song</b><br/>
