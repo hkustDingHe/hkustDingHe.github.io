@@ -186,6 +186,21 @@ Editorial Broad Member for:<br/>
 </div>
 
 
+<div class="block">
+    <img src="/images/yanzhenwei.jpg"/>
+    <p>
+        <b>Dr. Zhenwei Yan</b><br/>
+        Postdoc (2026-now)
+        <br/><br/>
+        Zhenwei obtained his PhD from the Hong Kong University of Science and Technology (HKUST). His research is centered around the use of stable nitrogen isotopes and high-resolution mass spectrometry to investigate the fate of dissolved organic nitrogen in marine environments. The objective of his study is to gain a deeper understanding of the role of dissolved organic nitrogen in marine nitrogen and carbon cycles, as well as its implications for global change.
+        <br/><br/>
+        Email: <a href="mailto://zyanbf@connect.ust.hk">zyanbf@connect.ust.hk</a>
+    </p>
+</div>
+
+
+
+
 
 
 <div class="block">
@@ -220,18 +235,6 @@ Editorial Broad Member for:<br/>
 
 
 
-
-<div class="block">
-    <img src="/images/yanzhenwei.jpg"/>
-    <p>
-        <b>Zhenwei Yan</b><br/>
-        PhD student (2022-now)
-        <br/><br/>
-        Zhenwei obtained his Bachelor's and Master's degrees from the Ocean University of China. His research is centered around the use of stable nitrogen isotopes and high-resolution mass spectrometry to investigate the fate of dissolved organic nitrogen in marine environments. The objective of his study is to gain a deeper understanding of the role of dissolved organic nitrogen in marine nitrogen and carbon cycles, as well as its implications for global change.
-        <br/><br/>
-        Email: <a href="mailto://zyanbf@connect.ust.hk">zyanbf@connect.ust.hk</a>
-    </p>
-</div>
 
 
 
@@ -446,6 +449,8 @@ Dr. He Chen (Now Postdoctoral Researcher at Hainan University)<br/>
     </p>
 </div>
 Dr. Kai Wang (2017-2020; Now Associate Professor in Tianjin University)<br/>
+Dr. Zhenwei Yan (2022-2026; Now postdoc in DREAM group)<br/>
+
 
 ### Mphil
 <div class="block">
