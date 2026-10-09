@@ -9,6 +9,42 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2026
+(192) Guo, Z.L., Hong, H.L., Zhang, G.L., Li, L., Cai, S.J., Chen, F., Guo, W.D., **He, D**, Xiang, Y.Y., Gonsior, M., Lin, D., Xiao, W.P., Jiao, N.Z.\*, Xiao, X.L.\* (2026). Halogenated dissolved organic matter regulates bacterial community composition and organic carbon transformation in aquatic ecosystems. Water Research, 127077.
+[(Link)](https://doi.org/10.1016/j.watres.2026.127077)
+<div align="center"><img src="/images/publication_img/192.jpg" width="600"></div>
+
+(191) Hu, H., Chen, P.\*, Pan, D., **He, D**. (2026). Evaluating Solar Radiation Attenuation Schemes in ROMS: Improving Upper Ocean Thermal Simulation by Incorporating Vertically Resolved Optical Profiles From BGC‐Argo Data. Journal of Geophysical Research: Oceans, 131, e2025JC023714.
+[(Link)](https://doi.org/10.1029/2025JC023714)
+<div align="center"><img src="/images/publication_img/191.jpg" width="600"></div>
+
+(190) Yan, Z., Guan, S., Sachs, J.P., Liang, Z., Li, P., Ge, T., Xu, W., Zhang, C., **He, D.**\*, Xin, Y.\*, Tian, J. (2026). Distinct Fates of Dissolved Organic Nitrogen in the Upper Waters of Western Tropical North Pacific Ocean. Journal of Geophysical Research: Oceans, 131, e2026JC024376.
+[(Link)](https://doi.org/10.1029/2026JC024376)
+<div align="center"><img src="/images/publication_img/190.jpg" width="600"></div>
+
+(189) Cai, R., **He, D.**\* (2026). Critical isomers and emerging tools toward illuminating marine dissolved organic matter complexity. Science China Earth Sciences.
+[(Link)](https://doi.org/10.1007/s11430-026-1945-9)
+<div align="center"><img src="/images/publication_img/189.jpg" width="600"></div>
+
+(188) Zhang, Z., Cai, R.\*, Yao, P., Merder, J., Sachs, J.P., Lønborg, C., Zhao, C., Yan, Z., Zhou, J., **He, D.**\* (2026). Uncovering the role of chemically dark dissolved organic matter across sediment–water interface along river-to-ocean continuum. Water Research, 126941.
+[(Link)](https://doi.org/10.1016/j.watres.2026.126941)
+<div align="center"><img src="/images/publication_img/188.jpg" width="600"></div>
+
+(187) Li, H., Feng, X., Liang, S., Man, J., Shao, W., Huang, S., Yan, Z., **He, D**, Zhang, Y.\* (2026). Small Suspended Particulate Organic Carbon from Kelp Farming: A Neglected Pathway for Microbially Persistent Carbon Retention. Environmental Science & Technology, 60, 24713–24724.
+[(Link)](https://doi.org/10.1021/acs.est.6c07832)
+<div align="center"><img src="/images/publication_img/187.jpg" width="600"></div>
+
+(186) Kang, S., Huang, L., Wang, H., Cui, Y., Gao, W., He, C., Shi, Q., Zhao, C., **He, D**, Wang, K.\* (2027). Machine learning reveals reservoir regulation of riverine sedimentary organic matter and its climatic implications. Water Research, 308, 126806.
+[(Link)](https://doi.org/10.1016/j.watres.2026.126806)
+<div align="center"><img src="/images/publication_img/186.jpg" width="600"></div>
+
+(185) Hu, Y., Chen, Q., Wang, X., Cai, Y., Su, G., Li, Y., He, C., Shi, Q., Zhang, Z., **He, D**, Lønborg, C., Jiao, N., Zheng, Q.\* (2026). Contrasting fates of detritus in mangrove sediments: Microbial trade‐offs between carbon storage and greenhouse gas emissions. Limnology and Oceanography, 71, e70468.
+[(Link)](https://doi.org/10.1002/lno.70468)
+<div align="center"><img src="/images/publication_img/185.jpg" width="600"></div>
+
+(184) Yang, J., Li, P., Wu, Y.\*, Li, J., Ye, F., Yi, Y., Lin, S., Zhang, L., Jiang, Z., Liu, S., Huang, X.\*, **He, D** (2026). Land-use-driven terrestrial inputs and fresh-seawater mixing jointly shape sediment organic nitrogen in the Pearl River Estuary. Science China Earth Sciences, 69, 3060–3075.
+[(Link)](https://doi.org/10.1007/s11430-025-1977-9)
+<div align="center"><img src="/images/publication_img/184.jpg" width="600"></div>
+
 (183) Cao, X.H., Zhang, Y.X. \*, Zhou, J.C., Chen, Y.L., **He, D**, Sun, K. \*, Chen, J. (2026). Contrasting responses of soil dissolved organic matter molecular characteristics to short- and long-term grazing exclusion in an alpine meadow. Soil and Tillage Research, 264, 107367.
 [(Link)](https://doi.org/10.1016/j.still.2026.107367)
 <div align="center"><img src="/images/publication_img/183.jpg" width="600"></div>
