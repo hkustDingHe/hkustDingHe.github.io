@@ -9,6 +9,15 @@ author_profile: true
 
 ### Published research articles (* corresponding author):
 ### 2026
+
+(194) Ryu, Y., Yan, Z., Yi, Y., Sachs, J.P., Chen, Z.L., Li, S.L., Xu, S., **He, D.**\* (2027). Radiocarbon and molecular constraints on the sources and fates of dissolved organic matter in the Bohai Sea. Water Research, 308, 127020.
+[(Link)](https://doi.org/10.1016/j.watres.2026.127020)
+<div align="center"><img src="/images/publication_img/194.jpg" width="600"></div>
+
+(193) Cai, R., Lechtenfeld, O.J., Tanentzap, A.J., Sachs, J.P., Kao, S., Osterholz, H., Yan, Z., Zhao, C., Yi, Y., Li, P., Zhang, C., Jiao, N., Koch, B.P., Herndl, G.J., **He, D.**\* (2026). Rapid microbial production of long-lived dissolved organic carbon in the global ocean. Proceedings of the National Academy of Sciences of the United States of America, 123(31), e2601044123.
+[(Link)](https://doi.org/10.1073/pnas.2601044123)
+<div align="center"><img src="/images/publication_img/193.jpg" width="600"></div>
+
 (192) Guo, Z.L., Hong, H.L., Zhang, G.L., Li, L., Cai, S.J., Chen, F., Guo, W.D., **He, D**, Xiang, Y.Y., Gonsior, M., Lin, D., Xiao, W.P., Jiao, N.Z.\*, Xiao, X.L.\* (2026). Halogenated dissolved organic matter regulates bacterial community composition and organic carbon transformation in aquatic ecosystems. Water Research, 127077.
 [(Link)](https://doi.org/10.1016/j.watres.2026.127077)
 <div align="center"><img src="/images/publication_img/192.jpg" width="600"></div>
